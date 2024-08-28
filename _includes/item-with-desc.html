@@ -40,8 +40,15 @@
         endif %}
         {% if post.image %}
         <div class="archive__item-gallery">
-            {% for image in post.image %}
-            <img src="{{ image }}" alt="">
+            {% for media in post.image %}
+            {% if media contains ".mp4" or media contains ".webm" or media contains ".ogg" %}
+            <video controls>
+                <source src="{{ media }}" type="video/{{ media | split: '.' | last }}">
+                Your browser does not support the video tag.
+            </video>
+            {% else %}
+            <img src="{{ media }}" alt="">
+            {% endif %}
             {% endfor %}
         </div>
         {% endif %}
