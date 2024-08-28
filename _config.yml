@@ -21,7 +21,7 @@ repository               : "Aiswarya-prasad/aiswarya-prasad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio-photo-2.png"
+  avatar           : "bio-photo-2.png"
   name             : "Aiswarya Prasad"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -250,7 +250,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       comments: true
   # _publications
