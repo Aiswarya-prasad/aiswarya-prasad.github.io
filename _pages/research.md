@@ -12,5 +12,5 @@ author_profile: true
 {% endif %}
 
 {% for post in site.research reversed %}
-  {% include gallery %}
+  {% include archive-single-talk.html %}
 {% endfor %}
