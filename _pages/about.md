@@ -9,7 +9,7 @@ redirect_from:
 
 # Motivation
 
-We live in an era where biotechnology is advancing so rapidly that methods once unimaginable a decade ago are now routine. This acceleration opens up vast opportunities for translating discoveries into novel therapies and sustainable solutions, particularly in emerging fields such as microbiome research. However, as the focus shifts toward practical applications, the deep thinking and nuanced understanding fostered by a fundamental research approach risk being undervalued. Leveraging my training in fundamental research, I am eager to bridge this gap by applying my knowledge to achieve tangible outcomes and make a meaningful impact.
+We live in an era where biotechnology is advancing so rapidly that methods once unimaginable a decade ago are now routine. This acceleration opens up vast opportunities for translating discoveries into novel therapies and sustainable solutions, particularly in emerging fields such as microbiome research. However, as the focus shifts toward practical applications, the deep thinking and nuanced understanding fostered by a fundamental research approach risk being undervalued. This comprehensive insight is valuable for recognizing and addressing core issues that may not be immediately apparent, especially in new and rapidly evolving fields. Leveraging my training in fundamental research, I am eager to bridge this gap by applying my knowledge to achieve tangible outcomes and meaningful impact.
 
 # My Journey
 
