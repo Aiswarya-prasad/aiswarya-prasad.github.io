@@ -150,49 +150,49 @@ atom_feed:
 #     tracking_id          :
 
 
-# # Reading Files
-# include:
-#   - .htaccess
-#   - _pages
-#   - files
-# exclude:
-#   - "*.sublime-project"
-#   - "*.sublime-workspace"
-#   - .asset-cache
-#   - .bundle
-#   - .github
-#   - .jekyll-assets-cache
-#   - .sass-cache
-#   - assets/js/_main.js
-#   - assets/js/plugins
-#   - assets/js/vendor
-#   - CHANGELOG
-#   - Capfile
-#   - config
-#   - Gemfile
-#   - Gruntfile.js
-#   - gulpfile.js
-#   - LICENSE
-#   - log
-#   - node_modules
-#   - package.json*
-#   - Rakefile
-#   - README
-#   - tmp
-#   - vendor
-# keep_files:
-#   - .git
-#   - .svn
-# encoding: "utf-8"
-# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .github
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - CHANGELOG
+  - Capfile
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json*
+  - Rakefile
+  - README
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# # Conversion
-# markdown: kramdown
-# highlighter: rouge
-# lsi: false
-# excerpt_separator: "\n\n"
-# incremental: false
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 
 # # Markdown Processing
