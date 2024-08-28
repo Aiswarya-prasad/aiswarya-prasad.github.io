@@ -12,7 +12,7 @@ redirect_from:
 
 # My Background
 
-As an undergraduate in Bangalore, India, I was captivated by the idea of bacteria as engineerable machines that can be harnessed to solve global problems. This interest motivated me to co-found the first iGEM team at our institute. It was a challenging and rewarding experience, involving countless hours of brainstorming and designing our genetically engineered system. We successfully secured funding and lab space, ultimately presenting our work at the iGEM competition in Boston. This effort laid the groundwork for future teams, who have since won gold medals and received special nominations.
+As an undergraduate in Bangalore, India, I was captivated by the idea of bacteria as engineerable machines that can be harnessed to solve global problems. This interest motivated me to co-found the first iGEM (international Genetically Engineered Machines) team at our institute. It was a challenging and rewarding experience, involving countless hours of brainstorming and designing our genetically engineered system. We successfully secured funding and lab space, ultimately presenting our work at the iGEM competition in Boston. This effort laid the groundwork for future teams, who have since won gold medals and received special nominations.
 
 My academic journey has continued to focus on bacteria in communities and their interactions within different environments, such as the human gut. For my MS thesis, I explored the human gut microbiome, establishing a cost-effective Nanopore sequencing system that facilitated collaboration with local doctors in India.
 
