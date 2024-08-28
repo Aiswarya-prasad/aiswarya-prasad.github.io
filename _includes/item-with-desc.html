@@ -34,7 +34,7 @@
         {% endif %}
         {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date:
             '%B %Y' }}</p>{% endif %}
-        {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},
+        {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }},
             {{post.location}}</p>{% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{%
         endif %}
@@ -49,6 +49,13 @@
             {% else %}
             <img src="{{ media }}" alt="">
             {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% if post.image %}
+        <div class="archive__item-gallery">
+            {% for media in post.image %}
+            <img src="{{ media }}" alt="">
             {% endfor %}
         </div>
         {% endif %}
