@@ -40,10 +40,10 @@
         endif %}
         {% if post.image %}
         <div class="archive__item-gallery">
-            <!-- for loop through images -->
             {% for image in post.image %}
             <img src="{{ image }}" alt="">
             {% endfor %}
         </div>
+        {% endif %}
     </article>
 </div>
