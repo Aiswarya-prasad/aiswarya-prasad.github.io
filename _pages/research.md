@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Projects"
 permalink: /research/
 author_profile: true
 ---
@@ -12,5 +12,5 @@ author_profile: true
 {% endif %}
 
 {% for post in site.research reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-research-item.html %}
 {% endfor %}

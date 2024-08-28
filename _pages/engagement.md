@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Engagement"
+title: ""
 permalink: /engagement/
 author_profile: true
 ---
