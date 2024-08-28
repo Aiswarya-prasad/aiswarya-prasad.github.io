@@ -1,9 +1,11 @@
 ---
 title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
+collection: research
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /research/example_info
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "San Francisco, California"
 ---
+
+Description of what it is
