@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Aiswarya Prasad"
-description              : &description "personal description"
+description              : &description "PhD candidate in Quantitave biology studying gut microbiome evolution and ecology"
 url                      : https://aiswarya-prasad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aiswarya-prasad/aiswarya-prasad.github.io"
