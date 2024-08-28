@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% for post in site.research reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
