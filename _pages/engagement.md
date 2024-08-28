@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 {% for post in site.engagement reversed %}
-  {% include archive-single-talk.html %}
+  {% include breadcrumbs.html %}
 {% endfor %}
