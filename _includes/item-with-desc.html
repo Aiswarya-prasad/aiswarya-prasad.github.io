@@ -36,21 +36,22 @@
         {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }}, {{ post.location }}</p>{% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description"> {{ post.excerpt | markdownify }}</p>{% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
-        {% if post.media %}
-        <div class="archive__item-media">
+        <div class="media-container" style="display: flex; align-items: flex-start;">
             {% for media in post.media %}
-            {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
-            <video controls style="width: {{ media.width | default: '300' }}px; height: {{ media.height | default: '200' }}px;">
-                <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
-                Your browser does not support the video tag.
-            </video>
-            {% else %}
-            <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}"
-                style="width: {{ media.width | default: '300' }}px; height: {{ media.height | default: '200' }}px;" />
-            {% endif %}
+            <div style="margin-right: 10px;">
+                {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
+                <video controls
+                    style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;">
+                    <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
+                    Your browser does not support the video tag.
+                </video>
+                {% else %}
+                <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}"
+                    style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;" />
+                {% endif %}
+            </div>
             {% endfor %}
         </div>
-        {% endif %}
     </article>
 </div>
 
