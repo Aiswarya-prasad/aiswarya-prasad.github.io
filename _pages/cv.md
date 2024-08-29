@@ -23,23 +23,23 @@ Research experience
 
 PhD candidate, University of Lausanne \\
 _AUG 2020 - PRESENT_ \\
-Ecology and evolution of the honeybee gut microbiome
+<space> Ecology and evolution of the honeybee gut microbiome
 
 Master thesis research, Indian Institute of Science, Bengaluru \\
 _MAY 2019 - MAY 2020_ \\
-Analysis of the human gut microbiome by Nanopore-based metagenomic sequencing
+<space> Analysis of the human gut microbiome by Nanopore-based metagenomic sequencing
 
 Undergraduate thesis research, Indian Institute of Science, Bengaluru \\
 _MAY 2019 - MAY 2020_ \\
-Metaproteomic analysis of gut microbiomes from fecal samples
+<space> Metaproteomic analysis of gut microbiomes from fecal samples
 
 Summer project student, Institute for Stem Cell Science and Regenerative Medicine, Bengaluru \\
 _MAY 2017 - JUL 2017_ \\
-Cloning and expression of native cockroach milk protein in yeast
+<space> Cloning and expression of native cockroach milk protein in yeast
   
 iGEM undergraduate research, Indian Institute of Science, Bengaluru \\
 _MAY 2016 - OCT 2016_ \\
-Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
+<space> Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
 
 Publications
 ======
