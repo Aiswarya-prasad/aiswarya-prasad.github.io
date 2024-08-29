@@ -13,7 +13,7 @@ media:
     thumbnail: "/images/AP_Profile_picture.jpg"
     alt: "Apis Profile Picture"
     focal_point: Smart
-    width: 250
+    width: 350
     height: 300
   - path: "/files/BeeFeeding-NoText.mp4"
     thumbnail: /assets/images/igem_project.jpg
