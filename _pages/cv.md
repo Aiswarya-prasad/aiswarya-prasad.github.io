@@ -78,7 +78,7 @@ Invited Talks
 The Local Pangenome \\
 _OCT 2023_ \\
 Alicante, Spain \\
-Variation and specialization of structure and function of gut microbial community across host species \\
+&emsp <space> Variation and specialization of structure and function of gut microbial community across host species \\
 
 Academic Seminar Series \\
 _APR 2023_ \\
@@ -88,17 +88,17 @@ Evolutionary and functional insight into gut microbial community persity across 
 Conferences
 ======
 
-* Gordon Research Conference and Seminar (Animal Microbe Symbiosis) \\
+Gordon Research Conference and Seminar (Animal Microbe Symbiosis) \\
 _JUN 2023_ \\
 Lucca, Italy \\
 Poster: Evolutionary and functional insight into gut microbial community persity across honeybee species using metagenomics
 
-* CSHL Meeting: Microbiome \\
+CSHL Meeting: Microbiome \\
 _OCT 2023_ \\
 Cold Spring Harbor Laboratories, USA \\
 Poster: Whole-genome shotgun metagenomics reveals differences in gut microbiomes among honeybee species
 
-* SymbNET PhD Summer School on Host-Microbe Symbiosis \\
+SymbNET PhD Summer School on Host-Microbe Symbiosis \\
 _JUL 2022_ \\
 Instituto Gulbenkian de Ciência, Lisbon \\
 Poster: Understanding the evolution of the gut microbiome across honeybee species
