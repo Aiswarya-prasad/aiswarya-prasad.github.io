@@ -41,17 +41,14 @@
         {% if post.image %}
         <div class="archive__item-gallery">
             {% for media in post.image %}
-            {% if media contains ".mp4" or media contains ".webm" or media contains ".ogg" %}
-            <div class="archive__item-video">
-                <video controls>
-                    <source src="{{ media }}" type="video/{{ media | split: '.' | last }}">
-                    Your browser does not support the video tag.
-                </video>
-            </div>
+            <!-- handle img and video but make sure the alignment is right according to gallery-->
+            {% if media.type == "img" %}
+            <img src="{{ media.url }}" alt="{{ media.alt }}" />
             {% else %}
-            <div class="archive__item-image">
-                <img src="{{ media }}" alt="">
-            </div>
+            <video controls>
+                <source src="{{ media.url }}" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
             {% endif %}
             {% endfor %}
         </div>
