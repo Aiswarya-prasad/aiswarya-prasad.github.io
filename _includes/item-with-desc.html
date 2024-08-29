@@ -41,15 +41,14 @@
         {% if post.image %}
         <div class="archive__item-gallery">
             {% for media in post.image %}
-            <!-- handle img and video but make sure the alignment is right according to gallery-->
+            <!-- handle img and video -->
             {% if media.type == "img" %}
-            <img src="{{ media.url }}" alt="{{ media.alt }}" />
-            {% else %}
+            <img src="{{ media.path }}" alt="{{ media.alt }}" />
+            {% elsif media.type == "video" %}
             <video controls>
-                <source src="{{ media.url }}" type="video/mp4">
+                <source src="{{ media.path }}" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
-            {% endif %}
             {% endfor %}
         </div>
         {% endif %}

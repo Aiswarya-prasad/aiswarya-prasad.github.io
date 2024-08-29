@@ -9,9 +9,14 @@ location: "Lausanne, Switzerland"
 start_date: 2012-03-01
 end_date: 2012-03-01
 image:
-  - "/images/AP_Profile_picture.jpg"
-  - "/files/BeeFeeding-NoText.mp4"
-  - "/images/AP_Profile_picture.jpg"
+  - path: "/images/AP_Profile_picture.jpg"
+    thumbnail: "/images/AP_Profile_picture.jpg"
+    alt: "Apis Profile Picture"
+    focal_point: Smart
+  - path: "/files/BeeFeeding-NoText.mp4"
+    thumbnail: /assets/images/igem_project.jpg
+    alt: "Video of bees feeding"
+    focal_point: Smart
 ---
 
 Describe the Apis species comparison project
