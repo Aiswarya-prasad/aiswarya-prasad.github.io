@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Quantitative Biology, University of Lausanne | 2020 -- 2025 (expected)
-* M.S. in Biology, Indian Institute of Science, Bangalore | 2019 -- 2020
-* B.S. (research) in Biology, Indian Institute of Science, Bangalore | 2015 -- 2019
+Ph.D in Quantitative Biology, University of Lausanne | 2020 -- 2025 (expected)
+M.S. in Biology, Indian Institute of Science, Bangalore | 2019 -- 2020
+B.S. (research) in Biology, Indian Institute of Science, Bangalore | 2015 -- 2019
 
 Research experience
 ======
@@ -105,5 +105,19 @@ Workshop Evaluation Committee | January 2023
   * Workshop and tutorial selection for the BC2 (Basel Computational biology Conference)
 Local volunteer | August 2022
   * ISME-18 (International Society of Microbial Ecology) conference
+Organizing committee | September 2023
+  * Annual DMF department Science Retreat
+DMF Faculty Hiring Committee | May 2023
+  * Postdoc/PhD representative group
 
+Outreach and Extracurricular activities
+======
 
+Open Science Meeting | November 2023
+  National center for competence in Research (NCCR) Microbiomes, Switzerland
+Decolonizing North-South Research Collaboration | August 2022
+  Centre for Development and Environment, University of Bern
+Moderator – Health and Data Privacy Committee  | July 2020
+  iGEM India BioSummit (Online)
+Delegate at United Nations Convention on Biological Diversity | November 2018
+  Sharm El-Sheikh, Egypt
