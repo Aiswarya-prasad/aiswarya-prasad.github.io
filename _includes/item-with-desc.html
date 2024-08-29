@@ -42,12 +42,12 @@
         <div class="archive__item-gallery">
             {% for media in post.image %}
             {% if media contains ".mp4" or media contains ".webm" or media contains ".ogg" %}
-            <video controls>
+            <video controls width="320" height="240">
                 <source src="{{ media }}" type="video/{{ media | split: '.' | last }}">
                 Your browser does not support the video tag.
             </video>
             {% else %}
-            <img src="{{ media }}" alt="">
+            <img src="{{ media }}" alt="" width="320" height="240">
             {% endif %}
             {% endfor %}
         </div>
@@ -55,7 +55,7 @@
         {% if post.image %}
         <div class="archive__item-gallery">
             {% for media in post.image %}
-            <img src="{{ media }}" alt="">
+            <img src="{{ media }}" alt="" width="320" height="240">
             {% endfor %}
         </div>
         {% endif %}
