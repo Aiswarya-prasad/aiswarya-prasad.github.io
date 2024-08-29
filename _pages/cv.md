@@ -25,16 +25,20 @@ PhD candidate, University of Lausanne \\
 _AUG 2020 - PRESENT_ \\
 Ecology and evolution of the honeybee gut microbiome
 
-Master thesis research, Indian Institute of Science, Bengaluru \\  _MAY 2019 - MAY 2020_ \\
+Master thesis research, Indian Institute of Science, Bengaluru \\
+_MAY 2019 - MAY 2020_ \\
 Analysis of the human gut microbiome by Nanopore-based metagenomic sequencing
 
-Undergraduate thesis research, Indian Institute of Science, Bengaluru \\  _MAY 2019 - MAY 2020_ \\
+Undergraduate thesis research, Indian Institute of Science, Bengaluru \\
+_MAY 2019 - MAY 2020_ \\
 Metaproteomic analysis of gut microbiomes from fecal samples
 
-Summer project student, Institute for Stem Cell Science and Regenerative Medicine, Bengaluru \\  _MAY 2017 - JUL 2017_ \\
+Summer project student, Institute for Stem Cell Science and Regenerative Medicine, Bengaluru \\
+_MAY 2017 - JUL 2017_ \\
 Cloning and expression of native cockroach milk protein in yeast
   
-iGEM undergraduate research, Indian Institute of Science, Bengaluru \\  _MAY 2016 - OCT 2016_ \\
+iGEM undergraduate research, Indian Institute of Science, Bengaluru \\
+_MAY 2016 - OCT 2016_ \\
 Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
 
 Publications
@@ -76,7 +80,8 @@ _OCT 2023_ \\
 Alicante, Spain \\
 Variation and specialization of structure and function of gut microbial community across host species \\
 
-Academic Seminar Series \\  _APR 2023_ \\
+Academic Seminar Series \\
+_APR 2023_ \\
 School of Science, Monash University Malaysia \\
 Evolutionary and functional insight into gut microbial community persity across honeybee species
 
