@@ -44,14 +44,14 @@
             <!-- handle img and video -->
             {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
             <div class="media-item">
-                <video controls width="320" height="240">
+                <video controls>
                     <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
                     Your browser does not support the video tag.
                 </video>
             </div>
             {% else %}
             <div class="media-item">
-                <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}" width="320" height="240" />
+                <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}" />
             </div>
             {% endif %}
             {% endfor %}
