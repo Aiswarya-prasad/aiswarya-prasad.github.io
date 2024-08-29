@@ -36,13 +36,6 @@
         {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }}, {{ post.location }}</p>{% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description"> {{ post.excerpt | markdownify }}</p>{% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
-        {% if post.gallery %}
-        <div class="archive__item-gallery">
-            {% for image in post.gallery %}
-            <img src="{{ image.path | prepend: base_path }}" alt="{{ image.alt }}">
-            {% endfor %}
-        </div>
-        {% endif %}
         {% if post.media %}
         <div class="archive__item-media">
             {% for media in post.media %}
