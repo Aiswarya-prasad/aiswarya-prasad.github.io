@@ -44,9 +44,9 @@ Publications
 
 1. **Prasad, A.**, Pallujam, AD., Siddaganga, R., Suryanarayanan, A., Mazel, F., Brockmann, A., Yek SH., Engel, P.. (2024) Evolution of the honeybee gut microbiome (In preparation)
 
-2. Baud, G. L., **Prasad, A.**, Ellegaard, K. M., & Engel, P. (2023). Turnover of strain-level diversity modulates functional traits in the honeybee gut microbiome between nurses and foragers. Genome Biology, 24(1), 283.
+2. Baud, G. L., **Prasad, A.**, Ellegaard, K. M., & Engel, P. (2023). Turnover of strain-level persity modulates functional traits in the honeybee gut microbiome between nurses and foragers. Genome Biology, 24(1), 283.
 
-3. Sarton-Lohéac, G., Nunes da Silva, C. G., Mazel, F., Baud, G., de Bakker, V., Das, S., El Chazli, Y., Ellegaard, K., Carcia-Carcera, M., Glover, N., Liberti, J., Nacif Marçal, L., **Prasad, A.**, Sommerville, V., SAGE class 2019-2020 and 2020-2021, Bonilla-Rosso, G., & Engel, P. (2023). Deep divergence and genomic diversification of gut symbionts of neotropical stingless bees. Mbio, 14(2), e03538-22.
+3. Sarton-Lohéac, G., Nunes da Silva, C. G., Mazel, F., Baud, G., de Bakker, V., Das, S., El Chazli, Y., Ellegaard, K., Carcia-Carcera, M., Glover, N., Liberti, J., Nacif Marçal, L., **Prasad, A.**, Sommerville, V., SAGE class 2019-2020 and 2020-2021, Bonilla-Rosso, G., & Engel, P. (2023). Deep pergence and genomic persification of gut symbionts of neotropical stingless bees. Mbio, 14(2), e03538-22.
 
 4. Beal, J., Haddock-Angelli, T., Baldwin, G., Gershater, M., Dwijayanti, A., Storch, M., ... & with the **iGEM Interlab Study Contributors**. (2018). Quantification of bacterial fluorescence using independent calibrants. PloS one, 13(6), e0199432.
 
@@ -73,14 +73,14 @@ Alicante, Spain \\
   Variation and specialization of structure and function of gut microbial community across host species \\
 Academic Seminar Series  _April 2023_ \\
 School of Science, Monash University Malaysia \\
-  Evolutionary and functional insight into gut microbial community diversity across honeybee species
+  Evolutionary and functional insight into gut microbial community persity across honeybee species
 
 Conferences
 ======
 
 * Gordon Research Conference and Seminar (Animal Microbe Symbiosis) _June 2023_ \\
   * Lucca, Italy
-  * Poster: Evolutionary and functional insight into gut microbial community diversity across honeybee species using metagenomics
+  * Poster: Evolutionary and functional insight into gut microbial community persity across honeybee species using metagenomics
 
 * CSHL Meeting: Microbiome  _October 2023_ \\
   * Cold Spring Harbor Laboratories, USA
@@ -92,37 +92,37 @@ Conferences
 
 Teaching
 ======
-Teaching Assistant – SAGE (Sequence A GEnome) course <div style="text-align: right"> _2021, 2022, 2023, 2024_ </div> \\
+Teaching Assistant – SAGE (Sequence A GEnome) course <p style="text-align: right"> _2021, 2022, 2023, 2024_ </p> \\
 Masters-level course teaching bioinformatics through research
 
 Professional service
 ======
-* Peer review of journal publications <div style="text-align: right"> _2023 – Present_ </div> \\
+* Peer review of journal publications <p style="text-align: right"> _2023 – Present_ </p> \\
 Ecological monographs (1) and Insect Molecular Biology (1)
 
-* Workshop Evaluation Committee <div style="text-align: right"> _JAN 2023_ </div> \\
+* Workshop Evaluation Committee <p style="text-align: right"> _JAN 2023_ </p> \\
 Workshop and tutorial selection for the BC2 (Basel Computational biology Conference)
 
-* Local volunteer <div style="text-align: right"> _AUG 2022_ </div> \\
+* Local volunteer <p style="text-align: right"> _AUG 2022_ </p> \\
   * ISME-18 (International Society of Microbial Ecology) conference
 
-* Organizing committee <div style="text-align: right"> _SEP 2023_ </div> \\
+* Organizing committee <p style="text-align: right"> _SEP 2023_ </p> \\
   * Annual DMF department Science Retreat
 
-* DMF Faculty Hiring Committee  <div style="text-align: right"> _MAY 2023_ </div> \\
+* DMF Faculty Hiring Committee  <p style="text-align: right"> _MAY 2023_ </p> \\
   * Postdoc/PhD representative group
 
 Outreach and Extracurricular activities
 ======
 
-* Open Science Meeting <div style="text-align: right"> _NOV 2023_ </div> \\
+* Open Science Meeting <p style="text-align: right"> _NOV 2023_ </p> \\
 National center for competence in Research (NCCR) Microbiomes, Switzerland
 
-* Decolonizing North-South Research Collaboration <div style="text-align: right"> _AUG 2022_ </div> \\
+* Decolonizing North-South Research Collaboration <p style="text-align: right"> _AUG 2022_ </p> \\
 Centre for Development and Environment, University of Bern
 
-* Moderator – Health and Data Privacy Committee <div style="text-align: right">  _JUL 2020_ </div> \\
+* Moderator – Health and Data Privacy Committee <p style="text-align: right">  _JUL 2020_ </p> \\
 iGEM India BioSummit (Online)
 
-* Delegate at United Nations Convention on Biological Diversity  <div style="text-align: right"> _NOV 2018_ </div> \\
+* Delegate at United Nations Convention on Biological persity  <p style="text-align: right"> _NOV 2018_ </p> \\
 Sharm El-Sheikh, Egypt
