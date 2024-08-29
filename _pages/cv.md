@@ -115,14 +115,14 @@ Professional service
 Outreach and Extracurricular activities
 ======
 
-* Open Science Meeting  _November 2023_ \\
-  * National center for competence in Research (NCCR) Microbiomes, Switzerland
+* Open Science Meeting <div style="text-align: right"> _NOV 2023_ </div> \\
+National center for competence in Research (NCCR) Microbiomes, Switzerland
 
-* Decolonizing North-South Research Collaboration  _August 2022_ \\
-  * Centre for Development and Environment, University of Bern
+* Decolonizing North-South Research Collaboration <div style="text-align: right"> _AUG 2022_ </div> \\
+Centre for Development and Environment, University of Bern
 
-* Moderator – Health and Data Privacy Committee   _July 2020_ \\
-  * iGEM India BioSummit (Online)
+* Moderator – Health and Data Privacy Committee <div style="text-align: right">  _JUL 2020_ </div> \\
+iGEM India BioSummit (Online)
 
-* Delegate at United Nations Convention on Biological Diversity  _November 2018_ \\
-  * Sharm El-Sheikh, Egypt
+* Delegate at United Nations Convention on Biological Diversity  <div style="text-align: right"> _NOV 2018_ </div> \\
+Sharm El-Sheikh, Egypt
