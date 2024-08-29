@@ -51,8 +51,6 @@
             {% endif %}
             {% endfor %}
         </div>
-        {% endif %}
-        {% if post.image %}
         <div class="archive__item-gallery">
             {% for media in post.image %}
             <img src="{{ media }}" alt="" width="320" height="240">
