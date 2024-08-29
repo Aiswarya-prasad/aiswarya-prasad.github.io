@@ -40,13 +40,13 @@
         <div class="archive__item-media">
             {% for media in post.media %}
             {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
-            <video controls data-width="{{ media.width | default: '300' }}" data-height="{{ media.height | default: '200' }}">
+            <video controls style="width: {{ media.width | default: '300' }}px; height: {{ media.height | default: '200' }}px;">
                 <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
                 Your browser does not support the video tag.
             </video>
             {% else %}
             <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}"
-                data-width="{{ media.width | default: '300' }}" data-height="{{ media.height | default: '200' }}" />
+                style="width: {{ media.width | default: '300' }}px; height: {{ media.height | default: '200' }}px;" />
             {% endif %}
             {% endfor %}
         </div>
