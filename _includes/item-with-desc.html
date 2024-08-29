@@ -39,24 +39,18 @@
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
         {% if post.image %}
-        <div class="archive__item-image">
-            <img src="{{ post.image | prepend: base_path }}" alt="{{ post.title }}" />
-        </div>
-        {% endif %}
-        {% if post.video %}
-        <div class="archive__item-video">
+        <!-- image can be an image or a video too make sure they are all correctly aligned regardless of size -->
+        <!-- handle both cases -->
+        <div class="media-item">
+            {% if post.image.path contains ".mp4" or post.image.path contains ".webm" or post.image.path contains ".ogg" %}
             <video controls>
-                <source src="{{ post.video | prepend: base_path }}" type="video/{{ post.video | split: '.' | last }}">
+                <source src="{{ post.image.path | prepend: base_path }}" type="video/{{ post.image.path | split: '.' |
+                    last }}">
                 Your browser does not support the video tag.
             </video>
-        </div>
-        {% endif %}
-        {% if post.audio %}
-        <div class="archive__item-audio">
-            <audio controls>
-                <source src="{{ post.audio | prepend: base_path }}" type="audio/{{ post.audio | split: '.' | last }}">
-                Your browser does not support the audio tag.
-            </audio>
+            {% else %}
+            <img src="{{ post.image.path | prepend: base_path }}" alt="{{ post.image.alt }}" />
+            {% endif %}
         </div>
         {% endif %}
     </article>
