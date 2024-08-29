@@ -8,7 +8,7 @@ venue: "UNIL, xyz, Department of Testing"
 location: "Lausanne, Switzerland"
 start_date: 2012-03-01
 end_date: 2012-03-01
-image:
+media:
   - path: "/images/AP_Profile_picture.jpg"
     thumbnail: "/images/AP_Profile_picture.jpg"
     alt: "Apis Profile Picture"

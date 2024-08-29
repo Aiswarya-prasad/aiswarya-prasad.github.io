@@ -36,20 +36,27 @@
         {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }}, {{ post.location }}</p>{% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description"> {{ post.excerpt | markdownify }}</p>{% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
-        {% if post.image %}
-        <!-- image can be an image or a video too make sure they are all correctly aligned regardless of size -->
-        <!-- handle both cases -->
+        {% if post.gallery %}
         <div class="archive__item-gallery">
-            {% if post.image.path contains ".mp4" or post.image.path contains ".webm" or post.image.path contains ".ogg" %}
+            {% for image in post.gallery %}
+            <img src="{{ image.path | prepend: base_path }}" alt="{{ image.alt }}">
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% if post.media %}
+        <div class="archive__item-media">
+            {% for media in post.media %}
+            {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
             <video controls>
-                <source src="{{ post.image.path | prepend: base_path }}" type="video/{{ post.image.path | split: '.' |
-                    last }}">
+                <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
                 Your browser does not support the video tag.
             </video>
             {% else %}
-            <img src="{{ post.image.path | prepend: base_path }}" alt="{{ post.image.alt }}" />
+            <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}" />
             {% endif %}
+            {% endfor %}
         </div>
+        {% endif %}
         {% endif %}
     </article>
 </div>
