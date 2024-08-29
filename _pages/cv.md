@@ -22,23 +22,23 @@ Research experience
 ======
 
 PhD candidate, University of Lausanne \\
-_AUG 2020 - PRESENT_ \\
+_Aug 2020 - PRESENT_ \\
 Ecology and evolution of the honeybee gut microbiome
 
 Master thesis research, Indian Institute of Science, Bengaluru \\
-_MAY 2019 - MAY 2020_ \\
+_May 2019 - May 2020_ \\
 Analysis of the human gut microbiome by Nanopore-based metagenomic sequencing
 
 Undergraduate thesis research, Indian Institute of Science, Bengaluru \\
-_MAY 2019 - MAY 2020_ \\
+_May 2019 - May 2020_ \\
 Metaproteomic analysis of gut microbiomes from fecal samples
 
 Summer project student, Institute for Stem Cell Science and Regenerative Medicine, Bengaluru \\
-_MAY 2017 - JUL 2017_ \\
+_May 2017 - Jul 2017_ \\
 Cloning and expression of native cockroach milk protein in yeast
   
 iGEM undergraduate research, Indian Institute of Science, Bengaluru \\
-_MAY 2016 - OCT 2016_ \\
+_May 2016 - Oct 2016_ \\
 Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
 
 
@@ -78,12 +78,12 @@ Invited Talks
 ======
 
 The Local Pangenome \\
-_OCT 2023_ \\
+_Oct 2023_ \\
 Alicante, Spain \\
 Variation and specialization of structure and function of gut microbial community across host species \\
 
 Academic Seminar Series \\
-_APR 2023_ \\
+_Apr 2023_ \\
 School of Science, Monash University Malaysia \\
 Evolutionary and functional insight into gut microbial community persity across honeybee species
 
@@ -91,17 +91,17 @@ Conferences
 ======
 
 Gordon Research Conference and Seminar (Animal Microbe Symbiosis) \\
-_JUN 2023_ \\
+_Jun 2023_ \\
 Lucca, Italy \\
 Poster: Evolutionary and functional insight into gut microbial community persity across honeybee species using metagenomics
 
 CSHL Meeting: Microbiome \\
-_OCT 2023_ \\
+_Oct 2023_ \\
 Cold Spring Harbor Laboratories, USA \\
 Poster: Whole-genome shotgun metagenomics reveals differences in gut microbiomes among honeybee species
 
 SymbNET PhD Summer School on Host-Microbe Symbiosis \\
-_JUL 2022_ \\
+_Jul 2022_ \\
 Instituto Gulbenkian de Ciência, Lisbon \\
 Poster: Understanding the evolution of the gut microbiome across honeybee species
 
@@ -120,19 +120,19 @@ _2023 – Present_ \\
 Ecological monographs (1) and Insect Molecular Biology (1)
 
 Workshop Evaluation Committee \\
-_JAN 2023_ \\
+_Jan 2023_ \\
 Workshop and tutorial selection for the BC2 (Basel Computational biology Conference)
 
 Local volunteer \\
-_AUG 2022_ \\
+_Aug 2022_ \\
 ISME-18 (International Society of Microbial Ecology) conference
 
 Organizing committee \\
-_SEP 2023_ \\
+_Sep 2023_ \\
 Annual DMF department Science Retreat
 
 DMF Faculty Hiring Committee  \\
-_MAY 2023_ \\
+_May 2023_ \\
 Postdoc/PhD representative group
 
 Extracurricular activities
