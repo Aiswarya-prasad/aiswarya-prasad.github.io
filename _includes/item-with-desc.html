@@ -42,22 +42,39 @@
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
         {% if post.image %}
         <div class="archive__item-gallery">
+            <!-- align them evenly as gallery -->
             {% for media in post.image %}
-            <!-- handle img and video -->
-            {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
-            <div class="media-item">
+            {% if media.type == "image" %}
+            <a href="{{ media.url | prepend: base_path }}" class="archive__item-gallery-image">
+                <img src="{{ media.url | prepend: base_path }}" alt="{{ media.alt }}">
+            </a>
+            {% endif %}
+            {% if media.type == "video" %}
+            <a href="{{ media.url | prepend: base_path }}" class="archive__item-gallery-image">
                 <video controls>
-                    <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
+                    <source src="{{ media.url | prepend: base_path }}" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-            </div>
-            {% else %}
-            <div class="media-item">
-                <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}" />
-            </div>
+            </a>
             {% endif %}
             {% endfor %}
         </div>
         {% endif %}
     </article>
 </div>
+
+
+
+<!-- handle img and video -->
+<!-- {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
+<div class="media-item">
+    <video controls>
+        <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
+        Your browser does not support the video tag.
+    </video>
+</div>
+{% else %}
+<div class="media-item">
+    <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}" />
+</div>
+{% endif %} -->
