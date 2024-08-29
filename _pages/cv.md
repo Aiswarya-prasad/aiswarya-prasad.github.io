@@ -23,23 +23,24 @@ Research experience
 
 PhD candidate, University of Lausanne \\
 _AUG 2020 - PRESENT_ \\
-<space> Ecology and evolution of the honeybee gut microbiome
+Ecology and evolution of the honeybee gut microbiome
 
 Master thesis research, Indian Institute of Science, Bengaluru \\
 _MAY 2019 - MAY 2020_ \\
-<space> Analysis of the human gut microbiome by Nanopore-based metagenomic sequencing
+Analysis of the human gut microbiome by Nanopore-based metagenomic sequencing
 
 Undergraduate thesis research, Indian Institute of Science, Bengaluru \\
 _MAY 2019 - MAY 2020_ \\
-<space> Metaproteomic analysis of gut microbiomes from fecal samples
+Metaproteomic analysis of gut microbiomes from fecal samples
 
 Summer project student, Institute for Stem Cell Science and Regenerative Medicine, Bengaluru \\
 _MAY 2017 - JUL 2017_ \\
-<space> Cloning and expression of native cockroach milk protein in yeast
+Cloning and expression of native cockroach milk protein in yeast
   
 iGEM undergraduate research, Indian Institute of Science, Bengaluru \\
 _MAY 2016 - OCT 2016_ \\
-<space> Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
+Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
+
 
 Publications
 ======
@@ -52,25 +53,26 @@ Publications
 
 4. Beal, J., Haddock-Angelli, T., Baldwin, G., Gershater, M., Dwijayanti, A., Storch, M., ... & with the **iGEM Interlab Study Contributors**. (2018). Quantification of bacterial fluorescence using independent calibrants. PloS one, 13(6), e0199432.
 
+
 Fellowships and Awards
 ======
 
 Faculty of Biology and Medicine (FBM) PhD Fellowship \\
 _2020 - 2023_ \\
-<space> International PhD fellowship award granted by the Faculty of Biology and Medicine (FBM), University of Lausanne
+International PhD fellowship award granted by the Faculty of Biology and Medicine (FBM), University of Lausanne
 
 Mathilde Agassiz scholarship \\
 _2020 - 2021_ \\
-<space> Scholarship of CHF 70k awarded to one chosen candidate recommended by the FBM.
+Scholarship of CHF 70k awarded to one chosen candidate recommended by the FBM.
 
 KVPY Fellowship \\
 _2015 - 2020_ \\
-<space> Stipend and contingency to fund BSc and MS awarded by the Indian government (All-India Rank: 335)
+Stipend and contingency to fund BSc and MS awarded by the Indian government (All-India Rank: 335)
 
 Bronze Medal (IISc iGEM team) \\
 _2016_ \\
 iGEM Competition, Boston, USA \\
-<space> Co-founded the first team from the institute and was awarded a bronze medal at the synthetic biology competition, iGEM, for developing novel genetically engineered organisms to solve global and local challenges. Secured 3 grants for research and travel from the Wellcome Trust Indian Alliance, the Govt. of India, DBT and the State government of Karnataka.
+Co-founded the first team from the institute and was awarded a bronze medal at the synthetic biology competition, iGEM, for developing novel genetically engineered organisms to solve global and local challenges. Secured 3 grants for research and travel from the Wellcome Trust Indian Alliance, the Govt. of India, DBT and the State government of Karnataka.
   
 Invited Talks
 ======
@@ -78,12 +80,12 @@ Invited Talks
 The Local Pangenome \\
 _OCT 2023_ \\
 Alicante, Spain \\
-<space> Variation and specialization of structure and function of gut microbial community across host species \\
+Variation and specialization of structure and function of gut microbial community across host species \\
 
 Academic Seminar Series \\
 _APR 2023_ \\
 School of Science, Monash University Malaysia \\
-<space> Evolutionary and functional insight into gut microbial community persity across honeybee species
+Evolutionary and functional insight into gut microbial community persity across honeybee species
 
 Conferences
 ======
@@ -91,47 +93,47 @@ Conferences
 Gordon Research Conference and Seminar (Animal Microbe Symbiosis) \\
 _JUN 2023_ \\
 Lucca, Italy \\
-<space> Poster: Evolutionary and functional insight into gut microbial community persity across honeybee species using metagenomics
+Poster: Evolutionary and functional insight into gut microbial community persity across honeybee species using metagenomics
 
 CSHL Meeting: Microbiome \\
 _OCT 2023_ \\
 Cold Spring Harbor Laboratories, USA \\
-<space> Poster: Whole-genome shotgun metagenomics reveals differences in gut microbiomes among honeybee species
+Poster: Whole-genome shotgun metagenomics reveals differences in gut microbiomes among honeybee species
 
 SymbNET PhD Summer School on Host-Microbe Symbiosis \\
 _JUL 2022_ \\
 Instituto Gulbenkian de Ciência, Lisbon \\
-<space> Poster: Understanding the evolution of the gut microbiome across honeybee species
+Poster: Understanding the evolution of the gut microbiome across honeybee species
 
 Teaching
 ======
 
 Teaching Assistant – SAGE (Sequence A GEnome) course \\
 _2021, 2022, 2023, 2024_ \\
-<space> Masters-level course teaching bioinformatics through research
+Masters-level course teaching bioinformatics through research
 
 Professional service
 ======
 
 Peer review of journal publications \\
 _2023 – Present_ \\
-<space> Ecological monographs (1) and Insect Molecular Biology (1)
+Ecological monographs (1) and Insect Molecular Biology (1)
 
 Workshop Evaluation Committee \\
 _JAN 2023_ \\
-<space> Workshop and tutorial selection for the BC2 (Basel Computational biology Conference)
+Workshop and tutorial selection for the BC2 (Basel Computational biology Conference)
 
 Local volunteer \\
 _AUG 2022_ \\
-<space> ISME-18 (International Society of Microbial Ecology) conference
+ISME-18 (International Society of Microbial Ecology) conference
 
 Organizing committee \\
 _SEP 2023_ \\
-<space> Annual DMF department Science Retreat
+Annual DMF department Science Retreat
 
 DMF Faculty Hiring Committee  \\
 _MAY 2023_ \\
-<space> Postdoc/PhD representative group
+Postdoc/PhD representative group
 
 Extracurricular activities
 ======
