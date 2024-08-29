@@ -12,11 +12,18 @@ redirect_from:
 Education
 ======
 
-| Degree                       | Institution                            | Duration                |
+<!-- | Degree                       | Institution                            | Duration                |
 | ---------------------------- | -------------------------------------- | ----------------------- |
 | Ph.D in Quantitative Biology | University of Lausanne                 | 2020 -- 2025 (expected) |
 | M.S. in Biology              | Indian Institute of Science, Bangalore | 2019 -- 2020            |
-| B.S. (research) in Biology   | Indian Institute of Science, Bangalore | 2015 -- 2019            |
+| B.S. (research) in Biology   | Indian Institute of Science, Bangalore | 2015 -- 2019            | -->
+
+Ph.D in Quantitative Biology \\
+University of Lausanne, _2020 -- 2025 (expected)_ \\
+M.S. in Biology \\
+Indian Institute of Science, Bangalore _2019 -- 2020_ \\
+B.S. (research) in Biology \\
+Indian Institute of Science, Bangalore _2015 -- 2019_ \\
 
 Research experience
 ======
