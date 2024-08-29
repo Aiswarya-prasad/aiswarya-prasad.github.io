@@ -29,7 +29,7 @@ Research experience
 ======
 
 PhD candidate, University of Lausanne \\
-_Aug 2020 - PRESENT_ \\
+_Aug 2020 - Present_ \\
 Ecology and evolution of the honeybee gut microbiome
 
 Master thesis research, Indian Institute of Science, Bengaluru \\
