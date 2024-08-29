@@ -19,7 +19,9 @@ Education
 | B.S. (research) in Biology   | Indian Institute of Science, Bangalore | 2015 -- 2019            | -->
 
 Ph.D in Quantitative Biology, University of Lausanne, _2020 -- 2025 (expected)_ \\
+
 M.S. in Biology, Indian Institute of Science, Bangalore _2019 -- 2020_ \\
+
 B.S. (research) in Biology, Indian Institute of Science, Bangalore _2015 -- 2019_
 
 Research experience
@@ -116,7 +118,7 @@ Teaching Assistant – SAGE (Sequence A GEnome) course \\
 _2021, 2022, 2023, 2024_ \\
 Masters-level course teaching bioinformatics through research
 
-Professional service
+Professional activities
 ======
 
 Peer review of journal publications \\
