@@ -92,24 +92,24 @@ Conferences
 
 Teaching
 ======
-Teaching Assistant – SAGE (Sequence A GEnome) course  _2021, 2022, 2023, 2024_ \\
-  Masters-level course teaching bioinformatics through research
+Teaching Assistant – SAGE (Sequence A GEnome) course <div style="text-align: right"> _2021, 2022, 2023, 2024_ </div> \\
+Masters-level course teaching bioinformatics through research
 
 Professional service
 ======
-* Peer review of journal publications  _2023 – Present_ \\
-  * Ecological monographs (1) and Insect Molecular Biology (1)
+* Peer review of journal publications <div style="text-align: right"> _2023 – Present_ </div> \\
+Ecological monographs (1) and Insect Molecular Biology (1)
 
-* Workshop Evaluation Committee  _January 2023_ \\
-  * Workshop and tutorial selection for the BC2 (Basel Computational biology Conference)
+* Workshop Evaluation Committee <div style="text-align: right"> _JAN 2023_ </div> \\
+Workshop and tutorial selection for the BC2 (Basel Computational biology Conference)
 
-* Local volunteer  _August 2022_ \\
+* Local volunteer <div style="text-align: right"> _AUG 2022_ </div> \\
   * ISME-18 (International Society of Microbial Ecology) conference
 
-* Organizing committee  _September 2023_ \\
+* Organizing committee <div style="text-align: right"> _SEP 2023_ </div> \\
   * Annual DMF department Science Retreat
 
-* DMF Faculty Hiring Committee  _May 2023_ \\
+* DMF Faculty Hiring Committee  <div style="text-align: right"> _MAY 2023_ </div> \\
   * Postdoc/PhD representative group
 
 Outreach and Extracurricular activities
