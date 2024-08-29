@@ -17,6 +17,15 @@ media:
     thumbnail: /assets/images/igem_project.jpg
     alt: "Video of bees feeding"
     focal_point: Smart
+gallery:
+  - path: "/images/AP_Profile_picture.jpg"
+    thumbnail: "/images/AP_Profile_picture.jpg"
+    alt: "Apis Profile Picture"
+    focal_point: Smart
+  - path: "/files/BeeFeeding-NoText.mp4"
+    thumbnail: /assets/images/igem_project.jpg
+    alt: "Video of bees feeding"
+    focal_point: Smart
 ---
 
 Describe the Apis species comparison project
