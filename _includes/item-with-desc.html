@@ -32,32 +32,31 @@
         {% if post.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
         {% endif %}
-        {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date:
-            '%B %Y' }}</p>{% endif %}
-        {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }},
-            {{post.location}}</p>{% endif %}
-        {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}</p>{% endif %}
+        {% if post.start_date and post.end_date %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.start_date | date: "%B %d, %Y" }} - {{ post.end_date | date: "%B %d, %Y" }}</p>
+        {% endif %}
         {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }}, {{ post.location }}</p>{% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
         {% if post.image %}
-        <div class="archive__item-gallery">
-            <!-- align them evenly as gallery -->
-            {% for media in post.image %}
-            {% if media.type == "image" %}
-            <a href="{{ media.url | prepend: base_path }}" class="archive__item-gallery-image">
-                <img src="{{ media.url | prepend: base_path }}" alt="{{ media.alt }}">
-            </a>
-            {% endif %}
-            {% if media.type == "video" %}
-            <a href="{{ media.url | prepend: base_path }}" class="archive__item-gallery-image">
-                <video controls>
-                    <source src="{{ media.url | prepend: base_path }}" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-            </a>
-            {% endif %}
-            {% endfor %}
+        <div class="archive__item-image">
+            <img src="{{ post.image | prepend: base_path }}" alt="{{ post.title }}" />
+        </div>
+        {% endif %}
+        {% if post.video %}
+        <div class="archive__item-video">
+            <video controls>
+                <source src="{{ post.video | prepend: base_path }}" type="video/{{ post.video | split: '.' | last }}">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+        {% endif %}
+        {% if post.audio %}
+        <div class="archive__item-audio">
+            <audio controls>
+                <source src="{{ post.audio | prepend: base_path }}" type="audio/{{ post.audio | split: '.' | last }}">
+                Your browser does not support the audio tag.
+            </audio>
         </div>
         {% endif %}
     </article>
