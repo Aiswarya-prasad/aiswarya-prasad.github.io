@@ -569,19 +569,3 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
-.archive__item-media {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  /* Adjust the gap between media items as needed */
-}
-
-.archive__item-media img,
-.archive__item-media video {
-  width: 30px;
-  /* Adjust the width as needed */
-  height: 200px;
-  /* Adjust the height as needed */
-  object-fit: cover;
-  /* Ensures the media fits within the specified dimensions */
-}
