@@ -6,14 +6,14 @@
 
 main:
 
-  - title: "Research"
-    url: /research/   
+  # - title: "Research"
+  #   url: /research/   
 
-  - title: "Engagement"
-    url: /engagement/
+  # - title: "Engagement"
+  #   url: /engagement/
   
   - title: "CV"
     url: /cv/
   
-  - title: "Interests"
-    url: /year-archive/
+  # - title: "Interests"
+  #   url: /year-archive/
