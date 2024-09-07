@@ -1,11 +1,9 @@
 ---
 title: 'Notes on fiber in diet'
-date: 2024-09-07
-permalink: /posts/2024/09/dietary-fiber-in-food/
+date: 2024-12-07
+permalink: /posts/2024/12/dietary-fiber-in-food/
 tags:
-  - nutrition
-  - notes
-  - gut microbiome
+  - gut microbiome notes
 ---
 
 Draft of a post outlining what dietary fibers are and how they affect the microbiome!
