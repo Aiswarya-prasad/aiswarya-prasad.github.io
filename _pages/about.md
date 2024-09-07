@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-> We live in an era where biotechnology is advancing so rapidly that methods once unimaginable a decade ago are now routine. This acceleration opens up vast opportunities for translating discoveries into novel therapies and sustainable solutions, particularly in emerging fields such as microbiome research. However, as the focus shifts toward practical applications, the deep thinking and nuanced understanding fostered by a fundamental research approach risk being undervalued. This comprehensive insight is valuable for recognizing and addressing core issues that may not be immediately apparent, especially in new and rapidly evolving fields. Leveraging my training in fundamental research, I am eager to bridge this gap by applying my knowledge to achieve tangible outcomes and meaningful impact.
+> I am eager to bridge the gap between fundamental research and actionable application. Academic research is intellectually fulfilling and fosters deep thinking and understanding. However, while its impact often remains within scholarly circles, it faces growing skepticism from the broader community that funds these efforts. Addressing core issues, especially in emerging fields, benefits from a nuanced approach. Yet, translating these insights into effective solutions requires skills such as strategic planning and execution, which are not typically emphasized in basic research. By combining my training in fundamental research with these essential skills, I am excited to drive meaningful impact and achieve tangible outcomes in sustainable food production, advanced healthcare, and equitable access for all.
+
 
 # My Background
 
