@@ -4,6 +4,8 @@ date: 2024-12-07
 permalink: /posts/2024/12/dietary-fiber-in-food/
 tags:
   - ResearchNotesGutMicrobiome
+categories:
+  - category1
 ---
 
 Draft of a post outlining what dietary fibers are and how they affect the microbiome!

@@ -4,4 +4,6 @@ date: 2024-10-01
 permalink: /posts/2024/10/salty-kozhukattai/
 tags:
   - RecipeSouthIndian
+categories:
+  - category1
 ---
