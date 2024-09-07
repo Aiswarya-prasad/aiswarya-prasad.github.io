@@ -10,3 +10,7 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# others
+files/FoodData_Central_csv_2024-04-18/*
+files/scripts/apikey_file.txt
