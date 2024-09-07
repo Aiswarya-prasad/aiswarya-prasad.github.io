@@ -1,0 +1,14 @@
+---
+layout: archive
+permalink: /year-archive-all/
+title: "Blog posts by year"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
