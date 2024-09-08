@@ -17,6 +17,3 @@ media:
 ---
 
 Moderated the discussion on Health & Medical Data Privacy built around the sustainable development goals Industry, Innovation, and Infra (Goal 9), Good health and Well Being (Goal 3) at the iGEM India BIOSUMMIT 2020
-
-
-<!--more-->
