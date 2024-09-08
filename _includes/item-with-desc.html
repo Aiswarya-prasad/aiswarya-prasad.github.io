@@ -40,11 +40,11 @@
         {% else %}
             {% if post.start_year and post.end_year %}
             <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
-                {{ post.start_year | year: "%Y" }} --- {{ post.end_year | year: "%Y" }}
+                {{ post.start_year }} --- {{ post.end_year }}
             </p>
             {% elsif post.year %}
             <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
-                {{ post.year | year: "%Y" }}
+                {{ post.year }}
             </p>
             {% endif %}        
         {% endif %}
