@@ -6,8 +6,7 @@ permalink: /engagement/scientificcommunity
 ---
 
 Summary
-
-<!-- more -->
+---
 
 Peer review of journal publications
 2023 – Present
