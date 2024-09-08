@@ -3,8 +3,12 @@ title: 'Mediterranean-style Rice Salad'
 date: 2024-09-10
 permalink: /posts/2024/09/rice-salad/
 tags:
-  - EverydayRecipe
+  - Mediterranean
+  - Recipe
+  - Salad
+  - Everyday
+  - Rice
 categories:
-  - category1
+  - Everyday Recipe
 ---
 
