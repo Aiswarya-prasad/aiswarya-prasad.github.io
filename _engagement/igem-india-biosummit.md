@@ -10,7 +10,7 @@ media:
     alt: "event poster"
     focal_point: Smart
     width: 350
-    height: 300
+    height: 400
 ---
 
 
