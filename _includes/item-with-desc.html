@@ -32,27 +32,31 @@
         {% if post.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
         {% endif %}
-        {% if post.start_date and post.end_date %}<p class="archive__item-excerpt" itemprop="description"> {{ post.start_date | date: "%B %Y" }} --- {{ post.end_date | date: "%B %Y" }} </p>{% endif %}
+        {% if post.start_date and post.end_date %}
+        <p class="archive__item-excerpt" itemprop="description">
+            {{ post.start_date | date: "%B %d, %Y" }} — {{ post.end_date | date: "%B %d, %Y" }}
+        </p>
+        {% endif %}
         {% if post.date %}<p class="archive__item-excerpt" itemprop="description"> {{ post.date }}</p>{% endif %}
         {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }}, {{ post.location }}</p>{% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description"> {{ post.excerpt | markdownify }}</p>{% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
+        {% if post.media %}
         <div class="media-container" style="display: flex; align-items: flex-start;">
             {% for media in post.media %}
             <div style="margin-right: 10px;">
                 {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
-                <video controls
-                    style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;">
+                <video controls style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;">
                     <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
                     Your browser does not support the video tag.
                 </video>
                 {% else %}
-                <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}"
-                    style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;" />
+                <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}" style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;" />
                 {% endif %}
             </div>
             {% endfor %}
         </div>
+        {% endif %}
     </article>
 </div>
 
