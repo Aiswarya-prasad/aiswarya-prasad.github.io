@@ -9,8 +9,8 @@ main:
   # - title: "Research"
   #   url: /research/   
 
-  # - title: "Engagement"
-  #   url: /engagement/
+  - title: "Engagement"
+    url: /engagement/
   
   - title: "CV"
     url: /cv/
