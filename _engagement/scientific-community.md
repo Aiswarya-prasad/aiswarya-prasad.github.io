@@ -3,7 +3,6 @@ title: "Service to the scientific community"
 layout: archive
 collection: engagement
 permalink: /engagement/scientificcommunity
-excerpt_mark: "<!--more-->"
 ---
 
 Summary
