@@ -20,7 +20,7 @@
                 prepend: base_path }}" {% endif %} alt="">
         </div>
         {% endif %}
-        <h2 class="archive__item-title" itemprop="headline">
+        <h3 class="archive__item-title" itemprop="headline">
             {% if post.link %}
             <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i
                     class="fa fa-link" aria-hidden="true" title="permalink"></i><span
@@ -28,11 +28,7 @@
             {% else %}
             <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
             {% endif %}
-        </h2>
-        {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }}, {{ post.location }}</p>{% endif %}
-        {% if post.read_time %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-        {% endif %}
+        </h3>
         {% if post.start_date and post.end_date %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>
             {{ post.start_date | date: "%B %Y" }} --- {{ post.end_date | date: "%B %Y" }}
@@ -42,6 +38,10 @@
             {{ post.date | date: "%B %Y" }}
         </p>
         {% endif %}
+        {% if post.read_time %}
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+        {% endif %}
+        {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }}, {{ post.location }}</p>{% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description"> {{ post.excerpt | markdownify }}</p>{% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
         {% if post.media %}
