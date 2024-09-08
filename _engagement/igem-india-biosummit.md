@@ -6,15 +6,13 @@ permalink: /engagement/igemindiabiosummit
 venue: "Online"
 date: 2020-07-25
 media:
-  - path: "images/engagement/igemIndiaBiosummit.jpeg"
-    thumbnail: "images/engagement/igemIndiaBiosummit.jpeg"
+  - path: "/images/engagement/igemIndiaBiosummit.jpeg"
     alt: "event poster"
     focal_point: Smart
     width: 350
     height: 300
 ---
 
-![none](images/engagement/igemIndiaBiosummit.jpeg)
 
 ---
 

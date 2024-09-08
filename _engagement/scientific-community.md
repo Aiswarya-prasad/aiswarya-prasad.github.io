@@ -1,6 +1,6 @@
 ---
 title: "Service to the scientific community"
-layout: archive
+layout: page
 collection: engagement
 permalink: /engagement/scientificcommunity
 ---
