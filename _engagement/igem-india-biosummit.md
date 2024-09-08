@@ -1,5 +1,6 @@
 ---
 title: "iGEM India BioSummit"
+layout: archive
 collection: engagement
 permalink: /engagement/igemindiabiosummit
 venue: "Online"

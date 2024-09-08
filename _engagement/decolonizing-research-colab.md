@@ -1,5 +1,6 @@
 ---
 title: "Decolonizing North-South Research Collaboration Workshop"
+layout: archive
 collection: engagement
 permalink: /engagement/decolonizingresearchcolab
 venue: "Centre for Development and Environment, University of Bern"
