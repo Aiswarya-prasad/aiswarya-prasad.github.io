@@ -38,6 +38,15 @@
             {{ post.date | date: "%B %Y" }}
         </p>
         {% endif %}
+        {% if post.start_year and post.end_year %}
+        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
+            {{ post.start_year | year: "%Y" }} --- {{ post.end_year | year: "%Y" }}
+        </p>
+        {% elsif post.year %}
+        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
+            {{ post.year | year: "%Y" }}
+        </p>
+        {% endif %}
         {% if post.read_time %}
         <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i> {% include read-time.html %}</p>
         {% endif %}

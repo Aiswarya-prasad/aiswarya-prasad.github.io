@@ -2,12 +2,10 @@
 title: "Service to the scientific community"
 layout: page
 collection: engagement
-date: 2023-01-01
+start_year: 2023
+end_year: 2024
 permalink: /engagement/scientificcommunity
 ---
-
-
-Summary
 
 
 ---
