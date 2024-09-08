@@ -38,7 +38,7 @@
             {{ post.start_date | date: "%B %Y" }} --- {{ post.end_date | date: "%B %Y" }}
         </p>
         {% elsif post.date %}
-        <p class="archive__item-excerpt" itemprop="description">
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true">
             {{ post.date | date: "%B %Y" }}
         </p>
         {% endif %}
