@@ -29,19 +29,6 @@
             <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
             {% endif %}
         </h3>
-        {% if post.start_date and post.end_date %}
-        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
-            {{ post.start_date | date: "%B %Y" }} --- {{ post.end_date | date: "%B %Y" }}
-        </p>
-        {% elsif post.date %}
-        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
-            {{ post.date | date: "%B %Y" }}
-        </p>
-        {% else %}
-        <p class="page__meta">
-            <!-- empty -->
-        </p>
-        {% endif %}
         {% if post.start_year and post.end_year %}
         <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
             {{ post.start_year }} --- {{ post.end_year }}
@@ -50,9 +37,13 @@
         <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
             {{ post.year }}
         </p>
-        {% else %}
-        <p class="page__meta">
-            <!-- empty -->
+        {% elsif post.start_date and post.end_date %}
+        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
+            {{ post.start_date | date: "%B %Y" }} --- {{ post.end_date | date: "%B %Y" }}
+        </p>
+        {% elsif post.date %}
+        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
+            {{ post.date | date: "%B %Y" }}
         </p>
         {% endif %}
         {% if post.read_time %}
