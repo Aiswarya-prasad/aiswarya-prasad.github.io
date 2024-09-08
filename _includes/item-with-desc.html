@@ -37,13 +37,22 @@
         <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
             {{ post.date | date: "%B %Y" }}
         </p>
-        {% elsif post.start_year and post.end_year %}
+        {% else %}
+        <p class="page__meta">
+            <!-- empty -->
+        </p>
+        {% endif %}
+        {% if post.start_year and post.end_year %}
         <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
             {{ post.start_year }} --- {{ post.end_year }}
         </p>
         {% elsif post.year %}
         <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
             {{ post.year }}
+        </p>
+        {% else %}
+        <p class="page__meta">
+            <!-- empty -->
         </p>
         {% endif %}
         {% if post.read_time %}
