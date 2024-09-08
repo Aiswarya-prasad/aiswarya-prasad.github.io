@@ -32,7 +32,7 @@
         {% if post.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
         {% endif %}
-        {% if post.start_date and post.end_date %}<p class="archive__item-excerpt" itemprop="description"> {{ post.start_date | date: "%B %Y" }} - {{ post.end_date | date: "%B %Y" }} </p>{% endif %}
+        {% if post.start_date and post.end_date %}<p class="archive__item-excerpt" itemprop="description"> {{ post.start_date | date: "%B %Y" }} --- {{ post.end_date | date: "%B %Y" }} </p>{% endif %}
         {% if post.date %}<p class="archive__item-excerpt" itemprop="description"> {{ post.date }}</p>{% endif %}
         {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ post.venue }}, {{ post.location }}</p>{% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description"> {{ post.excerpt | markdownify }}</p>{% endif %}
