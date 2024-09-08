@@ -30,27 +30,27 @@
             {% endif %}
         </h3>
         {% if post.start_date and post.end_date %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>
+        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
             {{ post.start_date | date: "%B %Y" }} --- {{ post.end_date | date: "%B %Y" }}
         </p>
         {% elsif post.date %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>
+        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i>
             {{ post.date | date: "%B %Y" }}
         </p>
         {% endif %}
         {% if post.read_time %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+        <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i> {% include read-time.html %}</p>
         {% endif %}
         {% if post.venue and post.location %}
-        <p class="page__meta"><i class="fa fa-map-marker"></i> Map Marker
+        <p class="page__meta"><i class="fa fa-map-marker"></i>
             {{ post.venue }}, {{ post.location }}
         </p>
         {% elsif post.venue %}
-        <p class="page__meta"><i class="fa fa-map-marker"></i> Map Marker
+        <p class="page__meta"><i class="fa fa-map-marker"></i>
             {{ post.venue }}
         </p>
         {% elsif post.location %}
-        <p class="page__meta"><i class="fa fa-map-marker"></i> Map Marker
+        <p class="page__meta"><i class="fa fa-map-marker"></i>
             {{ post.location }}
         </p> 
         {% endif %}
