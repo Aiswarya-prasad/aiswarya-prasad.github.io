@@ -12,6 +12,6 @@ end_date: 2024-10-01
 
 **Problem**: 
 
-**Challenge**
+**Challenge**:
 
-**Result**
+**Result**:
