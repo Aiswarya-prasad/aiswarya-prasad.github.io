@@ -4,10 +4,10 @@ permalink: /research/apis_species_comparison
 author_profile: false
 title: "Apis species comparison"
 collection: research
-venue: "UNIL, xyz, Department of Testing"
+venue: "UNIL, Department Fundamental Microbiology"
 location: "Lausanne, Switzerland"
-start_date: 2012-03-01
-end_date: 2012-03-01
+start_date: 2020-08-01
+end_date: 2024-10-01
 media:
   - path: "/images/research/Apis_dorsata_HoneyBee.jpg"
     thumbnail: "/images/AP_Profile_picture.jpg"

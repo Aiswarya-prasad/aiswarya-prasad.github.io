@@ -4,10 +4,10 @@ permalink: /research/igem_project
 author_profile: false
 title: "iGEM Project"
 collection: research
-venue: "UNIL, xyz, Department of Testing"
-location: "Lausanne, Switzerland"
-start_date: 2012-03-01
-end_date: 2012-03-01
+venue: "Indian Institute of Science"
+location: "Bengaluru, India"
+start_date: 2016-02-01
+end_date: 2016-10-01
 ---
 
 Describe the iGEM project project

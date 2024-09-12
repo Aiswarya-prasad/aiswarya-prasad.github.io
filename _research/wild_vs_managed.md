@@ -4,10 +4,14 @@ permalink: /research/wild_vs_managed
 author_profile: false
 title: "Wild vs Managed"
 collection: research
-venue: "UNIL, xyz, Department of Testing"
+venue: "UNIL, Department Fundamental Microbiology"
 location: "Lausanne, Switzerland"
-start_date: 2012-03-01
-end_date: 2012-03-01
+start_date: 2020-08-01
+end_date: 2024-10-01
 ---
 
-Describe the wild vs managed project
+Problem
+
+Challenge
+
+## Result
