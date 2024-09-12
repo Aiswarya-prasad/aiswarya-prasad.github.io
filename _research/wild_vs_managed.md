@@ -10,8 +10,8 @@ start_date: 2020-08-01
 end_date: 2024-10-01
 ---
 
-Problem
+**Problem**: 
 
-Challenge
+**Challenge**
 
-## Result
+**Result**
