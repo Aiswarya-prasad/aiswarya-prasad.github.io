@@ -11,7 +11,9 @@ categories:
 
 This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinjal, aka Katthirikkaai)** fry. While it is a great side dish to pair with various South Indian dishesm it also works a unique way to incorporate eggplants as a side dish for your favourite rice or bread even if you are not familiar with South Indian cuisine.
 
-I find that indian recipies often use terms that are only understood by others who are familiar with the techniques used in the cuisine (eg. fry tomato-onion mix until the oil begins to separate, cook the rice for 3 whistles). I have done my best to avoid this and be as descriptive as possible but please let me know if I slipped up! I have added links to pictures - borrowed from vastly different sources - to help you identify the ingredients or cooking steps if you are unfamiliar with them (I might add my own pictures in the future). I often find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingradients! 
+I find that indian recipies often use terms that are only understood by others who are familiar with the techniques used in the cuisine (eg. fry tomato-onion mix until the oil begins to separate, cook the rice for 3 whistles). I have done my best to avoid this and be as descriptive as possible but please let me know if I slipped up! I often find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingradients! 
+
+I have added links to pictures that I have borrowed from vastly different sources to help you identify the ingredients or cooking steps if you are unfamiliar with them (I might add my own pictures in the future).
 
 ## Ingredients (for 2-3 servings)
 
