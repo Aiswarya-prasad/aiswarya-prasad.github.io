@@ -30,15 +30,16 @@ This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinj
 
 ### Kitchen hardware
 
-No special equipment. I like to use an iron wok (a chinese wok can work too) or kadai (as my mother would) but any heavy bottomed pan will work. Just make sure you are able to cover it with a lid and that it is big enough that the brinjal can be spread out in more or less a single layer.
+No special equipment. I like to use an iron pan, wok (a chinese wok can work well) or kadai (as my mother would) but any heavy bottomed pot or pan will work. Just make sure you are able to cover it with a lid and that it is big enough that the brinjal can be spread out in more or less a single layer.
 
-jump to [Recipe](#recipe)
+Jump to [Recipe](#recipe)
 
 ### Note about the ingredients
 
 The ingredients are quite simple and you can find the ones listed under Common in most grocery stores. The others should be found in any Indian store. Below are some notes about the ingredients but feel free to skip to the next section if you are familiar with them or are ready to jump in with all the ingredients on hand.
 
-- **Brinjal**: I find that the small round variety (referred to as Indian variety as seen on this picture [here](https://foodwise.org/wp-content/uploads/2022/09/Eggplant_guide_labeled.png)) is the best for this recipe. If you can't find them, the other varieties will work too.
+- **Brinjal**: 
+  - I find that the small round variety (referred to as Indian variety as seen on this picture [here](https://foodwise.org/wp-content/uploads/2022/09/Eggplant_guide_labeled.png)) is the best for this recipe. If you can't find them, the other varieties will work too.
 - **Onions**
   - I prefer red onions for this recipe but any onion will work. The onions form the base of the dish and add a lot of flavour from their sweetness brought out by the frying.
 - **Oil**
