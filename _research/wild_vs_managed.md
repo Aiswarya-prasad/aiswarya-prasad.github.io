@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /research/wild_vs_managed
-author_profile: false
+author_profile: true
 title: "Wild vs Managed"
 collection: research
 venue: "UNIL, Department Fundamental Microbiology"

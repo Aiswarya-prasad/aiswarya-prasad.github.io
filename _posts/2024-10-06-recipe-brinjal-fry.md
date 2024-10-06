@@ -1,6 +1,8 @@
 ---
 title: 'Eggplant Fry - South Indian Style'
 date: 2024-10-06
+collection: posts
+author_profile: false
 permalink: /posts/2024/10/brinjal-fry/
 tags:
   - South Indian
@@ -72,10 +74,9 @@ The ingredients are quite simple and you can find the ones listed under Common i
 6. Add the chopped brinjal and mix well until the mixture coats them well.
 7. Add a splash of water () and cook covered until the brinjals turn soft and cooked through. Stir occasionally to prevent sticking
 8. Check on the pot every few minutes and add another splash of water as it might start is sticking to the bottom and give it a stir. I usually end up doing this a couple of times.
-9. When the brinjal is cooked through, remove the lid and let the water evaporate while frying the mix some more.s
+9. When the brinjal is cooked through (looks like [this](https://www.relishthebite.com/wp-content/uploads/2016/04/BrinjalRoast-7.jpg)), remove the lid and let the water evaporate if there is any left.
 
 ## Suggested pairing
-
 ### Genaral
 It is not saucy but works as a side dish to pair with rice or bread.
 
@@ -84,8 +85,10 @@ Serve as a side with kootu and rice, sambar and rice or if you're up for somethi
 
 ## My Notes
 
-I find that Indian recipes often use terms that are difficult to make sense of for others who are familiar with the techniques used in the cuisine (eg. fry tomato-onion mix until the oil begins to separate, cook the rice for 3 whistles). I have done my best to avoid this and be as descriptive as possible but please let me know if I slipped up!
+Here, I have done my best to help understand the role of each of the components of the dish so hopefully trying this recipe increases familiarity with South Indian cuisine.
 
-I often find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingradients! 
+Often, Indian recipes use terms that are difficult to make sense of for those unfamiliar with the techniques used in the cuisine (eg. fry tomato-onion mix until the oil begins to separate, cook the rice for 3 whistles). I have done my best to avoid this and be as descriptive as possible but please let me know if I slipped up!
+
+I usually find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingradients! 
 
 I have added links to pictures that I have borrowed from vastly different sources to help you identify the ingredients or cooking steps if you are unfamiliar with them (I might add my own pictures in the future).
