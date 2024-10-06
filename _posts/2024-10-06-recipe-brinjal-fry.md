@@ -3,11 +3,10 @@ title: 'Eggplant Fry - South Indian Style'
 date: 2024-10-06
 permalink: /posts/2024/09/brinjal-fry/
 tags:
-  - Recipe
   - South Indian
   - Vegan
 categories:
-  - South Indian Recipe
+  - Recipe
 ---
 
 This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinjal, aka Katthirikkaai)** fry. While it is a great side dish to pair with various South Indian dishesm it also works a unique way to incorporate eggplants as a side dish for your favourite rice or bread even if you are not familiar with South Indian cuisine.
