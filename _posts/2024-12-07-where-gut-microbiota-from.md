@@ -1,6 +1,6 @@
 ---
 title: 'Where gut microbiota come from'
-date: 2024-11-07
+date: 2024-12-07
 permalink: /posts/2024/11/where-gut-microbiota-come-from/
 tags:
   - Research

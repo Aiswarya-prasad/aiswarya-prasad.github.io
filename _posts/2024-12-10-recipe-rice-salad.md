@@ -1,6 +1,6 @@
 ---
 title: 'Mediterranean-style Rice Salad'
-date: 2024-09-10
+date: 2024-12-10
 permalink: /posts/2024/09/rice-salad/
 tags:
   - Mediterranean

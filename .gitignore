@@ -14,3 +14,10 @@ package-lock.json
 # others
 files/FoodData_Central_csv_2024-04-18/*
 files/scripts/apikey_file.txt
+images/posts/beachfarm/*
+images/posts/ghatstrip/*
+images/posts/thanjavur/*
+images/posts/chettinaduhouse/*
+images/posts/.DS_Store
+images/.DS_Store
+.DS_Store
