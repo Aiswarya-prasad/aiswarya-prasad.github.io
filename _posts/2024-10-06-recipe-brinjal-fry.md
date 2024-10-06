@@ -11,10 +11,6 @@ categories:
 
 This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinjal, aka Katthirikkaai)** fry. While it is a great side dish to pair with various South Indian dishesm it also works a unique way to incorporate eggplants as a side dish for your favourite rice or bread even if you are not familiar with South Indian cuisine.
 
-I find that indian recipies often use terms that are only understood by others who are familiar with the techniques used in the cuisine (eg. fry tomato-onion mix until the oil begins to separate, cook the rice for 3 whistles). I have done my best to avoid this and be as descriptive as possible but please let me know if I slipped up! I often find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingradients! 
-
-I have added links to pictures that I have borrowed from vastly different sources to help you identify the ingredients or cooking steps if you are unfamiliar with them (I might add my own pictures in the future).
-
 ## Ingredients (for 2-3 servings)
 
 ### Common
@@ -34,6 +30,8 @@ I have added links to pictures that I have borrowed from vastly different source
 
 No special equipment. I like to use an iron wok (a chinese wok can work too) or kadai (as my mother would) but any heavy bottomed pan will work. Just make sure you are able to cover it with a lid and that it is big enough that the brinjal can be spread out in more or less a single layer.
 
+jump to [Preparation](#preparation) or [Recipe](#recipe)
+
 ### Note about the ingredients
 
 The ingredients are quite simple and you can find the ones listed under Common in most grocery stores. The others should be found in any Indian store. Below are some notes about the ingredients but feel free to skip to the next section if you are familiar with them or are ready to jump in with all the ingredients on hand.
@@ -42,20 +40,20 @@ The ingredients are quite simple and you can find the ones listed under Common i
 - **Onions**
   - I prefer red onions for this recipe but any onion will work. The onions form the base of the dish and add a lot of flavour from their sweetness brought out by the frying.
 - **Oil**
-  Any neutral oil (Sunflower oil, Canola oil, etc.) will work well. If you have Gingely oil (available in Indian stores), it adds a nice flavour to the dish. Gingely oil is specifically popular in South Indian cuisine and it is made from sesame seeds. It is processed differently and hence has a different flavor from the sesame oil used in other parts of Asia.
+  - Any neutral oil (Sunflower oil, Canola oil, etc.) will work well. If you have Gingely oil (available in Indian stores), it adds a nice flavour to the dish. Gingely oil is specifically popular in South Indian cuisine and it is made from sesame seeds. It is processed differently and hence has a different flavor from the sesame oil used in other parts of Asia.
 - **Black mustard seeds** and **Urad dal**
-  These are a common duo used in South Indian cooking. The mustard seeds add a nice flavour and the urad dal adds a nice crunch to the dish.
-  Try not to substitute these with other seeds or lentils as they are quite unique in flavour and texture. However, if in a pinch, you can substitute the urad dal with channa dal which also can get crispy but I find that less enjoyable.
+  - These are a common duo used in South Indian cooking. The mustard seeds add a nice flavour and the urad dal adds a nice crunch to the dish.
+  - Try not to substitute these with other seeds or lentils as they are quite unique in flavour and texture. However, if in a pinch, you can substitute the urad dal with channa dal which also can get crispy but I find that less enjoyable.
 - **Sambar powder**
-  This is a powdered spice mix that is commonly used in South Indian cooking. It is a mix of various spices and lentils and is most commonly made by each household with their own minor variations. 
-  Adjust the quantity based on mix you have. If unsure, go for 1 teaspoon and mix into the onions taste after a few minutes and add more if it is not too spicy.
-  You can find many brands selling this in Indian stores or make it at home. If you can't find it, you can substitute it with a mix of coriander powder (1 teaspoon), cumin powder (1 teaspoon), and red chili (0.5 teaspoon) powder for this dish.
+  - This is a powdered spice mix that is commonly used in South Indian cooking. It is a mix of various spices and lentils and is most commonly made by each household with their own minor variations. 
+  - Adjust the quantity based on mix you have. If unsure, go for 1 teaspoon and mix into the onions taste after a few minutes and add more if it is not too spicy.
+  - You can find many brands selling this in Indian stores or make it at home. If you can't find it, you can substitute it with a mix of coriander powder (1 teaspoon), cumin powder (1 teaspoon), and red chili (0.5 teaspoon) powder for this dish.
 - **Coriander powder**
-  This is a common spice used in Indian cooking. It is made from dried coriander seeds and has a warm, citrusy flavour. For peoplw who are genetically predisposed to dislike coriander, I have been quite different from fresh coriander leaves so it does not taste like soap!
+  - This is a common spice used in Indian cooking. It is made from dried coriander seeds and has a warm, citrusy flavour. For peoplw who are genetically predisposed to dislike coriander, I have been quite different from fresh coriander leaves so it does not taste like soap!
 - **Curry leaves**
-  These are a common herb used in South Indian cooking. They freeze very well so if you can find them fresh, you can freeze them and use them as needed. They add a nice flavour to the dish. If you can't find them, you can skip them.
+  - These are a common herb used in South Indian cooking. They freeze very well so if you can find them fresh, you can freeze them and use them as needed. They add a nice flavour to the dish. If you can't find them, you can skip them.
 - **Other additions**
-  A variation that is well-liked at home is adding peanuts to the dish. We add raw unroasted, unsalted peanuts to the dish when at the very beginning and fry them in the oil until they are roasted. They add a nice crunch to the dish. If you are interested in trying this, add about a tablespoon of peanuts (with or without skin - not the shell on) to the oil before adding the mustard seeds.
+  - A variation that is well-liked at home is adding peanuts to the dish. We add raw unroasted, unsalted peanuts to the dish when at the very beginning and fry them in the oil until they are roasted. They add a nice crunch to the dish. If you are interested in trying this, add about a tablespoon of peanuts (with or without skin - not the shell on) to the oil before adding the mustard seeds.
 
 ## Preparation
 
@@ -83,3 +81,11 @@ It is not saucy but works as a side dish to pair with rice or bread.
 
 ### South Indian
 Serve as a side with kootu and rice, sambar and rice or if you're up for something simpler, with plain curd rice.
+
+## My Notes
+
+I find that Indian recipes often use terms that are difficult to make sense of for others who are familiar with the techniques used in the cuisine (eg. fry tomato-onion mix until the oil begins to separate, cook the rice for 3 whistles). I have done my best to avoid this and be as descriptive as possible but please let me know if I slipped up!
+
+I often find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingradients! 
+
+I have added links to pictures that I have borrowed from vastly different sources to help you identify the ingredients or cooking steps if you are unfamiliar with them (I might add my own pictures in the future).
