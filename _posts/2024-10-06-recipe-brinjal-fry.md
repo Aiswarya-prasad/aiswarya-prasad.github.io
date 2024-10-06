@@ -1,7 +1,7 @@
 ---
 title: 'Eggplant Fry - South Indian Style'
 date: 2024-10-06
-permalink: /posts/2024/09/brinjal-fry/
+permalink: /posts/2024/10/brinjal-fry/
 tags:
   - South Indian
   - Vegan
