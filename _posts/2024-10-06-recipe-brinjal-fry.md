@@ -67,7 +67,7 @@ The ingredients are quite simple and you can find the ones listed under Common i
 
 ## Recipe
 
-1. Heat up a 2 tablespoons of oil (let it warm up a little bit on medium heat). The more oil you use, the crispier the dish will be. If you are using gingely oil, it has a lower smoking point so be careful not to let it get too hot.
+1. Heat up a 2 tablespoons of oil (let it warm up a little bit on medium heat). If you are using gingely oil, it has a lower smoking point so be careful not to let it get too hot.
 2. To the oil, add about a teaspoon of black mustard seeds and wait for it to splutter. When a few seeds start to pop add 1 tablespoon of urad dal.
 3. Watch the urad dal as they turn brown (as seen [here](https://b2958125.smushcdn.com/2958125/wp-content/uploads/ulundu-paruppu-chutney-tamil-recipe-without-coconut-ulutham-paruppu-1.jpg?lossy=1&strip=1&webp=1)) until they are crispy rather than chewy (try a piece if it is your first time using this lentil variety this way). _If you have curry leaves, add them at this point and let them fry for a few seconds until scalded._
 4. Add the onions into the pot and fry them until they start to look translucent. _If you are in no hurry, let the onions go a little further until they just begin to change color_.
