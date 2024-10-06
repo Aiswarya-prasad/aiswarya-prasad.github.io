@@ -73,7 +73,7 @@ The ingredients are quite simple and you can find the ones listed under Common i
 4. Add the onions into the pot and fry them until they start to look translucent. _If you are in no hurry, let the onions go a little further until they just begin to change color_.
 5. Add 1.5 teaspoon of sambar powder, 1 teaspoon of coriander powder and salt to taste (or a conservative amount that is your best guess and add more after you are able to taste the dish and decide).
 6. Add the chopped brinjal and mix well until the mixture coats them well.
-7. Add a splash of water () and cook covered until the brinjals turn soft and cooked through. Stir occasionally to prevent sticking
+7. Add a splash of water (40 - 50 mL or grams) and cook covered until the brinjals turn soft and cooked through. Stir occasionally to prevent sticking
 8. Check on the pot every few minutes and add another splash of water as it might start is sticking to the bottom and give it a stir. I usually end up doing this a couple of times.
 9. When the brinjal is cooked through (looks like [this](https://www.relishthebite.com/wp-content/uploads/2016/04/BrinjalRoast-7.jpg)), remove the lid and let the water evaporate if there is any left.
 
