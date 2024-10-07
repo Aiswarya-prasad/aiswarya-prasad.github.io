@@ -11,7 +11,7 @@ categories:
   - Recipe
 ---
 
-This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinjal, aka Katthirikkaai)** fry. While it is a great side dish to pair with various South Indian dishesm it also works a great way to incorporate eggplants in a meal as side with rice or bread. I have been told by friends who were not fans of eggplants that they enjoyed this dish because of all the other flavors and components that make up the dish.
+This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinjal, aka Katthirikkaai)** fry. While it is a great side dish to pair with various South Indian dishes it also works a great way to incorporate eggplants in a meal as side with rice or bread. I have been told by friends who were not fans of eggplants that they enjoyed this dish because of all the other flavors and components that make up the dish.
 
 ## Ingredients (for 2-3 servings)
 
