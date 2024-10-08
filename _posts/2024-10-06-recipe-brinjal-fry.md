@@ -11,7 +11,7 @@ categories:
   - Recipe
 ---
 
-This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinjal, aka Katthirikkaai)** fry. While it is a great side dish to pair with various South Indian dishes it also works a great way to incorporate eggplants in a meal as side with rice or bread. I have been told by friends who were not fans of eggplants that they enjoyed this dish because of all the other flavors and components that make up the dish.
+This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinjal, aka Katthirikkaai)** fry. While it is a great side dish to pair with various South Indian dishes it also works a great way to incorporate eggplants in a meal as side with rice or bread. I have been told by friends who were not fans of eggplants that they enjoyed this dish because of all the other flavors and components that make up the dish. While there are several variations and recipes and videos for authentic versions of this dish, I have adapted this recipe to be simple and accessible to those with a kitchen not particularly equipped for South Indian cooking without compromising its key flavors!
 
 ## Ingredients (for 2-3 servings)
 
@@ -51,10 +51,13 @@ The ingredients are quite simple and you can find the ones listed under Common i
   - This is a powdered spice mix that is commonly used in South Indian cooking. It is a mix of various spices and lentils and is most commonly made by each household with their own minor variations. 
   - Adjust the quantity based on mix you have. If unsure, go for 1 teaspoon and mix into the onions taste after a few minutes and add more if it is not too spicy.
   - You can find many brands selling this in Indian stores or make it at home. If you can't find it, you can substitute it with a mix of coriander powder (1 teaspoon), cumin powder (1 teaspoon), and red chili (0.5 teaspoon) powder for this dish.
+  - This is nice to add to your pantry if you are interested in trying South Indian cooking as it can be used in many dishes.
 - **Coriander powder**
-  - This is a common spice used in Indian cooking. It is made from dried coriander seeds and has a warm, citrusy flavour. For peoplw who are genetically predisposed to dislike coriander, I have been quite different from fresh coriander leaves so it does not taste like soap!
+  - This is a common spice used in Indian cooking. It is made from dried coriander seeds and has a warm, citrusy flavour. For people who are genetically predisposed to dislike coriander, I have been quite different from fresh coriander leaves so it does not taste like soap!
+  - This is nice to add to your pantry if you are interested in trying Indian cooking as it is used in many dishes.
 - **Curry leaves**
-  - These are a common herb used in South Indian cooking. They freeze very well so if you can find them fresh, you can freeze them and use them as needed. They add a nice flavour to the dish. If you can't find them, you can skip them.
+  - This is a common component in South Indian cooking but in the interest of simplicity can be skipped for most dishes.
+  - They freeze very well so if you can find them fresh, you can wash, separate from the stem and freeze to use as needed. Throw them right in the oil from the freezer!
 - **Other additions**
   - A variation that is well-liked at home is adding peanuts to the dish. We add raw unroasted, unsalted peanuts to the dish when at the very beginning and fry them in the oil until they are roasted. They add a nice crunch to the dish. If you are interested in trying this, add about a tablespoon of peanuts (with or without skin - not the shell on) to the oil before adding the mustard seeds.
 
@@ -78,7 +81,7 @@ The ingredients are quite simple and you can find the ones listed under Common i
 9. When the brinjal is cooked through (looks like [this](https://www.relishthebite.com/wp-content/uploads/2016/04/BrinjalRoast-7.jpg)), remove the lid and let the water evaporate if there is any left.
 
 ## Suggested pairing
-### Genaral
+### General
 It is not saucy but works as a side dish to pair with rice or bread.
 
 ### South Indian
@@ -90,6 +93,6 @@ Here, I have done my best to help understand the role of each of the components 
 
 Often, Indian recipes use terms that are difficult to make sense of for those unfamiliar with the techniques used in the cuisine (eg. fry tomato-onion mix until the oil begins to separate, cook the rice for 3 whistles). I have done my best to avoid this and be as descriptive as possible but please let me know if I slipped up!
 
-I usually find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingradients! 
+I usually find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingredients! 
 
 I have added links to pictures that I have borrowed from vastly different sources to help you identify the ingredients or cooking steps if you are unfamiliar with them (I might add my own pictures in the future).
