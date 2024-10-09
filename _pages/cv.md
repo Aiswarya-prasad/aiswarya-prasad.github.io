@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 [Go to Technical Resume instead](/technical-resume/)
+
+{% include base_path %}
 <!-- [Go to Consulting-style Resume](/consulting-resume/) -->
 
 Education
