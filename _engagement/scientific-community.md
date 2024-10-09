@@ -1,5 +1,5 @@
 ---
-title: "Service to the scientific community"
+title: "Contribution to the scientific community"
 layout: page
 collection: engagement
 start_year: 2023

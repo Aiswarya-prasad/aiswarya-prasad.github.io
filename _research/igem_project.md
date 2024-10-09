@@ -17,7 +17,7 @@ An article summarizing our experience as the first team from the institute and h
 
 ![iGEM Project](/files/Cellfiefuge_poster.pdf)
 
-<!--more-->
+---
 
 Fundraising efforts by the team that I contributed to:
 • iBEC Grant for Indian iGEM Teams, 2016: Grant of Rs. 1,000,000 from Department of Biotechnology (DBT) through 
