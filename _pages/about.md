@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-> I am eager to bridge the gap between fundamental research and actionable application. Academic research is intellectually fulfilling and fosters deep thinking and understanding. However, while its impact often remains within scholarly circles, it faces growing skepticism from the broader community that funds these efforts. This reflects the increasing expectation for research to contribute more directly to societal needs. Addressing core issues, especially in emerging fields, benefits from a nuanced approach. Yet, translating these insights into effective solutions requires skills such as strategic planning and execution, which are not typically emphasized in basic research. By combining my training in fundamental research with these essential skills, I am excited to drive meaningful impact and achieve tangible outcomes in advanced healthcare, sustainable food production, and equitable access for all.
+> I am eager to bridge the gap between fundamental research and actionable application. Academic research is intellectually fulfilling and fosters deep thinking and understanding. However, while its impact often remains within scholarly circles, it faces growing skepticism from the broader community that funds these efforts. This reflects the increasing expectation for research to contribute more directly to societal needs. Addressing core issues, especially in emerging fields, benefits from a nuanced approach. Yet, translating these insights into effective solutions requires skills such as strategic planning and execution, which are not typically emphasized in basic research. By combining my training in fundamental research with these essential skills, I am excited to drive innovation and the development of technology to address challenges in health, agriculture and sustainable food production.
+>
+> Where I would like to go: 5 years from now I would like be able to say, "You know of that live microbial product which is now the only viable cure for a pressing women's health issue?" or "the best clean and sustainable solution to pest control?", I made that happen!
 
 
 <!-- # My Background
