@@ -70,13 +70,13 @@ Extracurricular Engagement
 ======
 
 The Consulting Society Incubator – Senior member and Learning Unit Manager
-École Polytechnique Fédérale de Lausanne (EPFL) | MAY 2024 (Onwards)
+_École Polytechnique Fédérale de Lausanne (EPFL) | MAY 2024 (Onwards)_
 
 Workshop on Decolonizing Global North-South Research Collaboration
-Centre for Development and Environment, University of Bern (Online) | AUG 2022
+_Centre for Development and Environment, University of Bern (Online) | AUG 2022_
 
 Moderator, Health & Medical Data Privacy Committee
-iGEM India BIOSUMMIT (Remote) | JUL 2020
+_iGEM India BIOSUMMIT (Remote) | JUL 2020_
 
 iGEM Delegate, United Nations Convention on Biological Diversity
-Sharm El-Sheikh, Egypt | NOV 2018
+_Sharm El-Sheikh, Egypt | NOV 2018_
