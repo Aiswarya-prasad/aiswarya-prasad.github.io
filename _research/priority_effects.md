@@ -10,9 +10,7 @@ start_date: 2022-08-01
 end_date: 2024-10-01
 ---
 
-<!-- Describe the priority effects project as problem challenge and expectations and results. problem is need to understand factors influencing and maintaing strain-level community composition in microbiomes. microbe-microbe interactions in the context of a microbial community at the strain-level are still faced with  limited understanding. honeybees are a great model to study this invitro. using community of lacto and bifido strains investigating prioiority effects. developed a high-throughput compatible pacbio metagenomic approach to quantitatively detect strains in the gut. pilot experiment revealed priority effects carried out more replicates and combinations of strains and analysing the data now-->
-
-**Problem**: 
+**Context**: 
   * Understanding the factors influencing and maintaining strain-level community composition in microbiomes is crucial for predicting and manipulating microbial communities. 
   * Microbe-microbe interactions in the context of a microbial community at the strain-level are still understudied. 
   * Honeybees are a great model to study this _in vivo_ due to their simple gut microbiome and the experimental tractability of the host and microbiota.
