@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Go to Technical Resume](/technical-resume/)
+<!-- [Go to Consulting-style Resume](/consulting-resume/) -->
 
 Education
 ======
@@ -51,11 +53,13 @@ Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
 Publications
 ======
 
-**Prasad A.**, Pallujam A. D., _et al_ (2024). Symbiont loss and gain, rather than co-diversification shapes honeybee gut microbiota diversity and function. [bioRxiv](https://doi.org/10.1101/2024.09.11.612390), 2024.09.11.612390
+Mazel, F., **Prasad, A.**, Engel, P. (2024) Host specificity of gut microbiota associated with social bees: patterns and processes. Microbiology and Molecular Biology Reviews (In Review)
 
-Baud, G. L., **Prasad, A.**, Ellegaard, K. M., & Engel, P. (2023). Turnover of strain-level persity modulates functional traits in the honeybee gut microbiome between nurses and foragers. Genome Biology, 24(1), 283.
+**Prasad A.**, Pallujam A. D., _et al_ (2024). Symbiont loss and gain, rather than co-diversification shapes honeybee gut microbiota diversity and function. [bioRxiv](https://doi.org/10.1101/2024.09.11.612390), 2024.09.11.612390 (In Review)
 
-Sarton-Lohéac, G., Nunes da Silva, C. G., Mazel, F., Baud, G., de Bakker, V., Das, S., El Chazli, Y., Ellegaard, K., Carcia-Carcera, M., Glover, N., Liberti, J., Nacif Marçal, L., **Prasad, A.**, Sommerville, V., SAGE class 2019-2020 and 2020-2021, Bonilla-Rosso, G., & Engel, P. (2023). Deep pergence and genomic persification of gut symbionts of neotropical stingless bees. Mbio, 14(2), e03538-22.
+Baud, G. L., **Prasad, A.**, Ellegaard, K. M., & Engel, P. (2023). Turnover of strain-level persity modulates functional traits in the honeybee gut microbiome between nurses and foragers. [Genome Biology](https://doi.org/10.1186/s13059-023-03131-4), 24(1), 283.
+
+Sarton-Lohéac, G., Nunes da Silva, C. G., Mazel, F., Baud, G., de Bakker, V., Das, S., El Chazli, Y., Ellegaard, K., Carcia-Carcera, M., Glover, N., Liberti, J., Nacif Marçal, L., **Prasad, A.**, Sommerville, V., SAGE class 2019-2020 and 2020-2021, Bonilla-Rosso, G., & Engel, P. (2023). Deep divergence and genomic diversification of gut symbionts of neotropical stingless bees. [Mbio](https://doi.org/10.1128/mbio.03538-22), 14(2), e03538-22.
 
 Beal, J., Haddock-Angelli, T., Baldwin, G., Gershater, M., Dwijayanti, A., Storch, M., ... & with the **iGEM Interlab Study Contributors**. (2018). Quantification of bacterial fluorescence using independent calibrants. PloS one, 13(6), e0199432.
 
