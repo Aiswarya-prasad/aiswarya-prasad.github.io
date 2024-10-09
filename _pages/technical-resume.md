@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+> PhD candidate in Quantitative Biology with expertise in microbiome research, bioinformatics, and hands-on lab experience. Strong focus on microbiome ecology, metagenomics, and diverse next-generation sequencing (NGS) approaches. Proven track record in leading multi-disciplinary research projects and international collaboration. Seeking opportunities to leverage my skills in a challenging innovation-focused role.
+
 Education
 ======
 
