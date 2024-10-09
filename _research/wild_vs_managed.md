@@ -2,7 +2,7 @@
 layout: archive
 permalink: /research/wild_vs_managed
 author_profile: true
-title: "Wild vs Managed"
+title: "Wild vs Managed honeybee microbiome"
 collection: research
 venue: "UNIL, Department Fundamental Microbiology"
 location: "Lausanne, Switzerland"
@@ -10,7 +10,7 @@ start_date: 2020-08-01
 end_date: 2024-10-01
 ---
 
-**Problem**: If you live in Europe or North America, honeybees (here we mean _Apis mellifera_) that you've seen flying about was most likely from a managed farm or escaped from one (this is being freshly debated). "Wild" honeybees are only found across parts of Africa and Asia which is their natural habitat but, they have been transported by humans across the world over the past few centuries. With their simple and specialized gut microbiomes, honeybees make a great model to study the effects of domestication on the gut microbiome.
+**Problem**: In Europe or North America, honeybees (_Apis mellifera_) that you've seen flying about was most likely from a managed farm or escaped from one (this is being freshly debated). "Wild" honeybees are only found across parts of Africa and Asia which is their natural habitat but, they have been transported by humans across the world over the past few centuries. With their simple and specialized gut microbiomes, honeybees make a great model to study the effects of domestication on the gut microbiome.
 
 **Challenge**:
     * *Locating and sampling wild honeybees* from across the world is a daunting task. Thanks to our *international collaborators* across Africa and amazing field ecologists from Germany, we have assembled an extensive collection of hundreds of honeybee samples.
