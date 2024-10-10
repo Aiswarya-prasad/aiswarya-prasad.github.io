@@ -16,7 +16,7 @@ This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinj
 ## Ingredients (for 2-3 servings)
 
 ### Common
-- Brinjal (~250 grams)
+- Brinjal (~200 grams)
 - Onions (~150 grams / 1 large or 2 small)
 - Neutral tasting Oil (2 tablespoons)
 
@@ -70,11 +70,12 @@ The ingredients are quite simple and you can find the ones listed under Common i
 
 ## Recipe
 
+_0. If you would like to speed up the process, prep and cook the brinjal in a bowl with about 40 mL of water in the microwave. I cooked mine for 5 mins to speed up step 7 to 9._
 1. Heat up a 2 tablespoons of oil (let it warm up a little bit on medium heat). If you are using gingely oil, it has a lower smoking point so be careful not to let it get too hot.
 2. To the oil, add about a teaspoon of black mustard seeds and wait for it to splutter. When a few seeds start to pop add 1 tablespoon of urad dal.
-3. Watch the urad dal as they turn brown (as seen [here](https://b2958125.smushcdn.com/2958125/wp-content/uploads/ulundu-paruppu-chutney-tamil-recipe-without-coconut-ulutham-paruppu-1.jpg?lossy=1&strip=1&webp=1)) until they are crispy rather than chewy (try a piece if it is your first time using this lentil variety this way). _If you have curry leaves, add them at this point and let them fry for a few seconds until scalded._
-4. Add the onions into the pot and fry them until they start to look translucent. _If you are in no hurry, let the onions go a little further until they just begin to change color_.
-5. Add 1.5 teaspoon of sambar powder, 1 teaspoon of coriander powder and salt to taste (or a conservative amount that is your best guess and add more after you are able to taste the dish and decide).
+3. Watch the urad dal as they turn brown (as seen between [here](images/recipes/brinjal_fry/urad_before.jpeg) and [here](images/recipes/brinjal_fry/urad_after.jpeg)) until they are crispy rather than chewy (try a piece if it is your first time using this lentil variety this way). _If you have curry leaves, add them at this point and let them fry for a few seconds until scalded._
+4. Add the onions into the pot and fry them until they start to look translucent.
+5. Add 1 teaspoon of sambar powder (1.5 if you want it spicier), 1 teaspoon of coriander powder and salt to taste (or a conservative amount that is your best guess and add more after you are able to taste the dish and decide).
 6. Add the chopped brinjal and mix well until the mixture coats them well.
 7. Add a splash of water (40 - 50 mL or grams) and cook covered until the brinjals turn soft and cooked through. Stir occasionally to prevent sticking
 8. Check on the pot every few minutes and add another splash of water as it might start is sticking to the bottom and give it a stir. I usually end up doing this a couple of times.
@@ -93,6 +94,4 @@ Here, I have done my best to help understand the role of each of the components 
 
 Often, Indian recipes use terms that are difficult to make sense of for those unfamiliar with the techniques used in the cuisine (eg. fry tomato-onion mix until the oil begins to separate, cook the rice for 3 whistles). I have done my best to avoid this and be as descriptive as possible but please let me know if I slipped up!
 
-I usually find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingredients! 
-
-I have added links to pictures that I have borrowed from vastly different sources to help you identify the ingredients or cooking steps if you are unfamiliar with them (I might add my own pictures in the future).
+I usually find weight measurements more convenient - especially since I set up a palm sized kitchen scale in an easily accessible spot in my kitchen - but the quantities do not need to be so precisely measured so feel free to use volumes or eyeball them if you are used to the ingredients!
