@@ -12,7 +12,7 @@ end_date: 2016-10-01
 
 **Context**: 
   * The project aimed to cut infrastructure requirements for biomanufacturing initiatives by engineering bacteria that can autoinduce protein overexpression and autoaggregate when production is complete, replacing the need for centrifugation of large cultures.
-  * More in our poster summarizing the project: [iGEM Project](/files/Cellfiefuge_poster.pdf)
+  * More in our poster summarizing the project: [iGEM Project Poster](/files/Cellfiefuge_poster.pdf)
 
 **Experience**:
   * An article summarizing our experience as the first team from the institute and how our efforts paved the way to future teams that have since won awards and special mentions for their work: https://connect.iisc.ac.in/2021/12/redesigning-the-genome/
