@@ -11,6 +11,8 @@ start_date: 2024-08-01
 end_date: 2024-10-01
 ---
 
+Little is known about the gut microbiome of wild honeybees. Taking advantage of a large collection of wild honeybees of various subspecies from across Africa, painstakingly put together by our collaborators, we are investigating the differences in the gut microbiome of wild and managed honeybees. We are using shotgun metagenomics to resolve strain-level differences in the gut bacterial community and are currently analyzing the data to identify bacterial strains and species that are found in wild and managed honeybees and investigating their distribution across colonies of different subspecies.
+
 **Context**: 
   * In Europe or North America, honeybees (_Apis mellifera_) that you've seen flying about was most likely from a managed farm or escaped from one (this is being freshly debated). 
   * "Wild" honeybees are only found across parts of Africa and Asia which is their natural habitat but, they have been transported by humans across the world over the past few centuries. 

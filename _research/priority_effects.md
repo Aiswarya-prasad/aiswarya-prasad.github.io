@@ -22,6 +22,8 @@ media:
     height: 300
 ---
 
+In this ongoing study we aim to understand how bacterial strains in the gut microbiome interact with each other. I assemble synthetic microbial communities comprising honeybee-associated Lactobacillus and Bifidobacterium species and feed them to honeybees to study how strains of the same species compete with each other. We expect to see priority effects at the strain-level and that species will coexist by niche partitioning. We have developed a high-throughput compatible PacBio metagenomic approach to quantitatively detect strains in the gut. A pilot experiment points to clear signs of co-existance of strains between species but priority effects between strains of the same species. I carried out more replicates and combinations of strains and am currently analyzing the data to confirm the observations from the pilot experiment.
+
 **Context**: 
   * Understanding the factors influencing and maintaining strain-level community composition in microbiomes is crucial for predicting and manipulating microbial communities. 
   * Microbe-microbe interactions in the context of a microbial community at the strain-level are still understudied. 
