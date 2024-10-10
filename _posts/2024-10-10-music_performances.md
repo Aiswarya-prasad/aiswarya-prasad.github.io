@@ -1,5 +1,5 @@
 ---
-title: 'Small music performances in the past few years'
+title: 'Music performances in the past few years'
 date: 2024-10-10
 collection: posts
 author_profile: false
