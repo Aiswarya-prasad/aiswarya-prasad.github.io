@@ -7,7 +7,7 @@ start_year: 2021
 end_year: 2024
 permalink: /engagement/talksandconferences
 media:
-  - path: "/images/research/LocalPangenomeConference.jpg"
+  - path: "/images/research/LocalPangenomeConference.jpeg"
     alt: "Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference"
     focal_point: Smart
     width: 350
@@ -25,7 +25,7 @@ media:
     width: 350
     height: 300
     add_break: false
-  - path: "images/research/Vm3iisc.jpg"
+  - path: "images/research/Vm3iisc.jpeg"
     alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
     focal_point: Smart
     width: 350
