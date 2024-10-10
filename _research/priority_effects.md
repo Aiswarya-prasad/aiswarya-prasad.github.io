@@ -6,6 +6,7 @@ title: "Priority Effects in the honeybee gut"
 collection: research
 venue: "UNIL, Department Fundamental Microbiology"
 location: "Lausanne, Switzerland"
+order: 3
 start_date: 2022-08-01
 end_date: 2024-10-01
 ---

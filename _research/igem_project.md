@@ -6,6 +6,7 @@ title: "iGEM Project - Cellfiefuge"
 collection: research
 venue: "Indian Institute of Science"
 location: "Bengaluru, India"
+order: 6
 start_date: 2016-02-01
 end_date: 2016-10-01
 ---

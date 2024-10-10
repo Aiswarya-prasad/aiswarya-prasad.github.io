@@ -6,6 +6,7 @@ title: "Gut microbiome of wild and managed honeybees"
 collection: research
 venue: "UNIL, Department Fundamental Microbiology"
 location: "Lausanne, Switzerland"
+order: 2
 start_date: 2024-08-01
 end_date: 2024-10-01
 ---

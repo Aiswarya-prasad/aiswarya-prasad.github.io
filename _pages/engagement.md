@@ -5,6 +5,7 @@ permalink: /engagement/
 author_profile: true
 ---
 
-{% for post in site.engagement reversed %}
+{% assign sorted_posts = site.engagement | sort: 'order' %}
+{% for post in sorted_posts %}
   {% include item-with-desc.html %}
 {% endfor %}

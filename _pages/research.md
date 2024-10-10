@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-{% for post in site.research reversed %}
+{% assign sorted_posts = site.research | sort: 'order' %}
+{% for post in sorted_posts %}
   {% include item-with-desc.html %}
 {% endfor %}

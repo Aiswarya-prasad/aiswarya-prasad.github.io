@@ -8,6 +8,7 @@ venue: "UNIL, Department Fundamental Microbiology"
 location: "Lausanne, Switzerland"
 start_date: 2020-08-01
 end_date: 2024-10-01
+order: 1
 media:
   - path: "/images/research/Apis_dorsata_HoneyBee.jpg"
     thumbnail: "/images/AP_Profile_picture.jpg"
