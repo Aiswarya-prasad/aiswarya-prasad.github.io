@@ -9,6 +9,17 @@ location: "Lausanne, Switzerland"
 order: 3
 start_date: 2022-08-01
 end_date: 2024-10-01
+media:
+  - path: "/files/BeeFeeding-NoText.mp4"
+    alt: "Video of handfeeding bees by a pipette"
+    focal_point: Smart
+    width: 200
+    height: 300
+  - path: "/images/research/culturingBacteria.jpeg"
+    alt: "Aiswarya Prasad in microbiologist culturing bacteria"
+    focal_point: Smart
+    width: 350
+    height: 300
 ---
 
 **Context**: 

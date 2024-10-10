@@ -2,14 +2,14 @@
 title: "Contribution to the scientific community"
 layout: page
 collection: engagement
-order: 1
+order: 2
 start_year: 2023
 end_year: 2024
 permalink: /engagement/scientificcommunity
 ---
 
-
----
+* Contributed to [Methods in Microbiomics](https://methods-in-microbiomics.readthedocs.io/en/latest/index.html) - Jan 2024
+  * Set of guidelines and best practices for robust and reproducible bioinformatics processing and data analysis with the focus on Microbiomics research.
 
 * Peer review of journal publications - 2023 – Present
   * Ecological monographs (1) and Insect Molecular Biology (1)

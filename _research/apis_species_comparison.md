@@ -10,17 +10,20 @@ start_date: 2020-08-01
 end_date: 2024-10-01
 order: 1
 media:
-  - path: "/images/research/Apis_dorsata_HoneyBee.jpg"
-    thumbnail: "/images/AP_Profile_picture.jpg"
+  - path: "/images/research/Apis_florea_HoneyBee.jpg"
     alt: "Apis Profile Picture"
     focal_point: Smart
     width: 350
     height: 300
-  - path: "/files/BeeFeeding-NoText.mp4"
-    thumbnail: /assets/images/igem_project.jpg
-    alt: "Video of bees feeding"
+  - path: "/images/research/DorsataStinger.jpeg"
+    alt: "Stinger of Apis Dorsata on a glove"
     focal_point: Smart
     width: 200
+    height: 300
+  - path: "/images/research/HoneybeeSampling.jpeg"
+    alt: "Apis Profile Picture"
+    focal_point: Smart
+    width: 350
     height: 300
 ---
 
