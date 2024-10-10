@@ -2,7 +2,7 @@
 layout: archive
 permalink: /research/igem_project
 author_profile: false
-title: "iGEM Project"
+title: "iGEM Project - Cellfiefuge"
 collection: research
 venue: "Indian Institute of Science"
 location: "Bengaluru, India"

@@ -2,7 +2,7 @@
 layout: archive
 permalink: /research/wild_vs_managed
 author_profile: true
-title: "Wild vs Managed honeybee microbiome"
+title: "Gut microbiome of wild and managed honeybees"
 collection: research
 venue: "UNIL, Department Fundamental Microbiology"
 location: "Lausanne, Switzerland"

@@ -33,7 +33,7 @@ media:
 
 **Expectations and Results**:
   * Using shotgun metagenomics on 200 honeybee workers from five species, we recovered thousands of metagenome-assembled genomes, identifying several novel bacterial species.
-  *  We found both specialist and generalist bacteria, with notable variation between host species. Some generalists emerged host-specific only at the strain level, suggesting recent host switches. 
-  *  No evidence of codiversification was found; instead, symbiont gains, losses, and replacements led to functional differences, such as the ability to degrade pollen-derived pectin.
-  *   Our results provide new insights into gut microbiota evolution and uncover the functional potential of the previously underexplored gut microbiota of these important pollinators.
+  * We found both specialist and generalist bacteria, with notable variation between host species. Some generalists emerged host-specific only at the strain level, suggesting recent host switches. 
+  * No evidence of codiversification was found; instead, symbiont gains, losses, and replacements led to functional differences, such as the ability to degrade pollen-derived pectin.
+  * Our results provide new insights into gut microbiota evolution and uncover the functional potential of the previously underexplored gut microbiota of these important pollinators.
 

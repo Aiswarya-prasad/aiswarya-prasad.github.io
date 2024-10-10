@@ -2,7 +2,7 @@
 layout: archive
 permalink: /research/cp_microbiome
 author_profile: false
-title: "CP Microbiome"
+title: "Gut Microbiome in Chronic Pancreatitis"
 collection: research
 venue: "Indian Institute of Science"
 location: "Bengaluru, India"

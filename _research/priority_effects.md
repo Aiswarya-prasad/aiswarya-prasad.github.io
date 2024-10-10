@@ -2,7 +2,7 @@
 layout: archive
 permalink: /research/priority_effects
 author_profile: false
-title: "Priority Effects"
+title: "Priority Effects in the honeybee gut"
 collection: research
 venue: "UNIL, Department Fundamental Microbiology"
 location: "Lausanne, Switzerland"
