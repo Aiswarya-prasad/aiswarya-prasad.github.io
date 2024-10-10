@@ -1,32 +1,36 @@
 ---
 title: "Talks, Conferences and Workshops"
-layout: page
+layout: archive
 collection: engagement
 order: 1
 start_year: 2021
 end_year: 2024
-permalink: /engagement/scientificcommunity
+permalink: /engagement/talksandconferences
 media:
   - path: "/images/research/LocalPangenomeConference.jpg"
     alt: "Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference"
     focal_point: Smart
     width: 350
     height: 300
+    add_break: false
   - path: "/images/research/MonashTalkPoster.PNG"
     alt: "Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia"
     focal_point: Smart
     width: 350
     height: 300
+    add_break: true
   - path: "/images/research/SymbnetSummerSchoolPoster.jpeg"
     alt: "Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis"
     focal_point: Smart
     width: 350
     height: 300
+    add_break: false
   - path: "images/research/Vm3iisc.jpg"
     alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
     focal_point: Smart
     width: 350
     height: 300
+    add_break: true
 ---
 
 

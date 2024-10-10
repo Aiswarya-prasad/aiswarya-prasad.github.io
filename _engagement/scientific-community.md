@@ -1,6 +1,6 @@
 ---
 title: "Contribution to the scientific community"
-layout: page
+layout: archive
 collection: engagement
 order: 2
 start_year: 2023
@@ -25,3 +25,6 @@ permalink: /engagement/scientificcommunity
 
 * Local volunteer - Aug 2022
   * ISME-18 (International Society of Microbial Ecology) conference
+
+
+---
