@@ -14,7 +14,7 @@ redirect_from:
 ### Quick Links
 
 <!-- make a table -->
-[Publications](/cv#publications) | [Talks and Conferences](/engagement/talksandconferences) | [CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Resume](/files/AiswaryaPrasad_industry_resume.pdf)
+[Publications](/cv#publications) | [Talks and Presentations](/engagement/talksandconferences) | [Academic CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Technical Resume](/files/AiswaryaPrasad_industry_resume.pdf)
 
 <!-- (https://scholar.google.com/citations?hl=de&user=hfsPlPcAAAAJ&view_op=list_works&sortby=pubdate) -->
 
