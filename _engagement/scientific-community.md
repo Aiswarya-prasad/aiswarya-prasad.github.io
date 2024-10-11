@@ -8,6 +8,8 @@ end_year: 2024
 permalink: /engagement/scientificcommunity
 ---
 
+---
+
 * Contributed to [Methods in Microbiomics](https://methods-in-microbiomics.readthedocs.io/en/latest/comparative_genomics/SNVs_metagenomics.html) - Jan 2024
   * Set of guidelines and best practices for robust and reproducible bioinformatics processing and data analysis with the focus on Microbiomics research.
 
@@ -25,6 +27,3 @@ permalink: /engagement/scientificcommunity
 
 * Local volunteer - Aug 2022
   * ISME-18 (International Society of Microbial Ecology) conference
-
-
----
