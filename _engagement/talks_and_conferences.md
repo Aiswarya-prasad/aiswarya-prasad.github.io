@@ -11,23 +11,23 @@ media:
     alt: "Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference"
     focal_point: Smart
     width: 300
-    height: 300
+    height: 200
   - path: "/images/research/MonashTalkPoster.PNG"
     alt: "Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia"
     focal_point: Smart
     width: 500
-    height: 300
+    height: 200
     add_break: true
   - path: "/images/research/Vm3iisc.png"
     alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
     focal_point: Smart
     width: 500
-    height: 300
+    height: 200
   - path: "/images/research/SymbnetSummerSchoolPoster.jpeg"
     alt: "Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis"
     focal_point: Smart
-    width: 300
-    height: 300
+    width: 150
+    height: 200
 ---
 
 
@@ -44,10 +44,10 @@ Variation and specialization of structure and function of gut microbial communit
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 1;">
-    <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" style="width: 100%; height: 200px;" />
+    <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" style="width: 100%; height: 300px;" />
   </div>
-  <div style="flex: 1;">
-    <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" style="width: 100%; height: 200px;" />
+  <div style="flex: 3;">
+    <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" style="width: 100%; height: 300px;" />
   </div>
 </div>
 
@@ -56,7 +56,7 @@ _Apr 2023_ \\
 School of Science, Monash University Malaysia \\
 Evolutionary and functional insight into gut microbial community persity across honeybee species
 
-<img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="300" height="150" />
+<img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="400" height="300" />
 
 Conferences and Workshops
 ======
@@ -76,23 +76,22 @@ _Jul 2022_ \\
 Instituto Gulbenkian de Ciência, Lisbon \\
 Poster: Understanding the evolution of the gut microbiome across honeybee species
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="flex: 0 0 200px; max-width: 200px; height: 150px; margin: 5px;">
-    <img src="/images/research/SymbnetSummerSchoolPoster.jpeg" alt="Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 100%;" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="flex: 1;">
+    <img src="/images/research/SymbnetSummerSchoolPoster.jpeg" alt="Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>
-  <div style="flex: 0 0 300px; max-width: 300px; height: 150px; margin: 5px;">
-    <img src="/images/research/SymbnetSummerSchool2022.jpeg" alt="Aiswarya Prasad at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 100%;" />
+  <div style="flex: 3;">
+    <img src="/images/research/SymbnetSummerSchool2022.jpeg" alt="Aiswarya Prasad at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>
-  <div style="flex: 0 0 300px; max-width: 300px; height: 150px; margin: 5px;">
-    <img src="/images/research/SymbnetSummerSchoolProjectGroup.jpeg" alt="Aiswarya Prasad discussing her group project at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 100%;" />
+  <div style="flex-basis: 100%; height: 0;"></div> <!-- This forces the next item to the next row -->
+  <div style="flex: 2;">
+    <img src="/images/research/SymbnetSummerSchoolProjectGroup.jpeg" alt="Aiswarya Prasad discussing her group project at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>
 </div>
-
 
 **Outreach to highschool students** \\
 _Aug 2016_ \\
 iGEM team, Indian Institute of Science, Bengaluru, India \\
 Talked about synthetic biology and the iGEM competition to highschool students in Vidya Mandir school, Chennai, India
 
-<img src="/images/research/Vm3iisc.png" alt="Aiswarya Prasad speaking to an auditorium of highschool students" width="500" height="150" />
+<img src="/images/research/Vm3iisc.png" alt="Aiswarya Prasad speaking to an auditorium of highschool students" width="500" height="300" />
