@@ -14,7 +14,7 @@ media:
     thumbnail: "/images/research/HoneyBeeFeedingThumnbnail.png"
     alt: "Video of handfeeding bees by a pipette"
     focal_point: Smart
-    width: 350
+    width: 250
     height: 300
   - path: "/images/research/culturingBacteria.jpeg"
     alt: "Aiswarya Prasad in microbiologist culturing bacteria"
