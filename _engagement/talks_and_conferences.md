@@ -10,25 +10,25 @@ media:
   - path: "/images/research/MonashTalkPoster.PNG"
     alt: "Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia"
     focal_point: Smart
-    width: 400
-    height: 300
-    add_break: true
-  - path: "/images/research/Vm3iisc.png"
-    alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
-    focal_point: Smart
-    width: 400
+    width: 500
     height: 300
     add_break: true
   - path: "/images/research/LocalPangenomeConference.jpeg"
     alt: "Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference"
     focal_point: Smart
     width: 200
-    height: 150
+    height: 300
+  - path: "/images/research/Vm3iisc.png"
+    alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
+    focal_point: Smart
+    width: 500
+    height: 300
+    add_break: true
   - path: "/images/research/SymbnetSummerSchoolPoster.jpeg"
     alt: "Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis"
     focal_point: Smart
     width: 200
-    height: 50
+    height: 300
 ---
 
 

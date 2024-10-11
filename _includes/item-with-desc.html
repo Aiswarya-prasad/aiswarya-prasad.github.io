@@ -85,8 +85,8 @@
                     style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;" />
                 {% endif %}
             </div>
-            {% if media.add_break == true %}
-            <br>
+            {% if media.add_break %}
+                <br>
             {% endif %}
             {% endfor %}
         </div>
