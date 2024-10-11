@@ -29,7 +29,7 @@ media:
     alt: "Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis"
     focal_point: Smart
     width: 200
-    height: 150
+    height: 50
     add_break: false
 ---
 
