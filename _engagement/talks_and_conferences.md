@@ -43,15 +43,14 @@ Alicante, Spain \\
 Variation and specialization of structure and function of gut microbial community across host species
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="flex: 0 0 200px; max-width: 200px; height: 150px; margin: 5px;">
-    <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" style="width: 100%; height: 100%;" />
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+    <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" style="width: 100%; height: 200px; object-fit: cover;" />
   </div>
-  <div style="flex: 0 0 300px; max-width: 300px; height: 150px; margin: 5px;">
-    <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" style="width: 100%; height: 100%;" />
+  <div style="flex: 1;">
+    <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" style="width: 100%; height: 200px; object-fit: cover;" />
   </div>
 </div>
-
 
 **Academic Seminar Series - Speaker** \\
 _Apr 2023_ \\
