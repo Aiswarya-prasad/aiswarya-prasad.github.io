@@ -46,8 +46,8 @@ Variation and specialization of structure and function of gut microbial communit
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" width="300" height="350" />
-  <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" width="400" height="350" />
+  <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" width="200" height="150" />
+  <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" width="300" height="150" />
 </div>
 
 
@@ -56,7 +56,7 @@ _Apr 2023_ \\
 School of Science, Monash University Malaysia \\
 Evolutionary and functional insight into gut microbial community persity across honeybee species
 
-<img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="400" height="300" />
+<img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="300" height="150" />
 
 Conferences and Workshops
 ======
@@ -88,4 +88,4 @@ _Aug 2016_ \\
 iGEM team, Indian Institute of Science, Bengaluru, India \\
 Talked about synthetic biology and the iGEM competition to highschool students in Vidya Mandir school, Chennai, India
 
-<img src="/images/research/Vm3iisc.png" alt="Aiswarya Prasad speaking to an auditorium of highschool students" width="300" height="150" />
+<img src="/images/research/Vm3iisc.png" alt="Aiswarya Prasad speaking to an auditorium of highschool students" width="500" height="150" />
