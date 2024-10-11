@@ -11,15 +11,16 @@ start_date: 2022-08-01
 end_date: 2024-10-01
 media:
   - path: "/files/BeeFeeding-NoText.mp4"
+    thumbnail: "/images/research/HoneyBeeFeedingThumnbnail.png"
     alt: "Video of handfeeding bees by a pipette"
     focal_point: Smart
-    width_ratio: 300
-    height_ratio: 350
+    width: 350
+    height: 300
   - path: "/images/research/culturingBacteria.jpeg"
     alt: "Aiswarya Prasad in microbiologist culturing bacteria"
     focal_point: Smart
-    width_ratio: 350
-    height_ratio: 350
+    width: 300
+    height: 300
 ---
 
 In this ongoing study we aim to understand how bacterial strains in the gut microbiome interact with each other. I assemble synthetic microbial communities comprising honeybee-associated Lactobacillus and Bifidobacterium species and feed them to honeybees to study how strains of the same species compete with each other. We expect to see priority effects at the strain-level and that species will coexist by niche partitioning. We have developed a high-throughput compatible PacBio metagenomic approach to quantitatively detect strains in the gut. A pilot experiment points to clear signs of co-existance of strains between species but priority effects between strains of the same species. I carried out more replicates and combinations of strains and am currently analyzing the data to confirm the observations from the pilot experiment.
