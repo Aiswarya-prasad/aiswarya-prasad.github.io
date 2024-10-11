@@ -1,5 +1,5 @@
 ---
-title: "Talks, Conferences and Workshops"
+title: ""
 layout: archive
 collection: engagement
 order: 1
@@ -58,7 +58,7 @@ Evolutionary and functional insight into gut microbial community persity across 
 
 <img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="500" height="400" />
 
-Conferences and Workshops
+Posters and Presentations
 ======
 
 **Gordon Research Conference and Seminar (Animal Microbe Symbiosis)** \\
