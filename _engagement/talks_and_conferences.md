@@ -46,8 +46,8 @@ Variation and specialization of structure and function of gut microbial communit
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" width="200" height="150" />
-  <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" width="200" height="150" />
+  <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" width="300" height="350" />
+  <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" width="400" height="350" />
 </div>
 
 
@@ -78,8 +78,8 @@ Poster: Understanding the evolution of the gut microbiome across honeybee specie
 
 <div style="display: flex; justify-content: space-around;">
   <img src="/images/research/SymbnetSummerSchoolPoster.jpeg" alt="Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis" width="200" height="150" />
-  <img src="/images/research/SymbnetSummerSchool2022.jpeg" alt="Aiswarya Prasad at the SymbNET PhD Summer School on Host-Microbe Symbiosis" width="200" height="150" />
-  <img src="/images/research/SymbnetSummerSchoolProjectGroup.jpeg" alt="Aiswarya Prasad discussing her group project at the SymbNET PhD Summer School on Host-Microbe Symbiosis" width="200" height="150" />
+  <img src="/images/research/SymbnetSummerSchool2022.jpeg" alt="Aiswarya Prasad at the SymbNET PhD Summer School on Host-Microbe Symbiosis" width="400" height="150" />
+  <img src="/images/research/SymbnetSummerSchoolProjectGroup.jpeg" alt="Aiswarya Prasad discussing her group project at the SymbNET PhD Summer School on Host-Microbe Symbiosis" width="300" height="150" />
 </div>
 
 
