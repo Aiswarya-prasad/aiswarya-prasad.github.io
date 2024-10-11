@@ -73,14 +73,19 @@
             {% for media in post.media %}
             <div style="margin-right: 10px;">
                 {% if media.path contains ".mp4" or media.path contains ".webm" or media.path contains ".ogg" %}
-                <video controls style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;">
+                <video controls
+                    style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;">
                     <source src="{{ media.path | prepend: base_path }}" type="video/{{ media.path | split: '.' | last }}">
                     Your browser does not support the video tag.
                 </video>
                 {% else %}
-                <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}" style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;" />
+                <img src="{{ media.path | prepend: base_path }}" alt="{{ media.alt }}"
+                    style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;" />
                 {% endif %}
             </div>
+            {% if media.height == 0 or media.height == nil %}
+            <div style="color: red;">Error: Invalid height value for media item.</div>
+            {% endif %}
             {% endfor %}
         </div>
         {% endif %}
