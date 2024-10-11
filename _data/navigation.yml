@@ -12,8 +12,8 @@ main:
   - title: "Engagement"
     url: /engagement/
   
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
   
   - title: "Interests"
-    url: /category-archive/
+    url: /categories/

@@ -55,19 +55,19 @@ Conferences and Workshops
 Gordon Research Conference and Seminar (Animal Microbe Symbiosis) \\
 _Jun 2023_ \\
 Lucca, Italy \\
-Poster: Evolutionary and functional insight into gut microbial community persity across honeybee species using metagenomics \\
+Poster: Evolutionary and functional insight into gut microbial community persity across honeybee species using metagenomics
 
 CSHL Meeting: Microbiome \\
 _Oct 2023_ \\
 Cold Spring Harbor Laboratories, USA \\
-Poster: Whole-genome shotgun metagenomics reveals differences in gut microbiomes among honeybee species \\
+Poster: Whole-genome shotgun metagenomics reveals differences in gut microbiomes among honeybee species
 
 SymbNET PhD Summer School on Host-Microbe Symbiosis \\
 _Jul 2022_ \\
 Instituto Gulbenkian de Ciência, Lisbon \\
-Poster: Understanding the evolution of the gut microbiome across honeybee species \\
+Poster: Understanding the evolution of the gut microbiome across honeybee species
 
 Outreach to highschool students \\
 _Aug 2016_ \\
 iGEM team, Indian Institute of Science, Bengaluru, India \\
-Talked about synthetic biology and the iGEM competition to highschool students in Vidya Mandir school, Chennai, India \\
+Talked about synthetic biology and the iGEM competition to highschool students in Vidya Mandir school, Chennai, India
