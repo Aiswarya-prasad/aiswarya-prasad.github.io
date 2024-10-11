@@ -6,28 +6,28 @@ order: 1
 start_year: 2021
 end_year: 2024
 permalink: /engagement/talksandconferences
-media:
-  - path: "/images/research/LocalPangenomeConference.jpeg"
-    alt: "Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference"
-    focal_point: Smart
-    width: 300
-    height: 300
-  - path: "/images/research/MonashTalkPoster.PNG"
-    alt: "Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia"
-    focal_point: Smart
-    width: 500
-    height: 300
-    add_break: true
-  - path: "/images/research/Vm3iisc.png"
-    alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
-    focal_point: Smart
-    width: 500
-    height: 300
-  - path: "/images/research/SymbnetSummerSchoolPoster.jpeg"
-    alt: "Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis"
-    focal_point: Smart
-    width: 150
-    height: 300
+# media:
+#   - path: "/images/research/LocalPangenomeConference.jpeg"
+#     alt: "Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference"
+#     focal_point: Smart
+#     width: 300
+#     height: 300
+#   - path: "/images/research/MonashTalkPoster.PNG"
+#     alt: "Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia"
+#     focal_point: Smart
+#     width: 500
+#     height: 300
+#     add_break: true
+#   - path: "/images/research/Vm3iisc.png"
+#     alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
+#     focal_point: Smart
+#     width: 500
+#     height: 300
+#   - path: "/images/research/SymbnetSummerSchoolPoster.jpeg"
+#     alt: "Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis"
+#     focal_point: Smart
+#     width: 150
+#     height: 300
 ---
 
 
