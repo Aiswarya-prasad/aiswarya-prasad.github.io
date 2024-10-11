@@ -14,6 +14,6 @@ date_end: 2018-11-29
 
 ---
 
-Advocated for inclusive policymaking, prioritizing the involvement of young scientists in discussions concerning genetic engineering as an iGEM delegate.
+At the UN CBD I participated in several discussions and forums advocating for inclusive policymaking and the importance prioritizing the involvement of young scientists in discussions concerning genetic engineering as an iGEM delegate.
 
-An article summarizing our experience as the iGEM delegation at important international forums: https://blog.igem.org/blog/2020/9/23/uncharted-waters-the-experience-of-igem-delegates-with-scientific-diplomacy
+We contributed to an article about our experiences as a delegation of young scientists at significant international forums, which can be found [here](https://blog.igem.org/blog/2020/9/23/uncharted-waters-the-experience-of-igem-delegates-with-scientific-diplomacy).
