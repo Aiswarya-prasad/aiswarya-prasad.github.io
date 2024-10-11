@@ -45,10 +45,10 @@ Variation and specialization of structure and function of gut microbial communit
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 1;">
-    <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" style="width: 100%; height: 200px; object-fit: cover;" />
+    <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" style="width: 100%; height: 200px;" />
   </div>
   <div style="flex: 1;">
-    <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" style="width: 100%; height: 200px; object-fit: cover;" />
+    <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" style="width: 100%; height: 200px;" />
   </div>
 </div>
 
