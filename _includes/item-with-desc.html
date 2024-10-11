@@ -68,6 +68,8 @@
         </p>
         {% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
+         <!-- if add_break property is specified as true (call it false by default) 
+            add a new line after the media -->
         {% if post.media %}
         <div class="media-container" style="display: flex; align-items: flex-start;">
             {% for media in post.media %}
@@ -83,6 +85,9 @@
                     style="width: {{ media.width | default: '200' }}px; height: {{ media.height | default: '300' }}px;" />
                 {% endif %}
             </div>
+            {% if media.add_break == true %}
+            <div style="flex-basis: 100%; height: 0;"></div>
+            {% endif %}
             {% endfor %}
         </div>
         {% endif %}

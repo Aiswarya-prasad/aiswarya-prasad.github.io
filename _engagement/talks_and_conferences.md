@@ -24,13 +24,11 @@ media:
     focal_point: Smart
     width: 200
     height: 150
-    add_break: false
   - path: "/images/research/SymbnetSummerSchoolPoster.jpeg"
     alt: "Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis"
     focal_point: Smart
     width: 200
     height: 50
-    add_break: false
 ---
 
 
