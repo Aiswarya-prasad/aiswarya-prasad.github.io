@@ -12,6 +12,11 @@ redirect_from:
 >
 > Where I would like to go: 5 years from now I would like be able to say, "You know of that microbiome product which is now the only viable cure for a pressing women's health issue?" or "the most clean and sustainable solution to pest control?", I made that happen!
 
+### Quick Links
+
+<!-- make a table -->
+| [Research](/research) | [Engagement](/engagement) | [Publications](/publications) | [Talks and Conferences](/engagement/talksandconferences) | [CV](/files/AiswaryaPrasad_CV.pdf) | [Contact](/contact) |
+
 
 <!-- # My Background
 
