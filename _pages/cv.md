@@ -51,7 +51,9 @@ _May 2016 - Oct 2016_ \\
 Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
 
 
-<a id="publications"></a>Publications
+<a id="publications"></a>
+
+Publications
 ======
 
 Mazel, F., **Prasad, A.**, Engel, P. (2024) Host specificity of gut microbiota associated with social bees: patterns and processes. Microbiology and Molecular Biology Reviews (In Review)
