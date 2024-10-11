@@ -4,8 +4,8 @@ permalink: /research/apis_species_comparison
 author_profile: false
 title: "Apis species comparison"
 collection: research
-venue: "UNIL, Department Fundamental Microbiology"
-location: "Lausanne, Switzerland"
+venue: "University of Lausanne"
+location: "Switzerland"
 start_date: 2020-08-01
 end_date: 2024-10-01
 order: 1
