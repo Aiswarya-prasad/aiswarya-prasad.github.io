@@ -45,3 +45,4 @@ By leveraging shotgun metagenomics across 200 honeybees sampled from Malaysia an
   * Using shotgun metagenomics on 200 honeybee workers from five species, we recovered thousands of metagenome-assembled genomes, identifying several novel bacterial species.
   * We found both specialist and generalist bacteria, with notable variation between host species. Some generalists emerged host-specific only at the strain level, suggesting recent host switches. 
   * No evidence of codiversification was found; instead, symbiont gains, losses, and replacements led to functional differences, such as the ability to degrade pollen-derived pectin.
+  * This work has been released as a [pre-print](https://www.biorxiv.org/content/10.1101/2024.09.11.612390v1) and is currently undergoing peer-review.

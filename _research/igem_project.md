@@ -13,12 +13,12 @@ media:
   - path: "/images/research/iGEM-2016-team.png"
     alt: "Undergraduate students from the 2016 IISc iGEM team"
     focal_point: Smart
-    width: 200
+    width: 400
     height: 300
   - path: "/images/research/Svce1iiscc.png"
     alt: "Undergraduate students from the 2016 IISc iGEM team and SVCE team"
     focal_point: Smart
-    width: 200
+    width: 400
     height: 300
 ---
 

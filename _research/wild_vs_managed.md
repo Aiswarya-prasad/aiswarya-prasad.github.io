@@ -13,12 +13,12 @@ media:
   - path: "/images/research/Honeybees_wild_managed.png"
     alt: "Drawing of wild and managed honeybees"
     focal_point: Smart
-    width: 450
+    width: 500
     height: 350
   - path: "/images/research/Honeybees_Microbiome_drawing.png"
     alt: "Drawing of honeybee gut microbiome research scheme"
     focal_point: Smart
-    width: 450
+    width: 500
     height: 350
 ---
 
