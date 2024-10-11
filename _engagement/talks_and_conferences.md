@@ -45,9 +45,13 @@ Alicante, Spain \\
 Variation and specialization of structure and function of gut microbial community across host species
 
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" width="200" height="150" />
-  <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" width="300" height="150" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="flex: 0 0 200px; max-width: 200px; height: 150px; margin: 5px;">
+    <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" style="width: 100%; height: 100%;" />
+  </div>
+  <div style="flex: 0 0 300px; max-width: 300px; height: 150px; margin: 5px;">
+    <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" style="width: 100%; height: 100%;" />
+  </div>
 </div>
 
 
@@ -76,7 +80,7 @@ _Jul 2022_ \\
 Instituto Gulbenkian de Ciência, Lisbon \\
 Poster: Understanding the evolution of the gut microbiome across honeybee species
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex">
   <img src="/images/research/SymbnetSummerSchoolPoster.jpeg" alt="Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis" width="200" height="150" />
   <img src="/images/research/SymbnetSummerSchool2022.jpeg" alt="Aiswarya Prasad at the SymbNET PhD Summer School on Host-Microbe Symbiosis" width="400" height="150" />
   <img src="/images/research/SymbnetSummerSchoolProjectGroup.jpeg" alt="Aiswarya Prasad discussing her group project at the SymbNET PhD Summer School on Host-Microbe Symbiosis" width="300" height="150" />
