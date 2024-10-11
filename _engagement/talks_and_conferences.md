@@ -31,7 +31,7 @@ media:
 ---
 
 
----
+<!--more-->
 
 Invited Talks
 ======
@@ -43,10 +43,10 @@ Variation and specialization of structure and function of gut microbial communit
 
 
 <div style="display: flex; gap: 10px;">
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <img src="/images/research/LocalPangenomeConference.jpeg" alt="Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference" style="width: 100%; height: 300px;" />
   </div>
-  <div style="flex: 3;">
+  <div style="flex: 5;">
     <img src="/images/research/LocalPangenomeGroupPicture.jpeg" alt="Aiswarya Prasad with other speakers at the Local Pangenome Conference" style="width: 100%; height: 300px;" />
   </div>
 </div>
@@ -56,7 +56,7 @@ _Apr 2023_ \\
 School of Science, Monash University Malaysia \\
 Evolutionary and functional insight into gut microbial community persity across honeybee species
 
-<img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="400" height="300" />
+<img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="500" height="400" />
 
 Conferences and Workshops
 ======
