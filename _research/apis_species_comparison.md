@@ -13,18 +13,18 @@ media:
   - path: "/images/research/Apis_florea_HoneyBee.jpg"
     alt: "Apis Profile Picture"
     focal_point: Smart
-    width: 350
-    height: 300
+    # width: 300
+    # height: 300
   - path: "/images/research/DorsataStinger.jpeg"
     alt: "Stinger of Apis Dorsata on a glove"
     focal_point: Smart
-    width: 200
-    height: 300
+    # width: 200
+    # height: 300
   - path: "/images/research/HoneybeeSampling.jpeg"
     alt: "Apis Profile Picture"
     focal_point: Smart
-    width: 350
-    height: 300
+    # width: 400
+    # height: 300
 ---
 
 Honeybees serve as great model for studying gut microbiota evolution in the context of host ecology and evolution given their well-documented ecology and evolutionary history. Unlike the more diverse microbiomes of humans, primates, and mice, honeybees offer a more tractable system for understanding how gut microbiota are distributed and have evolved. This research is crucial for understanding how symbiotic interactions change and evolve across species but has been hindered by the lack of high-resolution genomic data.
