@@ -15,8 +15,9 @@ redirect_from:
 ### Quick Links
 
 <!-- make a table -->
-| [Research](/research) | [Engagement](/engagement) | [Publications](/publications) | [Talks and Conferences](/engagement/talksandconferences) | [CV](/files/AiswaryaPrasad_CV.pdf) | [Contact](/contact) |
+[Publications](/CV#Publications) | [Talks and Conferences](/engagement/talksandconferences) | [CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Resume](/files/AiswaryaPrasad_industry_resume.pdf)
 
+<!-- (https://scholar.google.com/citations?hl=de&user=hfsPlPcAAAAJ&view_op=list_works&sortby=pubdate) -->
 
 <!-- # My Background
 
