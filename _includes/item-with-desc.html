@@ -66,6 +66,7 @@
         <p class="archive__item-excerpt" itemprop="description">
             {{ post.excerpt | markdownify }}
         </p>
+        {% endif %}
         <!-- {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %} -->
         {% if post.media %}
         <div class="media-container" style="display: flex; align-items: flex-start;">
