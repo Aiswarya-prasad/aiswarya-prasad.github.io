@@ -25,7 +25,7 @@ media:
     width: 350
     height: 300
     add_break: false
-  - path: "images/research/Vm3iisc.jpeg"
+  - path: "images/research/Vm3iisc.png"
     alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
     focal_point: Smart
     width: 350
