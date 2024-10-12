@@ -21,7 +21,7 @@ media:
   - path: "/images/research/MonashTalkPoster.PNG"
     alt: "Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia"
     focal_point: Smart
-    width: 500
+    width: 600
     height: 350
   - path: "/images/research/SymbnetSummerSchoolPoster.jpeg"
     alt: "Aiswarya Prasad presenting her poster at the SymbNET PhD Summer School on Host-Microbe Symbiosis"
