@@ -12,14 +12,14 @@ media:
     focal_point: Smart
     width: 350
     height: 400
-  - path: "/images/research/MonashTalkPoster.PNG"
-    alt: "Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia"
+  - path: "/images/research/Vm3iisc.png"
+    alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
     focal_point: Smart
     width: 600
     height: 400
     add_break: true
-  - path: "/images/research/Vm3iisc.png"
-    alt: "Aiswarya Prasad speaking to an auditorium of highschool students"
+  - path: "/images/research/MonashTalkPoster.PNG"
+    alt: "Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia"
     focal_point: Smart
     width: 500
     height: 400
