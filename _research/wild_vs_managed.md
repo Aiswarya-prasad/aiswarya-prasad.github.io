@@ -14,12 +14,12 @@ media:
     alt: "Drawing of wild and managed honeybees"
     focal_point: Smart
     width: 450
-    height: 350
+    height: 300
   - path: "/images/research/Honeybees_Microbiome_drawing.png"
     alt: "Drawing of honeybee gut microbiome research scheme"
     focal_point: Smart
     width: 450
-    height: 350
+    height: 300
 ---
 
 Little is known about the gut microbiome of wild honeybees. Taking advantage of a large collection of wild honeybees of various subspecies from across Africa, painstakingly put together by our collaborators, we are investigating the differences in the gut microbiome of wild and managed honeybees. We are using shotgun metagenomics to resolve strain-level differences in the gut bacterial community and are currently analyzing the data to identify bacterial strains and species that are found in wild and managed honeybees and investigating their distribution across colonies of different subspecies.

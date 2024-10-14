@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 
+### Quick Links
+
+<!-- make a table -->
+[Publications](/cv#publications) | [Talks and Presentations](/engagement/talksandconferences) | [Academic CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Technical Resume](/files/AiswaryaPrasad_industry_resume.pdf)
+
+
 ## About Me
 
 I am a scientist specializing in **bioinformatics** and **microbial ecology**, with a passion for understanding the complex interactions between bacteria and their environments. My goal is to leverage this knowledge to engineer synthetic microbial communities.
@@ -20,11 +26,6 @@ Looking to the future, I am eager to bridge the gap between fundamental research
 
 Tackling core challenges, particularly in emerging fields, requires a nuanced approach. However, translating insights from basic research into actionable solutions demands skills like **strategic planning** and **execution**— often underemphasized in academia. By combining my training in fundamental research with these essential skills, I aim to drive innovation and develop technologies that address key challenges in **health**, **agriculture**, and **sustainable food production**.
 
-
-### Quick Links
-
-<!-- make a table -->
-[Publications](/cv#publications) | [Talks and Presentations](/engagement/talksandconferences) | [Academic CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Technical Resume](/files/AiswaryaPrasad_industry_resume.pdf)
 
 <!-- (https://scholar.google.com/citations?hl=de&user=hfsPlPcAAAAJ&view_op=list_works&sortby=pubdate) -->
 
