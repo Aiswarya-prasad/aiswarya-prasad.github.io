@@ -10,7 +10,9 @@ redirect_from:
 
 ## About Me
 
-I am a scientist specializing in **bioinformatics** and **microbial ecology**, with a passion for understanding the complex interactions between bacteria and their environments. My goal is to leverage this knowledge to engineer synthetic microbial communities. I am excited about applying cutting-edge approaches like **high-throughput genome-resolved metagenomics**, **long-read sequencing**, and **strain-level analysis and manipulation** to gain unprecedented insights into microbial diversity and interactions. I thrive in **multidisciplinary environments**, where I can benefit from and contribute to diverse perspectives and expertise.
+I am a scientist specializing in **bioinformatics** and **microbial ecology**, with a passion for understanding the complex interactions between bacteria and their environments. My goal is to leverage this knowledge to engineer synthetic microbial communities.
+
+I am excited about applying cutting-edge approaches like **high-throughput genome-resolved metagenomics**, **long-read sequencing**, and **strain-level analysis and manipulation** to gain unprecedented insights into microbial diversity and interactions. I thrive in **multidisciplinary environments**, where I can benefit from and contribute to diverse perspectives and expertise.
 
 ## Vision
 
