@@ -8,13 +8,11 @@ redirect_from:
 ---
 
 
-> **About Me**
-> I am a scientist specializing in **bioinformatics** and **microbial ecology**, with a passion for understanding the complex interactions between bacteria and their environments. My goal is to leverage this knowledge to engineer synthetic microbial communities.
-> I am excited about applying cutting-edge approaches like **high-throughput genome-resolved metagenomics**, **long-read sequencing**, and **strain-level analysis and manipulation** to gain unprecedented insights into microbial diversity and interactions. I thrive in **multidisciplinary environments**, where I can benefit from and contribute to diverse perspectives and expertise.
+> **About Me**: I am a scientist specializing in bioinformatics and microbial ecology, with a passion for understanding the complex interactions between bacteria and their environments. My goal is to leverage this knowledge to engineer synthetic microbial communities.
+> I am excited about applying cutting-edge approaches like high-throughput genome-resolved metagenomics, long-read sequencing, and strain-level analysis and manipulation to gain unprecedented insights into microbial diversity and interactions. I thrive in multidisciplinary environments, where I can benefit from and contribute to diverse perspectives and expertise.
 
->**Vision**
->Looking to the future, I am eager to bridge the gap between fundamental research and practical, applied solutions. While **fundamental research** can be deeply fulfilling and encourages intellectual growth, it is increasingly met with skepticism by the broader community that funds it. This reflects a growing expectation for research to directly address societal needs.
->Tackling core challenges, particularly in emerging fields, requires a nuanced approach. However, translating insights from basic research into actionable solutions demands skills like **strategic planning** and **execution**— often underemphasized in academia. By combining my training in fundamental research with these essential skills, I aim to drive innovation and develop technologies that address key challenges in **health**, **agriculture**, and **sustainable food production**.
+> **Vision**: Looking to the future, I am eager to bridge the gap between fundamental research and practical, applied solutions. While fundamental research can be deeply fulfilling and encourages intellectual growth, it is increasingly met with skepticism by the broader community that funds it. This reflects a growing expectation for research to directly address societal needs.
+>Tackling core challenges, particularly in emerging fields, requires a nuanced approach. However, translating insights from basic research into actionable solutions demands skills like strategic planning and execution— often underemphasized in academia. By combining my training in fundamental research with these essential skills, I aim to drive innovation and develop technologies that address key challenges in health, agriculture, and sustainable food production.
 
 ### Quick Links
 
