@@ -58,7 +58,7 @@ Evolutionary and functional insight into gut microbial community persity across 
 
 <img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="500" height="400" />
 
-<!-- Posters and Presentations
+Posters and Presentations
 ======
 
 **Gordon Research Conference and Seminar (Animal Microbe Symbiosis)** \\
@@ -83,15 +83,15 @@ Poster: Understanding the evolution of the gut microbiome across honeybee specie
   <div style="flex: 3;">
     <img src="/images/research/SymbnetSummerSchool2022.jpeg" alt="Aiswarya Prasad at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>
-  <div style="flex-basis: 100%; height: 0;"></div> This forces the next item to the next row -->
-  <!-- <div style="flex: 2;">
+  <div style="flex-basis: 100%; height: 0;"></div> This forces the next item to the next row
+  <div style="flex: 2;">
     <img src="/images/research/SymbnetSummerSchoolProjectGroup.jpeg" alt="Aiswarya Prasad discussing her group project at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>
-</div> -->
+</div>
 
-<!-- **Outreach to highschool students** \\
+**Outreach to highschool students** \\
 _Aug 2016_ \\
 iGEM team, Indian Institute of Science, Bengaluru, India \\
 Talked about synthetic biology and the iGEM competition to highschool students in Vidya Mandir school, Chennai, India
 
-<img src="/images/research/Vm3iisc.png" alt="Aiswarya Prasad speaking to an auditorium of highschool students" width="500" height="300" /> -->
+<img src="/images/research/Vm3iisc.png" alt="Aiswarya Prasad speaking to an auditorium of highschool students" width="500" height="300" />
