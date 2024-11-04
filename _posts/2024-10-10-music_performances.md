@@ -1,5 +1,5 @@
 ---
-title: 'Music performances in the past few years'
+title: 'Music performances'
 date: 2024-10-10
 collection: posts
 author_profile: false
@@ -13,7 +13,7 @@ categories:
   - Hobby - Music
 ---
 
-I have been learning to sing carnatic music since I was in primary school. Following a newfound appreciation for the art around 2018 as an undergrad student in Bangalore, I renewed classes and have been enjoying listening and singing and taking the opportunity to perform at various local events. Here are a few videos of my performances in the past few years:
+I have been learning to sing carnatic music since I was in primary school. Following a newfound appreciation for the art around 2018 as an undergrad student in Bangalore, I renewed classes and have been enjoying listening, singing and taking the opportunity to perform at various local events and contests. Here are a few videos of my performances in the past few years:
 
 
 **Paaliseyenna** a Purandaradasa composition at a temple event in Bangalore 2018 for which I was awarded the second prize:

@@ -83,7 +83,7 @@ Poster: Understanding the evolution of the gut microbiome across honeybee specie
   <div style="flex: 3;">
     <img src="/images/research/SymbnetSummerSchool2022.jpeg" alt="Aiswarya Prasad at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>
-  <div style="flex-basis: 100%; height: 0;"></div> This forces the next item to the next row
+  <div style="flex-basis: 100%; height: 0;"></div>
   <div style="flex: 2;">
     <img src="/images/research/SymbnetSummerSchoolProjectGroup.jpeg" alt="Aiswarya Prasad discussing her group project at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>

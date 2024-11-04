@@ -8,6 +8,8 @@ end_year: 2024
 permalink: /engagement/scientificcommunity
 ---
 
+Overview of contributions to the scientific community in the form of peer review, committee participation, and contribution to the develpment of community standards.
+
 ---
 
 * Contributed to [Methods in Microbiomics](https://methods-in-microbiomics.readthedocs.io/en/latest/comparative_genomics/SNVs_metagenomics.html) - Jan 2024
