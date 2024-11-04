@@ -1,5 +1,5 @@
 ---
-title: "Talks, Presentations, and Outreach"
+title: "Talks and Presentations"
 layout: archive
 collection: engagement
 order: 1
