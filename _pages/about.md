@@ -16,7 +16,14 @@ redirect_from:
 ### Quick Links
 
 <!-- make a table -->
-[Publications](/cv#publications) | [Talks and Presentations](/engagement/talksandconferences) | [Academic CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Technical Resume](/files/AiswaryaPrasad_industry_resume.pdf)
+<!-- [Publications](/cv#publications) | [Talks and Presentations](/engagement/talksandconferences) | [Academic CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Technical Resume](/files/AiswaryaPrasad_industry_resume.pdf) -->
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="/cv#publications" style="margin-right: 20px; text-decoration: none; color: #007acc; font-weight: bold;">Publications</a>
+  <a href="/engagement/talksandconferences" style="margin-right: 20px; text-decoration: none; color: #007acc; font-weight: bold;">Talks and Presentations</a>
+  <a href="/files/AiswaryaPrasad_academic_CV.pdf" style="margin-right: 20px; text-decoration: none; color: #007acc; font-weight: bold;">Academic CV</a>
+  <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: #007acc; font-weight: bold;">Technical Resume</a>
+</div>
 
 <!-- (https://scholar.google.com/citations?hl=de&user=hfsPlPcAAAAJ&view_op=list_works&sortby=pubdate) -->
 
