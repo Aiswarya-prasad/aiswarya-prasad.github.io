@@ -1,6 +1,7 @@
 ---
 title: "Talks and Presentations"
 layout: archive
+permalink: /talks/
 collection: engagement
 order: 1
 start_year: 2021
