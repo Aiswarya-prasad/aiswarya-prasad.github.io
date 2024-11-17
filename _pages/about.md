@@ -24,6 +24,12 @@ redirect_from:
   <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: #007acc; font-weight: bold; border: 1px solid #007acc; padding: 5px; border-radius: 5px;">Technical Resume</a>
 </div>
 
+## Featured
+
+Selected talk featuring my most recent work on the gut microbiome of honeybees:
+
+<iframe src="https://cassyni.com/embed/events/MiMvAGXxaxTMCvZ75uqhpy" title="Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach - presented by Aiswarya Prasad (Cassyni)" frameBorder="0" scrolling="no" style="width:100%;height:100%;aspect-ratio:16/9;max-width:100%" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
 <!-- (https://scholar.google.com/citations?hl=de&user=hfsPlPcAAAAJ&view_op=list_works&sortby=pubdate) -->
 
 <!-- # My Background
