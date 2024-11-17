@@ -24,7 +24,7 @@ redirect_from:
   <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: #007acc; font-weight: bold; border: 1px solid #007acc; padding: 5px; border-radius: 5px;">Technical Resume</a>
 </div>
 
-## Featured
+### Featured
 
 Selected talk featuring my most recent work on the gut microbiome of honeybees:
 
