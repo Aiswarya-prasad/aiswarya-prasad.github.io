@@ -12,7 +12,7 @@ redirect_from:
 
 > **Vision**: Looking to the future, I am eager to bridge the gap between fundamental research and practical, applied solutions. While fundamental research can be deeply fulfilling and encourages intellectual growth, it is increasingly met with skepticism by the broader community that funds it. This reflects a growing expectation for research to directly address societal needs. Tackling core challenges, particularly in emerging fields, requires a nuanced approach. However, translating insights from basic research into actionable solutions demands skills like strategic planning and execution— often underemphasized in academia. By combining my training in fundamental research with these essential skills, I aim to drive innovation and develop technologies that address key challenges in health, agriculture, and sustainable food production.
 
-### Quick Links
+## Quick Links
 
 <!-- make a table -->
 <!-- [Publications](/cv#publications) | [Talks and Presentations](/engagement/talksandconferences) | [Academic CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Technical Resume](/files/AiswaryaPrasad_industry_resume.pdf) -->
@@ -23,7 +23,7 @@ redirect_from:
   <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 5px; border-radius: 5px;">Technical Resume</a>
 </div>
 
-### Featured
+## Featured
 
 Selected talk featuring my most recent work on the gut microbiome of honeybees:
 
