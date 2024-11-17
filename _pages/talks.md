@@ -65,7 +65,7 @@ Evolutionary and functional insight into gut microbial community persity across 
 
 <img src="/images/research/MonashTalkPoster.PNG" alt="Announcement of Aiswarya Prasad's academic seminar at Monash University Malaysia" width="500" height="400" />
 
-## Posters and Presentations
+## Poster Presentations
 
 
 **Gordon Research Conference and Seminar (Animal Microbe Symbiosis)** \\
@@ -95,10 +95,3 @@ Poster: Understanding the evolution of the gut microbiome across honeybee specie
     <img src="/images/research/SymbnetSummerSchool2022.jpeg" alt="Aiswarya Prasad at the SymbNET PhD Summer School on Host-Microbe Symbiosis" style="width: 100%; height: 500px; object-fit: cover;" />
   </div>
 </div>
-
-**Outreach to highschool students** \\
-_Aug 2016_ \\
-iGEM team, Indian Institute of Science, Bengaluru, India \\
-Talked about synthetic biology and the iGEM competition to highschool students in Vidya Mandir school, Chennai, India
-
-<img src="/images/research/Vm3iisc.png" alt="Aiswarya Prasad speaking to an auditorium of highschool students" width="500" height="300" />

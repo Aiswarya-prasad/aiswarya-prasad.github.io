@@ -56,7 +56,7 @@ Cellfiefuge: Auto-inducing and Auto-aggregating Bacteria
 Publications
 ======
 
-Mazel, F., **Prasad, A.**, Engel, P. (2024) Host specificity of gut microbiota associated with social bees: patterns and processes. Microbiology and Molecular Biology Reviews (In Review)
+Mazel, F., **Prasad, A.**, Engel, P. (2024) Host specificity of gut microbiota associated with social bees: patterns and processes. Microbiology and Molecular Biology Reviews (In Press)
 
 **Prasad A.**, Pallujam A. D., _et al_ (2024). Symbiont loss and gain, rather than co-diversification shapes honeybee gut microbiota diversity and function. [bioRxiv](https://doi.org/10.1101/2024.09.11.612390), 2024.09.11.612390 (In Review)
 
@@ -102,6 +102,11 @@ Evolutionary and functional insight into gut microbial community persity across 
 
 Conferences
 ======
+
+Microbiome Virtual International Forum \\
+_Nov 2024_ \\
+Online \\
+Selected talk: Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach
 
 Gordon Research Conference and Seminar (Animal Microbe Symbiosis) \\
 _Jun 2023_ \\
