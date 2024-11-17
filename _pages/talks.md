@@ -2,11 +2,10 @@
 title: "Talks and Presentations"
 layout: archive
 permalink: /talks/
-collection: engagement
+collection: talks
 order: 1
 start_year: 2021
 end_year: 2024
-permalink: /engagement/talksandconferences
 media:
   - path: "/images/research/LocalPangenomeConference.jpeg"
     alt: "Aiswarya Prasad presenting her invited talk at the Local Pangenome Conference"
@@ -35,6 +34,14 @@ media:
 ---
 
 ## Invited Talks
+
+
+**Microbiome Virtual International Forum - Selected Talk** \\
+_Nov 2024_ \\
+Online \\
+Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach
+
+<iframe src="https://cassyni.com/embed/events/MiMvAGXxaxTMCvZ75uqhpy" title="Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach - presented by Aiswarya Prasad (Cassyni)" frameBorder="0" scrolling="no" style="width:100%;height:100%;aspect-ratio:16/9;max-width:100%" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 **The Local Pangenome - Speaker** \\
 _Oct 2023_ \\

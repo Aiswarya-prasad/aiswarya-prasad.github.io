@@ -1,5 +1,5 @@
 ---
-title: "UN CBD delegate"
+title: "United Nations Convention on Biological Diversity - Delegate"
 collection: engagement
 permalink: /engagement/uncbd
 venue: "Sharm El-Sheikh"

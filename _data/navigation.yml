@@ -15,8 +15,5 @@ main:
   - title: "Scientific Talks"
     url: /talks/
   
-  # - title: "CV"
-  #   url: /cv/
-  
   - title: "Interests"
     url: /categories/
