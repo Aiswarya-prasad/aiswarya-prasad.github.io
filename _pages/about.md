@@ -20,7 +20,6 @@ redirect_from:
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="/cv#publications" style="margin-right: 20px; text-decoration: none; color: #007acc; font-weight: bold; border: 1px solid #007acc; padding: 5px; border-radius: 5px;">Publications</a>
-  <a href="/engagement/talksandconferences" style="margin-right: 20px; text-decoration: none; color: #007acc; font-weight: bold; border: 1px solid #007acc; padding: 5px; border-radius: 5px;">Talks and Presentations</a>
   <a href="/files/AiswaryaPrasad_academic_CV.pdf" style="margin-right: 20px; text-decoration: none; color: #007acc; font-weight: bold; border: 1px solid #007acc; padding: 5px; border-radius: 5px;">Academic CV</a>
   <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: #007acc; font-weight: bold; border: 1px solid #007acc; padding: 5px; border-radius: 5px;">Technical Resume</a>
 </div>
