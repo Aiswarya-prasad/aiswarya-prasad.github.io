@@ -21,6 +21,7 @@ redirect_from:
   <a href="/cv#publications" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Publications</a>
   <a href="/files/AiswaryaPrasad_academic_CV.pdf" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Academic CV</a>
   <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Technical Resume</a>
+  <a href="/files/AiswaryaPrasad_consulting_CV.pdf" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Consulting CV</a>
 </div>
 
 ## Featured
@@ -39,3 +40,10 @@ As an undergraduate in Bangalore, India, I was captivated by the idea of bacteri
 My academic journey has continued to focus on bacteria in communities and their interactions within different environments, such as the human gut. For my MS thesis, I explored the human gut microbiome, establishing a cost-effective Nanopore sequencing system that facilitated collaboration with local doctors in India.
 
 Building on my interest in studying bacterial communities, I started my PhD in Lausanne. I study gut microbiome diversity and its evolution. I employ a multidisciplinary approach that integrates field sampling, bioinformatics, and synthetic microbial communities in our honeybee laboratory model. I am particularly excited about cutting-edge sequencing and bacterial community engineering techniques and have successfully integrated Metagenomics using Illumina, Nanopore and PacBio sequencing in my research. -->
+
+
+
+<!-- Skills & Interests - removed from consultig CV
+Technical Expertise: Data analysis (R, Python, Bash), Molecular Biology, Microbiology, Microbial Ecology, Bioinformatics
+Languages: English (Native), Tamil (Native), Hindi (Conversational), Kannada (Conversational), French (A2)
+Interests: Singing – South Indian Classical Music, performed on stage and won in local contests; Sci-Fi & Fantasy novels -->
