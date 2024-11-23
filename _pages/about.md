@@ -18,10 +18,10 @@ redirect_from:
 <!-- [Publications](/cv#publications) | [Talks and Presentations](/engagement/talksandconferences) | [Academic CV](/files/AiswaryaPrasad_academic_CV.pdf) | [Technical Resume](/files/AiswaryaPrasad_industry_resume.pdf) -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
-  <a href="/cv#publications" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Publications</a>
-  <a href="/files/AiswaryaPrasad_academic_CV.pdf" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Academic CV</a>
-  <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Technical Resume</a>
-  <a href="/files/AiswaryaPrasad_consulting_CV.pdf" style="text-decoration: none; color: #08306b; font-weight: bold; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Consulting CV</a>
+  <a href="/cv#publications" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Publications</a>
+  <a href="/files/AiswaryaPrasad_academic_CV.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Academic CV</a>
+  <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Technical Resume</a>
+  <a href="/files/AiswaryaPrasad_consulting_CV.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Consulting CV</a>
 </div>
 
 ## Featured
