@@ -1,6 +1,6 @@
 ---
 title: 'Inippu Kozhukattai (Sweet rice dumplings)'
-date: 2024-12-10
+date: 2025-12-10
 permalink: /posts/2024/10/inippu-kozhukattai/
 tags:
   - Recipe
