@@ -1,7 +1,7 @@
 ---
 title: 'Inippu Kozhukattai (Sweet rice dumplings)'
 date: 2025-12-10
-permalink: /posts/2024/10/inippu-kozhukattai/
+permalink: /posts/2025/12/inippu-kozhukattai/
 tags:
   - Recipe
   - South Indian

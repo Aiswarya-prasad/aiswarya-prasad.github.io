@@ -1,7 +1,7 @@
 ---
 title: 'Uppu Kozhukattai (Salty rice dumplings)'
 date: 2025-12-01
-permalink: /posts/2024/10/salty-kozhukattai/
+permalink: /posts/2025/12/salty-kozhukattai/
 tags:
   - Recipe
   - South Indian
