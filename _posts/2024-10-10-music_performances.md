@@ -17,10 +17,10 @@ I have been learning to sing carnatic music since I was in primary school. Follo
 
 
 **Bhogeendra sayinam** a composition in the ragam kunthalavarali performed at Baazar 2024 organized by the United Nations in Geneva by the UN women's guild:
-<iframe src="https://drive.google.com/drive/folders/1a3eBDGjSki47znc-FQKAfmFGVW2dq96W/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/drive/folders/1a3eBDGjSki47znc-FQKAfmFGVW2dq96W" width="640" height="480" allow="autoplay"></iframe>
 
 **Bhogeendra sayinam** a composition in the ragam kunthalavarali performed at a campus event at EPFL (Yuvali 2024):
-<iframe src="https://drive.google.com/drive/folders/1a3eBDGjSki47znc-FQKAfmFGVW2dq96W/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/drive/folders/1a3eBDGjSki47znc-FQKAfmFGVW2dq96W" width="640" height="480" allow="autoplay"></iframe>
 
 **Paaliseyenna** a Purandaradasa composition at a temple event in Bangalore 2018 for which I was awarded the second prize:
 <iframe src="https://drive.google.com/file/d/1ZM6Ibi2Ic0JgHWC-5oPs73-lCFufUa9v/preview" width="640" height="480" allow="autoplay"></iframe>
