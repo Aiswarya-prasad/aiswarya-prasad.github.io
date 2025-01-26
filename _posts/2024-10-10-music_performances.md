@@ -16,8 +16,8 @@ categories:
 I have been learning to sing carnatic music since I was in primary school. Following a newfound appreciation for the art around 2018 as an undergrad student in Bangalore, I renewed classes and have been enjoying listening, singing and taking the opportunity to perform at various local events and contests. Here are a few videos of my performances in the past few years:
 
 
-**Bhogeendra sayinam** a composition in the ragam kunthalavarali performed at Baazar 2024 organized by the United Nations in Geneva by the UN women's guild:
-<iframe src="https://drive.google.com/file/d/1w1txuOIRyYhxFR3qS-CR6BGTgQE8by9i/preview" width="640" height="480" allow="autoplay"></iframe>
+<!-- **Bhogeendra sayinam** a composition in the ragam kunthalavarali performed at Baazar 2024 organized by the United Nations in Geneva by the UN women's guild:
+<iframe src="https://drive.google.com/file/d/1w1txuOIRyYhxFR3qS-CR6BGTgQE8by9i/preview" width="640" height="480" allow="autoplay"></iframe> -->
 
 **Bhogeendra sayinam** a composition in the ragam kunthalavarali performed at a campus event at EPFL (Yuvali 2024):
 <iframe src="https://drive.google.com/file/d/17rDjzqnObkp24sb_Z2tq-hUzSsMSOBE8/preview" width="640" height="480" allow="autoplay"></iframe>
