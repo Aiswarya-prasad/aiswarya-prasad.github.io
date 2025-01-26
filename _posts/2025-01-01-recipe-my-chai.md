@@ -16,7 +16,7 @@ Thanks to western interpretations, Chai is now popular in several forms some tha
 What is CTC tea?
 CTC stands for Crush, Tear, Curl. Usually higher grade tea is made by selecting specific types of leaves (and/or buds). It is a method of processing tea leaves that involves crushing the leaves into small particles. This makes the tea brew faster and stronger. This process was supossedly specifically developed to for the Indian market where people prefer strong tea. CTC tea is the most common tea used in India. Consequently, abroad (here in Switzerland at least) it is mostly just found in Indian stores. I have found that Assam tea is a good substitute but the liquor is not strong enough if the tea is of high quality and the leaves are more intact.
 
-In India, it is common to boil water and add the tea leaves to boiling water. In my recent trip to Kerala I learnt that this is detrimental to the flavor. Since CTC tea comes with smaller particle sizes as it is, boiling it in water will extract too many unnecessary compounds and more tannins and make the tea bitter. So, I now heat the water in a kettle and add it to the tea and steep. Steeping too long also makes the liquor bitter so I usually stick to 3 minutes but this depends very much on the type of tea used.
+In India, it is common to boil water and add the tea leaves to boiling water. In my recent trip to Kerala I learnt that this is detrimental to the flavor. Since CTC tea comes with smaller particle sizes as it is, boiling it in water will extract too many unnecessary compounds and more tannins and make the tea bitter. So, I now heat the water in a kettle and add it to the tea and steep. Steeping too long also makes the liquor bitter so I usually stick to about 5 minutes but this depends very much on the tea (how fine the particles are etc.).
 
 ### My recipe
 
@@ -28,7 +28,7 @@ Place a tea cup and tea separator (that can reach low enough and contain the tea
 
 3.5 g of sugar and tare
 
-100 g of kettle-boiled water (at 98°C) and set aside to steep for 3 minutes
+100 g of kettle-boiled water (at 98°C) and set aside to steep for 4 to 5 minutes
 
 Warm up 100 g of milk in a vessel that pours well in the microwave for 1 minute (depends on the microwave, the goal is to stop just before it boils over)
 
