@@ -24,17 +24,18 @@ I have been learning to sing carnatic music since I was a kid with varying level
 **Vaseegara** (cover) for a Diwali event at EPFL in **2021**:
 <iframe src="https://drive.google.com/file/d/1Sh_QlRL9jJKMOSu-a1xg2Qh7Z4W6e4a-/preview" width="640" height="480" allow="autoplay"></iframe>
 
-**Excerpts of a few** carnatic and film songs performed at the **2020** Pongal celebration on IISc campus
-_Yamunai aatrile_:
+**Excerpts of a few carnatic and film songs** performed at the **2020** Pongal celebration on IISc campus
+
+*Yamunai aatrile* :
 <iframe src="https://drive.google.com/file/d/1VXQZsT6dn5Pkm5_pgeRe2z1xjCwXSN-M/preview" width="640" height="480" allow="autoplay"></iframe>
 
-_Kangal irandal and Paartha mudal nale_:
+*Kangal irandal and Paartha mudal nale* :
 <iframe src="https://drive.google.com/file/d/1jsXHxWxhYtrkv7rIrXcqTNeKp3lSI9Ez/preview" width="640" height="480" allow="autoplay"></iframe>
 
-_Aasai mugam marandu poche_:
+*Aasai mugam marandu poche* :
 <iframe src="https://drive.google.com/file/d/18bbt_GRibzhjyWO3WYNBNtvFwOEhJ96m/preview" width="640" height="480" allow="autoplay"></iframe>
 
-_Azhagu deivamaaga vandu_:
+*Azhagu deivamaaga vandu* :
 <iframe src="https://drive.google.com/file/d/1_tDh4tdce2UMxxoPhlSjnoRlK3AUPY8h/preview" width="640" height="480" allow="autoplay"></iframe>
 
 **Azhagu deivamaaga vandu** with a folk-style twist for a competition at the my University (IISc) in **2019**. I was awarded the first prize for this performance:
