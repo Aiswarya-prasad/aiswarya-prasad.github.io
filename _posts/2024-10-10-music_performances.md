@@ -13,7 +13,7 @@ categories:
   - Hobby - Music
 ---
 
-I have been learning to sing carnatic music since I was a kid with varying levels of dedication over my school years. Motivated by a newfound appreciation for the art around 2018 as an undergrad student in Bangalore, I renewed classes and have been enjoying listening, singing and taking the opportunity to perform at local events and contests. Here are a few videos of me singing at some events over the past few years:
+I have been learning to sing carnatic music since I was a kid with varying levels of dedication over my school years. Motivated by a newfound appreciation for the art around 2018 as an undergrad student in Bangalore, I renewed classes and have been enjoying listening, singing and taking the opportunity to perform at local events and contests. Here are a few videos of me singing at some events over the past few years. Several of these would not have been possible without the collaboration and support of several talented friends. I will add more information about each video including the songs and artists soon.
 
 <!-- **Bhogeendra sayinam** a composition in the ragam kunthalavarali performed at Baazar 2024 organized by the United Nations in Geneva by the UN women's guild:
 <iframe src="https://drive.google.com/file/d/1w1txuOIRyYhxFR3qS-CR6BGTgQE8by9i/preview" width="640" height="480" allow="autoplay"></iframe> -->
