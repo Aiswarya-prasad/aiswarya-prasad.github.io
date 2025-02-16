@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Aiswarya Prasad"
 title_separator          : "-"
 name                     : &name "Aiswarya Prasad"
-description              : &description "Personal webpage made by Aiswarya Prasad to document research (gut microbiome, synthetic biology), projects (UN CBD, iGEM) and other interests (Recipe, Cooking, Carnatic Music)."
+description              : &description "Aiswarya Parasad: Personal webpage made by Aiswarya Prasad to document research (gut microbiome, synthetic biology), projects (UN CBD, iGEM) and other interests (Recipe, Cooking, Carnatic Music)."
 url                      : https://aiswarya-prasad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aiswarya-prasad/aiswarya-prasad.github.io"
@@ -57,7 +57,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  # linkedin         : # Username
+  linkedin         : aiswarya-prasd
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
@@ -84,10 +84,10 @@ publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : false
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -116,12 +116,12 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  hide                   : false     # change to true to hide the RSS feed in the footer
+  path                   : feed.xml # blank (default) uses feed.xml
 
 
-# # SEO Related
-# google_site_verification :
+# SEO Related
+google_site_verification : google1fe3ee11909d2c95
 # bing_site_verification   :
 # alexa_site_verification  :
 # yandex_site_verification :
