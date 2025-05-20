@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+> I recently wrapped up the draft of the introduction section of my PhD thesis. As I wrote about how little was known about bacteria for centuries following Anton van Leeuwenhoek’s first glimpse of "animalcules" under a microscope, I found myself reflecting on how far we’ve come and how rapidly. Today, we not only understand how bacteria grow and evolve, but we can also precisely edit their genomes as we like and there is a long and growing list of things we would like bacteria to do — from producing medicines to solving environmental challenges. I'm deeply fulfilled by fundamental research and the intellectual growth it brings, but I’m equally drawn to the challenge of turning that knowledge into practical, innovative solutions. I am eager to bridge the gap between fundamental research and practical, innovation in biotech and healthcare.
+
 ## Ongoing Engagements
 
 ### PhD Candidate
 
-I am working on writing up my PhD thesis on gut microbiome ecology and evolution. A talk presenting my most recent work is featured [below](#Featured). More details about my research can be found on my [research page](/research).
+I am working on writing up my PhD thesis on gut microbiome ecology and evolution. A talk presenting my most recent work is featured [below](#Featured). More details about my research can be found on my [Research page](/research).
 
 ### Nucleate Leadership
 
@@ -19,12 +21,12 @@ I am working on writing up my PhD thesis on gut microbiome ecology and evolution
 
 ### Consulting Society
 
-As a senior member and consultant at [The Consulting Society](https://www.theconsultingsociety.com/), I working with a team of consultants on developing AI/ML use cases for a client in partnership with Oracle. I also lead junior members through semester-long projects. Here is the [slide deck](/files/AP-TCS-Presentation.pdf) from my junior project where I did a deep dive into large-scale measures to reduce GHG emissions from Agriculture.
+As a senior member and consultant at [The Consulting Society](https://www.theconsultingsociety.com/) (TCS, EPFL), I am working with a team of consultants on developing AI/ML use cases for a client in partnership with Oracle. I also lead junior members through semester-long projects. Here is the [slide deck](/files/AP-TCS-Presentation.pdf) from my junior project where I did a deep dive into large-scale measures to reduce GHG emissions from Agriculture.
 
 
-> **About Me**: I am a scientist with expertise in bioinformatics and microbial ecology, with a keen interest in understanding the complex interactions between bacteria and their environments. My scientific interests are driven by my excitement about cutting-edge approaches like high-throughput genome-resolved metagenomics, long-read sequencing, and strain-level analysis and manipulation to gain unprecedented insights into microbial communities and engineering them. I thrive in multidisciplinary environments, where I can benefit from and contribute to diverse perspectives and expertise.
+<!-- > **About Me**: I am a scientist with expertise in bioinformatics and microbial ecology, with a keen interest in understanding the complex interactions between bacteria and their environments. My scientific interests are driven by my excitement about cutting-edge approaches like high-throughput genome-resolved metagenomics, long-read sequencing, and strain-level analysis and manipulation to gain unprecedented insights into microbial communities and engineering them. I thrive in multidisciplinary environments, where I can benefit from and contribute to diverse perspectives and expertise.
 
-> **Vision**: Looking to the future, I am eager to bridge the gap between fundamental research and practical, innovative solutions. While fundamental research is deeply fulfilling and fosters intellectual growth, there is an increasing demand to translate these insights into solutions that can benefit the broader community that funds it. Tackling core challenges, particularly in emerging fields, requires a deep, nuanced understanding of technologies. However, translating insights from fundamental research into actionable solutions demands skills like strategic planning and implementation— often underemphasized in academia. By combining my training in fundamental research with these essential skills, I aim to drive innovation in biotech and healthcare.
+> **Vision**: Looking to the future, I am eager to bridge the gap between fundamental research and practical, innovative solutions. While fundamental research is deeply fulfilling and fosters intellectual growth, there is an increasing demand to translate these insights into solutions that can benefit the broader community that funds it. Tackling core challenges, particularly in emerging fields, requires a deep, nuanced understanding of technologies. However, translating insights from fundamental research into actionable solutions demands skills like strategic planning and implementation— often underemphasized in academia. By combining my training in fundamental research with these essential skills, I aim to drive innovation in biotech and healthcare. -->
 
 ## Quick Links
 
