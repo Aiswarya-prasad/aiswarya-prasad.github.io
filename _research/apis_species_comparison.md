@@ -7,7 +7,7 @@ collection: research
 venue: "University of Lausanne"
 location: "Switzerland"
 start_date: 2020-08-01
-end_date: 2024-10-01
+end_date: 2025-03-01
 order: 1
 media:
   - path: "/images/research/Apis_florea_HoneyBee.jpg"

@@ -6,9 +6,9 @@ title: "Gut microbiome of wild and managed honeybees"
 collection: research
 venue: "University of Lausanne"
 location: "Switzerland"
-order: 2
+order: 3
 start_date: 2024-08-01
-end_date: 2024-10-01
+end_date: 2025-08-01
 # media:
 #   - path: "/images/research/Honeybees_wild_managed.png"
 #     alt: "Drawing of wild and managed honeybees"

@@ -6,9 +6,9 @@ title: "Priority Effects in the honeybee gut"
 collection: research
 venue: "University of Lausanne"
 location: "Switzerland"
-order: 3
+order: 2
 start_date: 2022-08-01
-end_date: 2024-10-01
+end_date: 2025-08-01
 media:
   - path: "/files/BeeFeeding-NoText.mp4"
     thumbnail: "/images/research/HoneyBeeFeedingThumnbnail.png"
