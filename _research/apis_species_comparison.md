@@ -38,7 +38,7 @@ By leveraging shotgun metagenomics across 200 honeybees sampled from Malaysia an
 
 <!-- <iframe src="https://cassyni.com/embed/events/MiMvAGXxaxTMCvZ75uqhpy" title="Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach - presented by Aiswarya Prasad (Cassyni)" frameBorder="0" scrolling="no" style="width:100%;height:100%;aspect-ratio:16/9;max-width:100%" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe> -->
 
-<img src="/images/research/SimpleAbstract_Ch2_v2_new.jpeg" alt="Apis Profile Picture" width="800" height="600">
+<img src="/images/research/SimpleAbstract_Ch2_v2_new.jpeg" alt="Apis Profile Picture" width="750" height="600">
 
 ---
 
