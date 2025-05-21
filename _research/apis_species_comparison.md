@@ -25,7 +25,7 @@ media:
     focal_point: Smart
     width: 400
     height: 300
-  - path: "/images/research/SimpleAbstract_Ch2_v2_new.pdf"
+  - path: "/images/research/SimpleAbstract_Ch2_v2_new.jpeg"
     alt: "Apis Profile Picture"
     focal_point: Smart
     width: 800
@@ -36,7 +36,9 @@ Honeybees serve as great model for studying gut microbiota evolution in the cont
 
 By leveraging shotgun metagenomics across 200 honeybees sampled from Malaysia and India, our results provide new insights into gut microbiota evolution and uncover the functional potential of the previously underexplored gut microbiota of these important pollinators.
 
-<iframe src="https://cassyni.com/embed/events/MiMvAGXxaxTMCvZ75uqhpy" title="Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach - presented by Aiswarya Prasad (Cassyni)" frameBorder="0" scrolling="no" style="width:100%;height:100%;aspect-ratio:16/9;max-width:100%" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<!-- <iframe src="https://cassyni.com/embed/events/MiMvAGXxaxTMCvZ75uqhpy" title="Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach - presented by Aiswarya Prasad (Cassyni)" frameBorder="0" scrolling="no" style="width:100%;height:100%;aspect-ratio:16/9;max-width:100%" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe> -->
+
+<img src="/images/research/SimpleAbstract_Ch2_v2_new.pdf" alt="Apis Profile Picture" width="800" height="600">
 
 ---
 
