@@ -24,7 +24,7 @@ media:
   - path: "/images/research/SimpleAbstract_Ch3.jpeg"
     alt: "Aiswarya Prasad in microbiologist culturing bacteria"
     focal_point: Smart
-    width: 700
+    width: 750
     height: 600
 ---
 

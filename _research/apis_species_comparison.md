@@ -28,7 +28,7 @@ media:
   - path: "/images/research/SimpleAbstract_Ch2_v2_new.jpeg"
     alt: "Apis Profile Picture"
     focal_point: Smart
-    width: 700
+    width: 750
     height: 600
 ---
 
