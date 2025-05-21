@@ -15,16 +15,16 @@ media:
     focal_point: Smart
     width: 750
     height: 580
-  - path: "/images/research/culturingBacteria.jpeg"
-    alt: "Aiswarya Prasad in microbiologist culturing bacteria"
-    focal_point: Smart
-    width: 300
-    height: 300
   - path: "/files/BeeFeeding-NoText.mp4"
     thumbnail: "/images/research/HoneyBeeFeedingThumnbnail.png"
     alt: "Video of handfeeding bees by a pipette"
     focal_point: Smart
     width: 250
+    height: 300
+  - path: "/images/research/culturingBacteria.jpeg"
+    alt: "Aiswarya Prasad in microbiologist culturing bacteria"
+    focal_point: Smart
+    width: 300
     height: 300
 ---
 
