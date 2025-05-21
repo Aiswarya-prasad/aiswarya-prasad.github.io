@@ -14,7 +14,7 @@ media:
     alt: "Apis Profile Picture"
     focal_point: Smart
     width: 850
-    height: 600
+    height: 560
   - path: "/images/research/Apis_florea_HoneyBee.jpg"
     alt: "Apis Profile Picture"
     focal_point: Smart
