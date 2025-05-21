@@ -42,7 +42,8 @@ Gut microbial communities often differ at the strain level even among closely re
     * Developing a high-throughput compatible PacBio metagenomic approach to quantitatively detect strains in the gut.
 
 **Expectations and Results**:
-    * We expect that the priority effects will be seen at the strain-level and that species will coexist by niche partitioning as has been [shown](https://doi.org/10.7554/eLife.68583) among in honeybee Lactobacillus species by a collegue.
-    * We have developed a high-throughput compatible PacBio metagenomic approach to quantitatively detect strains in the gut.
-    * A pilot experiment points to clear signs of co-existance of species but priority effects between strains of the same species.
-    * I carried out more replicates and combinations of strains and am currently analyzing the data to confirm the observations from the pilot experiment.
+
+  * We expect that the priority effects will be seen at the strain-level and that species will coexist by niche partitioning as has been [shown](https://doi.org/10.7554/eLife.68583) among in honeybee Lactobacillus species by a collegue.
+  * We have developed a high-throughput compatible PacBio metagenomic approach to quantitatively detect strains in the gut.
+  * A pilot experiment points to clear signs of co-existance of species but priority effects between strains of the same species.
+  * I carried out more replicates and combinations of strains and am currently analyzing the data to confirm the observations from the pilot experiment.
