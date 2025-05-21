@@ -2,7 +2,7 @@
 title: "Contribution to the scientific community"
 layout: archive
 collection: engagement
-order: 2
+order: 1
 start_year: 2023
 end_year: 2024
 permalink: /engagement/scientificcommunity
