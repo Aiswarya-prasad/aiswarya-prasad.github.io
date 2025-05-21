@@ -13,7 +13,7 @@ media:
   - path: "/images/research/SimpleAbstract_Ch2_v2_new.jpeg"
     alt: "Apis Profile Picture"
     focal_point: Smart
-    width: 900
+    width: 850
     height: 600
   - path: "/images/research/Apis_florea_HoneyBee.jpg"
     alt: "Apis Profile Picture"
