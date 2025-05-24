@@ -23,7 +23,7 @@ I am working on writing up my PhD thesis on gut microbiome ecology and evolution
 
 ### Consulting Society
 
-As a senior member and consultant at [The Consulting Society](https://www.theconsultingsociety.com/) (TCS, EPFL), I am working with a team of consultants on developing AI/ML use cases for a client in partnership with Oracle. I also lead junior members through semester-long projects. Here is the [slide deck](/files/AP-TCS-Presentation.pdf) from my junior project where I did a deep dive into large-scale measures to reduce GHG emissions from Agriculture.
+As a senior member and consultant at [The Consulting Society](https://www.theconsultingsociety.com/) (TCS, EPFL), I am leading a team of student consultants on a project advicing a diagnostics startup from EPFL. Earlier I mentored three junior members through a semester-long consulting research project. Here is the [slide deck](/files/AP-TCS-Presentation.pdf) from my junior project where I did a deep dive into large-scale measures to reduce GHG emissions from Agriculture.
 
 
 <!-- > **About Me**: I am a scientist with expertise in bioinformatics and microbial ecology, with a keen interest in understanding the complex interactions between bacteria and their environments. My scientific interests are driven by my excitement about cutting-edge approaches like high-throughput genome-resolved metagenomics, long-read sequencing, and strain-level analysis and manipulation to gain unprecedented insights into microbial communities and engineering them. I thrive in multidisciplinary environments, where I can benefit from and contribute to diverse perspectives and expertise.
