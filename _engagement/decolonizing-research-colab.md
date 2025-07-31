@@ -8,4 +8,4 @@ venue: "Centre for Development and Environment, University of Bern"
 date: 2022-08-04
 ---
 
-Participated in a workshop exploring the challenges and opportunities in North-South research collaboration. During the discussions we identify the barriers to equitable research collaboration and develop strategies to overcome them. I contributed to discussions on power dynamics, knowledge production, and capacity building in research partnerships.
+Participated in a workshop exploring challenges and opportunities in North–South research collaboration. Discussions focused on identifying barriers to equitable partnerships and co-developing strategies to address them. I contributed to sessions on power dynamics, knowledge production, and capacity building in global research networks.

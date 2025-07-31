@@ -8,24 +8,37 @@ end_year: 2024
 permalink: /engagement/scientificcommunity
 ---
 
-Overview of contributions to the scientific community in the form of peer review, committee participation, and contribution to the develpment of community standards.
+
+Overview of involvement in peer review, community standards, and academic service.
+
+### Scientific Standards & Open Resources
+
+**[Methods in Microbiomics](https://methods-in-microbiomics.readthedocs.io/en/latest/comparative_genomics/SNVs_metagenomics.html)** - Contributor \
+*Jan 2024*
+Contributed to a community-developed set of best practices for comparative metagenomics and variant analysis. The guidelines aim to promote robust, reproducible workflows in microbiome research.
+
+
+Peer Review  
+*2023 — Present*  
+- *Ecological Monographs* – 1 review  
+- *Insect Molecular Biology* – 1 review  
 
 ---
 
-* Contributed to [Methods in Microbiomics](https://methods-in-microbiomics.readthedocs.io/en/latest/comparative_genomics/SNVs_metagenomics.html) - Jan 2024
-  * Set of guidelines and best practices for robust and reproducible bioinformatics processing and data analysis with the focus on Microbiomics research.
+### Committee & Organizational Roles  
 
-* Peer review of journal publications - 2023 – Present
-  * Ecological monographs (1) and Insect Molecular Biology (1)
+**DMF Annual Science Retreat** - Organizing Committee
+*Sep 2023*  
+Helped plan and coordinate a department-wide scientific retreat, fostering interdisciplinary discussions across research groups.
 
-* Organizing committee - Sep 2023
-  * Annual DMF department Science Retreat
+**DMF Faculty Hiring Committee** - Postdoc/PhD Representative—
+*May 2023*  
+Participated in evaluation and discussion of candidates for faculty recruitment.
 
-* DMF Faculty Hiring Committee - May 2023
-  * Postdoc/PhD representative group
+**BC2 Basel Computational - Workshop Evaluation Committee—Biology Conference**  
+*Jan 2023*  
+Reviewed and helped select workshops and tutorials for inclusion in the conference program.
 
-* Workshop Evaluation Committee - Jan 2023
-  * Workshop and tutorial selection for the BC2 (Basel Computational biology Conference)
-
-* Local volunteer - Aug 2022
-  * ISME-18 (International Society of Microbial Ecology) conference
+**ISME-18 Conference** - Volunteer 
+*Aug 2022*  
+Supported logistics and delegate coordination at the International Society for Microbial Ecology conference.

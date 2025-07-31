@@ -14,6 +14,6 @@ date_end: 2018-11-29
 
 ---
 
-At the UN CBD I participated in several discussions and forums advocating for inclusive policymaking and the importance prioritizing the involvement of young scientists in discussions concerning genetic engineering as an iGEM delegate.
+Represented the iGEM community as part of a youth science delegation to COP14 of the UN Biodiversity Conference. Participated in policy forums and side events advocating for inclusive, science-based policymaking—particularly on issues concerning genetic engineering, access and benefit-sharing, and synthetic biology. Emphasized the importance of engaging young scientists in global decision-making.
 
-We contributed to an article about our experiences as a delegation of young scientists at significant international forums, which can be found [here](https://blog.igem.org/blog/2020/9/23/uncharted-waters-the-experience-of-igem-delegates-with-scientific-diplomacy).
+Our reflections as early-career scientists navigating scientific diplomacy were shared in this [article](https://blog.igem.org/blog/2020/9/23/uncharted-waters-the-experience-of-igem-delegates-with-scientific-diplomacy).

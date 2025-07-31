@@ -14,11 +14,9 @@ While drafting the introduction to my PhD thesis, I found myself reflecting on h
 
 This rapid progress has enabled applications across sectors: developing new medicines, breaking down plastic waste, fixing nitrogen for agriculture, and generating food from greenhouse gases. It's a powerful reminder of how fundamental science can translate into real-world solutions.
 
-This perspective has shaped my path: I’m driven to connect deep technical insight with strategy and execution. I’m particularly seeking roles that bridge life science and strategy, and helping innovation move from the lab into the world.
+I belive now is the time of need for scientifically trained thinkers to connect deep technical insight with strategy and execution. I’m particularly seeking roles that bridge life science and strategy, and helping innovation move from the lab into the world.
 
-<!-- --- -->
-
-## 🔗 Quick Links
+---
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="/cv#publications" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📚 Publications</a>
@@ -37,7 +35,7 @@ I volunteer as part of the HQ team at [Nucleate](https://nucleate.org/), a globa
 ### 🎓 PhD in Quantitative Biology  
 Recently completed a PhD on gut microbiome ecology and evolution at the University of Lausanne. My research combined field sampling with comparative metagenomics, and synthetic microbial communities. Or more simply put, I studied how gut bacterial strains evolve and interact in gut microbiomes.
 
-Research Talk featured [below](#Featured) • More on my research [here](/research)
+Scientific Talk [featured below](#Featured) • More on my [research](/research)
 
 ### 🔍 Consulting Society, EPFL  
 Led a student consulting team advising a bacterial diagnostics startup. Mentored three new members on junior projects, two of them were subsequently staffed on client-facing projects.

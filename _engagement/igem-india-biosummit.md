@@ -14,4 +14,4 @@ media:
     height: 400
 ---
 
-Moderated the discussion on Health & Medical Data Privacy built around the sustainable development goals Industry, Innovation, and Infra (Goal 9), Good health and Well Being (Goal 3) at the iGEM India BIOSUMMIT 2020
+Moderated a discussion on **Health & Medical Data Privacy**, framed around the UN Sustainable Development Goals: **Industry, Innovation, and Infrastructure (Goal 9)** and **Good Health and Well-Being (Goal 3)**. The session was part of the iGEM India BioSummit 2020 and brought together young researchers and practitioners to explore ethical and regulatory perspectives in health data management.

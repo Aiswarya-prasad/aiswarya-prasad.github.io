@@ -2,7 +2,7 @@
 layout: archive
 permalink: /research/apis_species_comparison
 author_profile: false
-title: "Apis species comparison"
+title: "Apis species comparison: Gut Microbiota and Host Evolution"
 collection: research
 venue: "University of Lausanne"
 location: "Switzerland"
@@ -10,11 +10,11 @@ start_date: 2020-08-01
 end_date: 2025-03-01
 order: 1
 media:
-  - path: "/images/research/SimpleAbstract_Ch2_v2_new.jpeg"
-    alt: "Apis Profile Picture"
-    focal_point: Smart
-    width: 900
-    height: 460
+  # - path: "/images/research/SimpleAbstract_Ch2_v2_new.jpeg"
+  #   alt: "Apis Profile Picture"
+  #   focal_point: Smart
+  #   width: 900
+  #   height: 460
   - path: "/images/research/Apis_florea_HoneyBee.jpg"
     alt: "Apis Profile Picture"
     focal_point: Smart
@@ -32,35 +32,38 @@ media:
     height: 300
 ---
 
-
-Honeybees offer a uniquely tractable model to study gut microbiota evolution. Unlike mammals—whose microbiomes are highly diverse and variable—honeybees harbor a small, conserved set of gut microbes shaped by a well-documented host ecology and evolutionary history. This enables a more controlled, high-resolution exploration of symbiotic interactions.
-
-Our work addresses longstanding limitations in the field—such as low-resolution 16S profiling and confounding ecological differences—by applying deep shotgun metagenomics across **200 individuals from five *Apis* species**, sampled in India and Malaysia.
-
----
-
-### 🧪 Key Objectives
-
-- Investigate how gut microbiota composition and function vary across closely related host species  
-- Resolve evolutionary dynamics beyond species-level taxonomies  
-- Identify genomic traits tied to host adaptation, symbiont gain/loss, or functional shifts  
-
----
-
-### 🔍 Methodology & Highlights
-
-- **Generated thousands of metagenome-assembled genomes (MAGs)**, including several previously uncharacterized microbial species
-- Identified **host-generalist and host-specialist bacterial lineages**, with strain-level divergence suggesting **recent host switching**
-- Found **functional divergence** among species, such as **pectin degradation capacity** in certain microbiomes — pointing to dietary specialization
-- Contrary to long-standing hypotheses, **no signal of co-diversification** between hosts and microbes was detected; instead, rapid community turnover and replacement appeared more influential
-
----
-
-### 📄 Publication
-
-This study has been released as a [preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.11.612390v1) and is under peer review.
+Honeybees serve as a powerful model for studying gut microbiota evolution in the context of host ecology and evolutionary history. Unlike the highly diverse and variable microbiomes of humans, primates, or mice, honeybees harbor a small, conserved set of gut microbes shaped by well-documented ecological and evolutionary forces. This makes them a tractable system for understanding how gut microbiota are distributed and evolve across hosts.
 
 <img src="/images/research/SimpleAbstract_Ch2_v2_new.jpeg" alt="Visual abstract of Apis microbiome study" width="750" height="600" />
+
+This research is essential for advancing our understanding of microbiome interactions across species, but has been limited by a lack of high-resolution genomic data. To address this, we performed deep shotgun metagenomic sequencing on 200 honeybee workers across five *Apis* species, sampled from Malaysia and India.
+
+From this dataset, we recovered thousands of metagenome-assembled genomes (MAGs), including several previously uncharacterized bacterial species. We observed both host-specialist and host-generalist bacterial lineages, with some generalists appearing host-specific only at the strain level—suggesting recent host switching events.
+
+We found no evidence of codiversification between microbes and hosts. Instead, our results support a model of dynamic community turnover driven by symbiont gain, loss, and replacement. These changes were also reflected in functional profiles—for example, variation in genes involved in degrading pollen-derived pectin.
+
+---
+
+### Key Objectives
+
+- Investigate how gut microbiota composition and function vary across closely related host species  
+- Resolve evolutionary patterns beyond species-level taxonomies  
+- Identify differences in functional traits, symbiont gain/loss across host species
+
+---
+
+### Methodology & Highlights
+
+- **Generated hundred of metagenome-assembled genomes (MAGs)**, including several previously uncharacterized microbial species  
+- Identified **host-generalist and host-specialist bacterial lineages**, with strain-level divergence suggesting **recent host switching**  
+- Found **functional differences** among species, such as **pectin degradation** in certain hosts' microbiomes pointing to host-specific functions
+- Found **no signal of co-diversification** between hosts and microbes; instead, **dynamic symbiont loss, gains and switches** over evolutionary timescales shaped gut microbiota evolution  
+
+---
+
+### Publication
+
+This study has been released as a [preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.11.612390v1) and is currently under peer review.
 
 
 <!-- Honeybees serve as great model for studying gut microbiota evolution in the context of host ecology and evolution given their well-documented ecology and evolutionary history. Unlike the more diverse microbiomes of humans, primates, and mice, honeybees offer a more tractable system for understanding how gut microbiota are distributed and have evolved. This research is crucial for understanding how symbiotic interactions change and evolve across species but has been hindered by the lack of high-resolution genomic data.

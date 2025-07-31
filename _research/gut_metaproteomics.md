@@ -11,7 +11,11 @@ start_date: 2018-08-01
 end_date: 2019-08-01
 ---
 
-* As a undergraduate student, I was excited to work on a project that would utilize cutting-edge technology to study the gut microbiome.
-* I surveyed and tested various approaches for sample preparation and metaproteomic analysis of fecal samples using LC-MS/MS.
-* Successfully detected proteins of microbiome origin but concluded that higher detection power eg. using a nano-LC MS/MS would be needed for fecal metaproteomics.
+As an undergraduate student, I was excited to explore emerging technologies for studying the gut microbiome and joined a project focused on **gut metaproteomics**—the large-scale study of microbial proteins in the gut.
+
+- I surveyed and tested multiple **sample preparation protocols** and **mass spectrometry workflows** for fecal samples using **LC-MS/MS**.
+- I successfully detected microbial proteins, validating the feasibility of the approach.
+- However, the study highlighted technical limitations, especially the **need for higher-resolution instruments** (e.g., nano-LC MS/MS) to improve detection sensitivity in complex fecal samples.
+
+This early exposure furthered my long-term interest in **multi-omics approaches** for studying microbial communities.
 
