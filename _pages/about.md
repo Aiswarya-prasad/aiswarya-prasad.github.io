@@ -41,7 +41,8 @@ Research Talk featured [below](#Featured) • More on my research [here](/resear
 
 ### 🔍 Consulting Society, EPFL  
 Led a student consulting team advising a bacterial diagnostics startup. Mentored three new members on junior projects, two of them were subsequently staffed on client-facing projects.
-[See slides](/files/AP-TCS-Presentation.pdf) from my Junior project on GHG mitigation in agriculture.
+
+[Slides](/files/AP-TCS-Presentation.pdf) from my Junior project on GHG mitigation in agriculture.
 
 <!-- --- -->
 
