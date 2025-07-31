@@ -9,7 +9,7 @@ author_profile: true
 
 My research focuses on the bacterial diversity and ecology of animal gut microbiomes. I’m particularly excited by how modern sequencing and bioinformatics enable questions that were nearly impossible to tackle a decade ago.
 
-Through my PhD, I’ve explored how microbiomes operate at the **strain level**—a crucial but often ambiguous unit of diversity. Strain-level resolution is especially relevant for **microbiome engineering** and designing stable synthetic microbial consortia. Using both natural variation and controlled experimental systems in **honeybees**, I investigate the eco-evolutionary processes shaping these bacterial communities.
+Through my PhD, I’ve explored how microbiomes operate at the **strain level**—a crucial but often ambiguous unit of diversity. Strain-level resolution is especially relevant to understand **microbiome ecology** that can enable microbiome engineering and designing stable synthetic microbial strains and consortia. Using both natural variation and controlled experimental systems in **honeybees**, I investigate the eco-evolutionary processes shaping these bacterial communities.
 
 ---
 
