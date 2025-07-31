@@ -32,11 +32,12 @@ This perspective has shaped my path: I’m driven to connect deep technical insi
 ## Recent Roles & Initiatives
 
 ### 🧬 Nucleate — Assistant Manager, Activator Operations  
-I volunteer as part of the HQ team at [Nucleate](https://nucleate.org/), a global non-profit that supports academic founders building biotech ventures. I help coordinate strategy and infrastructure for Nucleate's flagship Activator program across 18 global chapters.
+I volunteer as part of the HQ team at [Nucleate](https://nucleate.org/), a global non-profit that supports academic founders building biotech ventures. I help coordinate strategy and infrastructure for the operation of Nucleate's flagship Activator program across 18 global chapters.
 
 ### 🎓 PhD in Quantitative Biology  
-Recently completed a PhD on gut microbiome ecology and evolution at the University of Lausanne. My research combined field sampling with comparative metagenomics, and synthetic microbial communities. Or more simply put, I studied how gut bacterial strains evolve and interact.
-Talk on first chapter results featured [below](#Featured) • [More on my research](/research)
+Recently completed a PhD on gut microbiome ecology and evolution at the University of Lausanne. My research combined field sampling with comparative metagenomics, and synthetic microbial communities. Or more simply put, I studied how gut bacterial strains evolve and interact in gut microbiomes.
+
+Research Talk featured [below](#Featured) • More on my research [here](/research)
 
 ### 🔍 Consulting Society, EPFL  
 Led a student consulting team advising a bacterial diagnostics startup. Mentored three new members on junior projects, two of them were subsequently staffed on client-facing projects.
