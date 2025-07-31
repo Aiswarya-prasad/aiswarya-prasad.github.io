@@ -1,0 +1,106 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "permalink",
+          "name": "permalink",
+          "type": "string"
+        },
+        {
+          "title": "author_profile",
+          "name": "author_profile",
+          "type": "boolean"
+        },
+        {
+          "title": "redirect_from",
+          "name": "redirect_from",
+          "type": "choice",
+          "choices": [
+            "/about/",
+            "/about.html"
+          ]
+        },
+        {
+          "title": "fmContentType",
+          "name": "fmContentType",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "images",
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/_posts",
+      "title": "_posts"
+    },
+    {
+      "title": "_engagement",
+      "path": "[[workspace]]/_engagement"
+    },
+    {
+      "title": "_research",
+      "path": "[[workspace]]/_research"
+    },
+    {
+      "title": "_pages",
+      "path": "[[workspace]]/_pages"
+    },
+    {
+      "title": "_drafts",
+      "path": "[[workspace]]/_drafts"
+    },
+    {
+      "title": "markdown_generator",
+      "path": "[[workspace]]/markdown_generator"
+    },
+    {
+      "title": "images",
+      "path": "[[workspace]]/images"
+    }
+  ]
+}
