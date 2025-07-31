@@ -31,7 +31,7 @@ This perspective has shaped my path: I’m driven to connect deep technical insi
 
 ## Recent Roles & Initiatives
 
-### 🧬 Nucleate — Assistant Manager, Activator Operations _(volunteer)_  
+### 🧬 Nucleate — Assistant Manager, Activator Operations  
 I volunteer as part of the HQ team at [Nucleate](https://nucleate.org/), a global non-profit that supports academic founders building biotech ventures. I help coordinate strategy and infrastructure for Nucleate's flagship Activator program across 18 global chapters.
 
 ### 🎓 PhD in Quantitative Biology  

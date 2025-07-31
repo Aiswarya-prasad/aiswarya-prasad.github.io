@@ -66,6 +66,49 @@
           "title": "fmContentType",
           "name": "fmContentType",
           "type": "string"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        },
+        {
+          "title": "collection",
+          "name": "collection",
+          "type": "string"
+        },
+        {
+          "title": "venue",
+          "name": "venue",
+          "type": "string"
+        },
+        {
+          "title": "location",
+          "name": "location",
+          "type": "string"
+        },
+        {
+          "title": "start_date",
+          "name": "start_date",
+          "type": "datetime"
+        },
+        {
+          "title": "end_date",
+          "name": "end_date",
+          "type": "datetime"
+        },
+        {
+          "title": "order",
+          "name": "order",
+          "type": "number"
+        },
+        {
+          "title": "media",
+          "name": "media",
+          "type": "block",
+          "fieldGroup": [
+            "media_group"
+          ]
         }
       ]
     }
@@ -101,6 +144,38 @@
     {
       "title": "images",
       "path": "[[workspace]]/images"
+    }
+  ],
+  "frontMatter.taxonomy.fieldGroups": [
+    {
+      "id": "media_group",
+      "fields": [
+        {
+          "title": "path",
+          "name": "path",
+          "type": "string"
+        },
+        {
+          "title": "alt",
+          "name": "alt",
+          "type": "string"
+        },
+        {
+          "title": "focal_point",
+          "name": "focal_point",
+          "type": "string"
+        },
+        {
+          "title": "width",
+          "name": "width",
+          "type": "number"
+        },
+        {
+          "title": "height",
+          "name": "height",
+          "type": "number"
+        }
+      ]
     }
   ]
 }
