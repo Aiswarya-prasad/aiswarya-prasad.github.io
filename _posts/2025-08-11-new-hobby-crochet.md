@@ -1,6 +1,6 @@
 ---
 title: Dicovering Crochet
-date: 2025-08-12
+date: 2025-08-11
 collection: posts
 author_profile: false
 permalink: /posts/2024/10/hooked-on-crochet/
@@ -14,7 +14,7 @@ categories:
 draft: false
 ---
 
-I never thought I’d have the patience for something as intricate as crochet — yet here I am, completely hooked.  
+I never thought I’d have the patience for something as intricate as crochet — now here I am, completely hooked.
 It’s the perfect mix of creativity (colors, patterns, endless possibilities), challenge (learning new stitches, reading patterns, building speed), and relaxation (counting stitches, working row by row).
 
 Below are some of my first projects:
