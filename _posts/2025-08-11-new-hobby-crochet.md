@@ -39,8 +39,6 @@ This is definitely my most special project so far. I made these for a baby in my
 </div>
 
 **Sunflower Baby Shoe** – WIP and completed pics. Learned from this [YouTube video](https://www.youtube.com/watch?v=dLNGz9uM_2Y&list=PLOw6B1kb87p_035ZkVpfihDPda4dyxXm2&index=7) but used brighter summer colors.
-![Baby Shoe 2 Complete](/images/posts/crochet/flowershoe.jpg)  
-![Baby Shoe 2 WIP](/images/posts/crochet/flowershoe-wip.jpg) 
 
 <div class="gallery">
   <img src="/images/posts/crochet/flowershoe-wip.jpg" alt="Work-in-progress sunflower baby shoe">
@@ -52,7 +50,9 @@ This is definitely my most special project so far. I made these for a baby in my
 ### 🎧 AirPods Case  
 A pretty, practical solution to constantly picking up my husband's airpods instead of mine. Another [YouTube-inspired](https://www.youtube.com/watch?v=fBu7wfX-mek) project.
 
-![AirPods Case](/images/posts/crochet/AirpodsCase.JPG)
+<div class="gallery">
+  <img src="/images/posts/crochet/AirpodsCase.JPG" alt="Crocheted AirPods case">
+</div>
 
 ---
 
@@ -73,4 +73,6 @@ Made with ombré yarn for a soft gradient effect. Learned from this [YouTube tut
 <!-- and [another one](https://www.youtube.com/watch?v=3G2YLfyQGvs) for the scalloped edging. -->
 It was a great way to practice plenty of single and double crochets and get comfortable with the hook. It did take a very long time to finish as a beginner. I went length-wise and only managed 1.5 to 2 rows in one sitting. At least it is ready for winter the next year!
 
-![Ombré Scarf WIP](/images/posts/crochet/HombreScarf-WIP.JPG)
+<div class="gallery">
+  <img src="/images/posts/crochet/HombreScarf-WIP.JPG" alt="Ombré scarf work in progress">
+</div>
