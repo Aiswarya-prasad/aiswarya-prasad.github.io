@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Bridging Science and Impact"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 fmContentType: default
 ---
-
-## Bridging Science and Impact
 
 While drafting the introduction to my PhD thesis, I found myself reflecting on how far microbiology has come since Anton van Leeuwenhoek’s first glimpse of the microbial world. For centuries, bacteria remained largely mysterious. Today, we’ve identified tens of thousands of species and can engineer them with remarkable precision.
 

@@ -3,7 +3,7 @@ title: "iGEM India BioSummit"
 layout: archive
 collection: engagement
 permalink: /engagement/igemindiabiosummit
-order: 3
+order: 4
 venue: "Online"
 date: 2020-07-25
 media:

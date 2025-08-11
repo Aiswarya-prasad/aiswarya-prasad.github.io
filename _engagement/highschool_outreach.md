@@ -3,7 +3,7 @@ title: "Outreach to highschool students"
 layout: archive
 collection: engagement
 permalink: /engagement/highschool_outreach
-order: 5
+order: 6
 venue: "Vidya Mandir School, Chennai, India"
 date: 2016-08-04
 ---
