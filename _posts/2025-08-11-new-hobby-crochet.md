@@ -26,7 +26,7 @@ I loved this [book](https://www.amazon.com/Ultimate-Granny-Square-Sourcebook-Con
 
 Through this project I realized that granny squares are a great way to start crocheting! They are a great way to practice different stitches while still making something pretty. Most granny square projects out there are big like blankets or cardigans which involve making 20+ squares. I wanted something small and quick but more useful than coasters (which are too pretty to get dirty). So I made two granny squared and single crocheted them into a pouch and added a drawstring.
 
-![My First Granny Square](/images/posts/crochet/FirstGranny.HEIC)  
+![My First Granny Square](/images/posts/crochet/FirstGranny.jpg)
 ![My Granny Square Pouch](/images/posts/crochet/GrannyPouch.JPG)
 
 ---
@@ -53,9 +53,9 @@ Another [YouTube-inspired](https://www.youtube.com/watch?v=fBu7wfX-mek) project.
 This is probably my most special project so far. I made these for a baby in our family, and it was such a joy to create something for a little one and the parents loved it!
 
 **Pretty Pink Baby Shoe** – WIP and completed pics. Learned from this [YouTube video](https://www.youtube.com/watch?v=fVy27Z3kotk&list=PLOw6B1kb87p_035ZkVpfihDPda4dyxXm2) and made the bow as shown on this [one](https://www.youtube.com/watch?v=uMw9zpmXHHI&list=PLOw6B1kb87p_035ZkVpfihDPda4dyxXm2&index=2).
-![Baby Shoe 1 Complete](/images/posts/crochet/pinkshoe.HEIC)  
-![Baby Shoe 1 WIP](/images/posts/crochet/pinkshoe-wip.HEIC)  
+![Baby Shoe 1 Complete](/images/posts/crochet/pinkshoe.jpg)  
+![Baby Shoe 1 WIP](/images/posts/crochet/pinkshoe-wip.jpg)  
 
 **Sunflower Baby Shoe** – WIP and completed pics. Learned from this [YouTube video](https://www.youtube.com/watch?v=dLNGz9uM_2Y&list=PLOw6B1kb87p_035ZkVpfihDPda4dyxXm2&index=7) but used brighter summer colors.
-![Baby Shoe 2 Complete](/images/posts/crochet/flowershoe.HEIC)  
-![Baby Shoe 2 WIP](/images/posts/crochet/flowershoe-wip.HEIC)  
+![Baby Shoe 2 Complete](/images/posts/crochet/flowershoe.jpg)  
+![Baby Shoe 2 WIP](/images/posts/crochet/flowershoe-wip.jpg)  
