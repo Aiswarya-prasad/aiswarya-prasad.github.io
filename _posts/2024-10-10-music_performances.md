@@ -10,7 +10,8 @@ tags:
   - Music
   - Videos
 categories:
-  - Hobby - Music
+  - Hobby 
+  - Music
 ---
 
 
