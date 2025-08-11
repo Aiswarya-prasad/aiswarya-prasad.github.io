@@ -5,7 +5,9 @@ collection: posts
 author_profile: false
 permalink: /posts/2024/10/hooked-on-crochet/
 tags:
-  - Hobby
+  - Projects
+  - Art
+  - Creative
   - Crochet
 categories:
   - Hobby
