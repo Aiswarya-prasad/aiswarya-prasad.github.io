@@ -1,5 +1,5 @@
 ---
-title: 'Music performances'
+title: Music performances
 date: 2024-10-10
 collection: posts
 author_profile: false
@@ -10,8 +10,8 @@ tags:
   - Music
   - Videos
 categories:
-  - Hobby 
-  - Music
+  - Hobby
+draft: false
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Uppu Kozhukattai (Salty rice dumplings)'
+title: Uppu Kozhukattai (Salty rice dumplings)
 date: 2025-12-01
 permalink: /posts/2025/12/salty-kozhukattai/
 tags:
@@ -9,4 +9,5 @@ tags:
   - Vegan
 categories:
   - South Indian Recipe
+draft: true
 ---

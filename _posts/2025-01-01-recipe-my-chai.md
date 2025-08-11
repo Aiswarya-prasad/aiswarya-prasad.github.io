@@ -1,5 +1,5 @@
 ---
-title: 'My Chai'
+title: My Chai
 date: 2025-01-01
 permalink: /posts/2025/01/my-chai/
 tags:
@@ -7,6 +7,7 @@ tags:
   - Drink
 categories:
   - Recipe
+draft: false
 ---
 
 Malabar Chai has been my go-to beverage for a while and this is a fool-proof recipe I use to bring back the Malabar Chais that have gotten me through my Masters thesis in India.

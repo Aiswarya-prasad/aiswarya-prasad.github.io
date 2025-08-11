@@ -1,6 +1,6 @@
 ---
-title: "Dicovering Crochet"
-date: 2025-08-12
+title: Dicovering Crochet
+date: 2025-08-11T20:27:34.653Z
 collection: posts
 author_profile: false
 permalink: /posts/2024/10/hooked-on-crochet/
@@ -9,7 +9,7 @@ tags:
   - Crochet
 categories:
   - Hobby
-  - Crochet
+draft: true
 ---
 
 I never thought I’d have the patience for something as intricate as crochet — yet here I am, completely hooked.  

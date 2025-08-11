@@ -1,5 +1,5 @@
 ---
-title: 'Notes on fiber in diet'
+title: Notes on fiber in diet
 date: 2025-12-07
 permalink: /posts/2025/12/dietary-fiber-in-food/
 tags:
@@ -8,6 +8,7 @@ tags:
   - GutMicrobiota
 categories:
   - Research Notes
+draft: true
 ---
 
 Draft of a post outlining what dietary fibers are and how they affect the microbiome!
