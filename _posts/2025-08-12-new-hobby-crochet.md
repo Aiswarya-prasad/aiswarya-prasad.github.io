@@ -22,12 +22,12 @@ Below are some of my first projects:
 ---
 
 ### 👜 Granny Square Pouch  
-I loved this [book](https://www.amazon.com/Ultimate-Granny-Square-Sourcebook-Contemporary/dp/9491643290), for its explanation of the basics as well as the pretty patterns. I made the *Spring Square* pattern — beginner-friendly and fun.  
+I loved this [book](https://www.amazon.com/Ultimate-Granny-Square-Sourcebook-Contemporary/dp/9491643290), for its explanation of the basics as well as the pretty patterns. I made the *Spring Square* pattern which I found beginner-friendly and fun for all the color variation.
 
-I realized that granny squares are a great way to start crocheting: simple, repetitive, and a great way to practice different stitches. While they’re often used for larger projects like blankets or cardigans, I wanted something smaller but more useful than coasters (I consider too special to get dirty). I crocheted two squares together with single crochet and added a drawstring for closure.
+Through this project I realized that granny squares are a great way to start crocheting! They are a great way to practice different stitches while still making something pretty. Most granny square projects out there are big like blankets or cardigans which involve making 20+ squares. I wanted something small and quick but more useful than coasters (which are too pretty to get dirty). So I made two granny squared and single crocheted them into a pouch and added a drawstring.
 
-![First Granny Square](/images/posts/crochet/FirstGranny.HEIC)  
-![Granny Square Pouch](/images/posts/crochet/GrannyPouch.JPG)
+![My First Granny Square](/images/posts/crochet/FirstGranny.HEIC)  
+![My Granny Square Pouch](/images/posts/crochet/GrannyPouch.JPG)
 
 ---
 
