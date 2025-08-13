@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Interests
+<!-- ## Research Interests -->
 
 My research focuses on the bacterial diversity and ecology of animal gut microbiomes. I’m particularly excited by how modern sequencing and bioinformatics enable questions that were nearly impossible to tackle a decade ago.
 
