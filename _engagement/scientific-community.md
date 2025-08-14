@@ -36,7 +36,7 @@ Helped plan and coordinate a department-wide scientific retreat, fostering inter
 *May 2023*  \
 Participated in evaluation and discussion of candidates for faculty recruitment.
 
-**BC2 Basel Computational** - Workshop Evaluation Committee—Biology Conference \
+**BC2 Basel Computational** - Workshop Evaluation Committee \
 *Jan 2023*  \
 Reviewed and helped select workshops and tutorials for inclusion in the conference program.
 
