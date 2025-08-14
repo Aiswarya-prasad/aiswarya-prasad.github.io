@@ -8,6 +8,10 @@ end_year: 2024
 permalink: /engagement/scientificcommunity
 ---
 
+Overview of involvement in peer review, community standards, and academic service. [See more...](/engagement/scientificcommunity)
+
+---
+
 ### Scientific Standards & Open Resources
 
 **[Methods in Microbiomics](https://methods-in-microbiomics.readthedocs.io/en/latest/comparative_genomics/SNVs_metagenomics.html)** - Contributor \
