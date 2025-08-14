@@ -12,7 +12,7 @@ Overview of involvement in peer review, community standards, and academic servic
 
 ---
 
-### Scientific Standards & Open Resources
+## Scientific Standards & Open Resources
 
 **[Methods in Microbiomics](https://methods-in-microbiomics.readthedocs.io/en/latest/comparative_genomics/SNVs_metagenomics.html)** - Contributor \
 *Jan 2024* \
@@ -26,7 +26,7 @@ Peer Review
 
 ---
 
-### Committee & Organizational Roles
+## Committee & Organizational Roles
 
 **DMF Annual Science Retreat** - Organizing Committee \
 *Sep 2023* \
