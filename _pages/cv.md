@@ -53,7 +53,7 @@ Project Cellfiefuge: Auto-inducing and auto-aggregating bacteria
 
 ## Publications
 
-<!-- **Prasad, A.**, Pallujam A. D., _et al._ (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *Nature communications*, [In Press] -->
+**Prasad, A.**, Pallujam A. D., _et al._ (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *Nature communications*, **(In Press)**
 
 **Mazel, F., Prasad, A.**, & Engel, P. (2025). Host specificity of gut microbiota associated with social bees. *Microbiology and Molecular Biology Reviews*, e00080-23. [DOI](https://doi.org/10.1128/mmbr.00080-23)
 
@@ -63,7 +63,7 @@ Project Cellfiefuge: Auto-inducing and auto-aggregating bacteria
 
 **Baud, G. L., Prasad, A.**, et al. (2023). Turnover of strain-level diversity modulates functional traits in the honeybee gut. *Genome Biology*, [DOI](https://doi.org/10.1186/s13059-023-03131-4)
 
-**Sarton-Lohéac, G., ..., Prasad, A.**, et al. (2023). Deep divergence of gut symbionts in stingless bees. *mBio*, [DOI](https://doi.org/10.1128/mbio.03538-22)
+**Sarton-Lohéac, G., ..., Prasad, A.**, et al. (2023). Deep divergence and genomic diversification of gut symbionts of neotropical stingless bees. *mBio*, [DOI](https://doi.org/10.1128/mbio.03538-22)
 
 **Beal, J., Dwijayanti, A., ... with the iGEM Interlab Study Contributors (incl. Prasad, A.)** (2018). Quantification of bacterial fluorescence using calibrants. *PLOS One*, [DOI](https://doi.org/10.1371/journal.pone.0199432)
 
