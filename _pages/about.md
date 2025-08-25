@@ -38,7 +38,7 @@ Scientific Talk [featured below](#Featured) • More on my [research](/research)
 ### 🔍 Consulting Society, EPFL  
 Led a student consulting team advising a bacterial diagnostics startup. Mentored three new members on junior projects, two of them were subsequently staffed on client-facing projects.
 
-[Slides](/files/AP-TCS-Presentation.pdf) from my Junior project on GHG mitigation in agriculture.
+[Recommendation](https://www.linkedin.com/in/aiswarya--prasad/#:~:text=Recommendations,Recommendations) received from client upon project completion.
 
 <!-- --- -->
 
