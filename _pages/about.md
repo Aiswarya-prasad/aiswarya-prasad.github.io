@@ -8,9 +8,9 @@ redirect_from:
 fmContentType: default
 ---
 
-While drafting the introduction to my PhD thesis, I found myself reflecting on how far microbiology has come since Anton van Leeuwenhoek’s first glimpse of the microbial world. For centuries, bacteria remained largely mysterious. Today, we’ve identified tens of thousands of species and can engineer them with remarkable precision.
+While drafting the introduction to my PhD thesis, I found myself reflecting on how far microbiology has come since Anton van Leeuwenhoek’s first glimpse of the microbial world. For centuries, bacteria remained largely mysterious. Today, we can engineer microbes and molecules with remarkable precision.
 
-This rapid progress has enabled applications across sectors: developing new medicines, breaking down plastic waste, fixing nitrogen for agriculture, and generating food from greenhouse gases. It's a powerful reminder of how fundamental science can translate into real-world solutions.
+This rapid progress has enabled applications ranging from developing new medicines and treatments, to generating food from waste products. It's a powerful reminder of how fundamental science can enable real-world solutions.
 
 I belive now is the time of need for scientifically trained thinkers to connect deep technical insight with strategy and execution. I’m particularly seeking roles that bridge life science and strategy, and helping innovation move from the lab into the world.
 
