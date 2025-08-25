@@ -75,4 +75,5 @@ It was a great way to practice plenty of single and double crochets and get comf
 
 <div class="gallery">
   <img src="/images/posts/crochet/HombreScarf-WIP.JPG" alt="Ombré scarf work in progress">
+  <img src="/images/posts/crochet/HombreScarf.jpg" alt="Ombré scarf completed">
 </div>
