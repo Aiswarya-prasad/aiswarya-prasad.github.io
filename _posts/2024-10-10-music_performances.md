@@ -1,5 +1,5 @@
 ---
-title: Music performances
+title: South Indian Carnatic Music
 date: 2024-10-10
 collection: posts
 author_profile: false
@@ -15,9 +15,11 @@ draft: false
 ---
 
 
-I’ve been learning Carnatic music since I was a child—with varying levels of dedication through my school years. Around 2018, while pursuing my undergraduate studies in Bangalore, I developed a deeper appreciation for the art and resumed formal training. Since then, I’ve enjoyed listening, practicing, and performing at local events and contests.
+I’ve been learning Carnatic music since childhood — albeit with varying levels of commitment through my school years. Around seven years ago, while pursuing my undergraduate studies in Bangalore, I developed a deeper appreciation for the art and resumed formal training. Since then, I’ve enjoyed listening, practicing, and performing at local events and contests.
 
-Here are a few recordings from the past few years. Many of these would not have been possible without the collaboration and encouragement of several talented friends. I’ll be adding more details about each song and artist soon.
+I owe my ability to appreciate and perform this art entirely to my wonderful teachers as well as the many talented artists whose music continues to inspire millions. I am deeply grateful to Smt. Lakshmi Krishnaswamy, who helped me set out on the path to learning this form and guided me throughout my childhood, Smt. Swathi Gurikar, who nurtured my learning during my time in Bangalore, and most recently, Smt. Malvika Rajagopal, whose guidance continues to shape my journey. I also remain indebted to other teachers from whom I have had the privilege of learning, even if only briefly.
+
+Here are a few recordings from the past few years. Many of these would not have been possible without the collaboration and encouragement of several talented friends.
 
 ## 🎵 Pakkala Nilabadi (Ragam: Karaharapriya)
 
