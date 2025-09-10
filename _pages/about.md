@@ -47,3 +47,5 @@ Led a student consulting team advising a bacterial diagnostics startup. Mentored
 ## Featured
 
 <iframe src="https://cassyni.com/embed/events/MiMvAGXxaxTMCvZ75uqhpy" title="Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach - presented by Aiswarya Prasad (Cassyni)" frameBorder="0" scrolling="no" style="width:100%;height:100%;aspect-ratio:16/9;max-width:100%" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+
