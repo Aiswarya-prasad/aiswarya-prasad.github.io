@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bridging Science and Impact"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -8,11 +8,11 @@ redirect_from:
 fmContentType: default
 ---
 
-While drafting the introduction to my PhD thesis, I found myself reflecting on how far microbiology has come since Anton van Leeuwenhoek’s first glimpse of the microbial world. For centuries, bacteria remained largely mysterious. Today, we can engineer microbes and molecules with remarkable precision.
+## Bridging Science and Impact
 
-This rapid progress has enabled applications ranging from developing new medicines and treatments, to generating food from waste products. It's a powerful reminder of how fundamental science can enable real-world solutions.
+I found myself reflecting on how far microbiology has come since "Anton van Leeuwenhoek’s first glimpse of the microbial world" as I was drafting the introduction to my PhD thesis. For centuries, bacteria remained largely mysterious. Today, we can engineer microbes and molecules with remarkable precision. This rapid progress in our understanding of biology has enabled applications ranging from developing new medicines and treatments, to generating food from waste products.
 
-I belive now is the time of need for scientifically trained thinkers to connect deep technical insight with strategy and execution. I’m particularly seeking roles that bridge life science and strategy, and helping innovation move from the lab into the world.
+I belive that now more than ever, the world needs scientific experts and creative thinkers who can bridge deep technical insight with strategy and execution. I am particularly motivated to pursue roles that connect life sciences with strategy, helping innovation move from experiments in the lab to products and services that people can benefit from.
 
 ---
 
