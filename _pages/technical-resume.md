@@ -7,7 +7,9 @@ redirect_from:
   - /technical-resume
 ---
 
-{% include base_path %}
+See PDF version [here](/files/AiswaryaPrasad_industry_resume.pdf).
+
+<!-- {% include base_path %}
 
 > PhD candidate in Quantitative Biology with expertise in microbiome research, bioinformatics, and hands-on lab experience. Strong focus on microbiome ecology, metagenomics, and diverse next-generation sequencing (NGS) approaches. Proven track record in leading multi-disciplinary research projects and international collaboration. Seeking opportunities to leverage my skills in a challenging innovation-focused role.
 
@@ -79,4 +81,4 @@ Moderator, Health & Medical Data Privacy Committee
 _iGEM India BIOSUMMIT (Remote) | JUL 2020_
 
 iGEM Delegate, United Nations Convention on Biological Diversity
-_Sharm El-Sheikh, Egypt | NOV 2018_
+_Sharm El-Sheikh, Egypt | NOV 2018_ -->

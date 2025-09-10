@@ -8,5 +8,5 @@ redirect_from:
   - /consulting-resume
 ---
 
-{% include base_path %}
+See PDF version [here](files/AiswaryaPrasad_consulting_CV.pdf).
 
