@@ -18,7 +18,7 @@ I belive that now more than ever, the world needs scientific experts and creativ
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="/cv#publications" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📚 Publications</a>
-  <a href="/files/AiswaryaPrasad_industry_CV.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📄 Industry CV</a>
+  <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📄 Industry resume</a>
   <!-- <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">🧪 Technical Resume</a> -->
   <a href="/files/AiswaryaPrasad_consulting_CV.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📊 Consulting CV</a>
 </div>
