@@ -59,25 +59,66 @@ Scientific Talk [featured below](#Featured) • More on my [research](/research)
     ### Tab 2 Title
     Content for Tab 2.
 
-## Featured {.tabset}
+<style>
+.tabs { margin-top: 1rem; }
+.tab-links { list-style: none; display: flex; gap: 8px; padding: 0; margin: 0 0 8px; flex-wrap: wrap; }
+.tab-links a { display: inline-block; padding: 8px 12px; background: #f5f5f5; border: 1px solid #ddd; border-bottom: none; border-radius: 8px 8px 0 0; text-decoration: none; font-weight: 600; }
+.tab-links a[aria-selected="true"] { background: #fff; }
+.tab { display: none; border: 1px solid #ddd; border-radius: 0 8px 8px 8px; padding: 1rem; background: #fff; }
+.tab.active { display: block; }
+</style>
 
+<div class="tabs">
+  <ul class="tab-links" role="tablist">
+    <li><a href="#t1" role="tab" aria-controls="t1" aria-selected="true">Nucleate Switzerland</a></li>
+    <li><a href="#t2" role="tab" aria-controls="t2">PhD Defense</a></li>
+    <li><a href="#t3" role="tab" aria-controls="t3">Talk</a></li>
+  </ul>
+
+  <div id="t1" class="tab active" markdown="1">
 ### Nucleate Switzerland - Wrapping up Activator cycle 2024-25
 
 <img src="/images/engagement/NucleateSwitzerland.jpeg" alt="Nucleate Switzerland Leadership, Mentors, Experts and Activator Cohort 2024-25" style="width:100%;max-width:800px;margin-top:10px;margin-bottom:10px;" width="800" height="533">
+  </div>
 
+  <div id="t2" class="tab" markdown="1">
 ### Celebrating a successful PhD defense!
 
-July 3rd, 2025 marked the end of an incredible journey as I successfully defended my PhD thesis titled "Ecology and Evolution of Gut Microbiota in Honeybees". It was a day filled with sharing my joy, gratitude and pride with family, friends and collegues.
+July 3rd, 2025 marked the end of an incredible journey as I successfully defended my PhD thesis titled "Ecology and Evolution of Gut Microbiota in Honeybees". It was a day filled with sharing my joy, gratitude and pride with family, friends and collegues. Insights and Reflections [here](/posts/2025/10/phd-defense-celebration-insights-and-reflections/).
+
+<!-- [Thesis available here.](https://infoscience.epfl.ch/record/298354) -->
 
 <div class="gallery">
   <img src="/images/PhDDefense1.jpg" alt="PhD Defense Celebration 1" style="width:100%;max-width:300px;margin:5px;" width="300" height="200">
   <img src="/images/PhDDefense2.jpg" alt="PhD Defense Celebration 2" style="width:100%;max-width:300px;margin:5px;" width="300" height="200">
   <img src="/images/PhDDefense3.jpg" alt="PhD Defense Celebration 3" style="width:100%;max-width:300px;margin:5px;" width="300" height="200">
 </div>
+  </div>
 
-
+  <div id="t3" class="tab" markdown="1">
 ### Talk - PhD research
 
 <iframe src="https://cassyni.com/embed/events/MiMvAGXxaxTMCvZ75uqhpy" title="Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach - presented by Aiswarya Prasad (Cassyni)" frameBorder="0" scrolling="no" style="width:100%;height:100%;aspect-ratio:16/9;max-width:100%" allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  </div>
+</div>
+
+<script>
+const links = document.querySelectorAll('.tab-links a');
+const tabs  = document.querySelectorAll('.tab');
+
+links.forEach(link => {
+  link.addEventListener('click', e => {
+    e.preventDefault();
+    // toggle link state
+    links.forEach(a => a.setAttribute('aria-selected','false'));
+    link.setAttribute('aria-selected','true');
+    // toggle panels
+    tabs.forEach(t => t.classList.remove('active'));
+    const target = document.querySelector(link.getAttribute('href'));
+    if (target) target.classList.add('active');
+  });
+});
+</script>
+
 
 
