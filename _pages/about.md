@@ -50,6 +50,7 @@ Recently completed a PhD on gut microbiome ecology and evolution at the Universi
 
 Scientific Talk [featured below](#Featured) • More on my [research](/research)
 
+## Featured
 
 <!-- --- -->
 
