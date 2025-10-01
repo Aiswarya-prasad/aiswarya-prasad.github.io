@@ -20,13 +20,14 @@ no exposure or context. <br>
 
 This space is my attempt to share a bit of that, and a bit more. <br> -->
 
+[Sort by year](/year-archive-all/)
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  <h1 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
