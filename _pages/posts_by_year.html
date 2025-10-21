@@ -1,18 +1,33 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts by year"
+title: "My Interests and Reflections"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
+
+<hr />
+
+<h2>About This Space</h2>
+
+This page is still in the making, is an exercise in organizing and reflecting on my interests, while creating a space to
+share them with others who might enjoy the same things. <br>
+
+<br>
+
+Sort by: <a href="/year-archive/"
+  style="text-decoration: none; font-size: 0.75rem; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #ffffff; padding: 4px 4px; border-radius: 4px; flex: 1 1 auto; text-align: center;">year</a>
+<a href="/categories/"
+  style="text-decoration: none; font-size: 0.75rem; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #ffffff; padding: 4px 4px; border-radius: 4px; flex: 1 1 auto; text-align: center;">tag</a>
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    <h2 id="{{ year | slugify }}" class="archive__title">{{ year }}</h2>
+    <hr />
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}

@@ -11,7 +11,7 @@ tags:
     - Precision Medicine
     - Industry trends
 categories:
-    - Research notes
+    - Research Notes
 author_profile: false
 redirect_from: []
 draft: true

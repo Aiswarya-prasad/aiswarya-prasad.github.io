@@ -9,6 +9,7 @@ tags:
   - Everyday
   - Rice
 categories:
-  - Everyday Recipe
+  - Recipe
+  # - Everyday Recipe
 draft: true
 ---

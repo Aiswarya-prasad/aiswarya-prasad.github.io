@@ -1,14 +1,24 @@
 ---
 layout: archive
 permalink: /categories/
-title: "My Hobbies and Interests"
+title: "My Interests and Reflections"
 author_profile: true
 ---
  
+
+<hr />
+
 <h2>About This Space</h2>
 
 This page is still in the making, is an exercise in organizing and reflecting on my interests, while creating a space to
 share them with others who might enjoy the same things. <br>
+
+<br>
+
+Sort by: <a href="/year-archive/"
+  style="text-decoration: none; font-size: 0.75rem; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #ffffff; padding: 4px 4px; border-radius: 4px; flex: 1 1 auto; text-align: center;">year</a>
+<a href="/categories/"
+  style="text-decoration: none; font-size: 0.75rem; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #ffffff; padding: 4px 4px; border-radius: 4px; flex: 1 1 auto; text-align: center;">tag</a>
 
 <!-- Over the past few years, topics like <i>gut microbes</i> (wip), <i>South Indian cooking</i>, <i>Carnatic music</i>, <i>crocheting</i>, or recent
 travel stories keep finding their way into my conversations. I love these chats leave someone else just more curious and excited as I am. -->
@@ -20,14 +30,14 @@ no exposure or context. <br>
 
 This space is my attempt to share a bit of that, and a bit more. <br> -->
 
-[Sort by year](/year-archive-all/)
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h1 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  <h2 id="{{ category | slugify }}" class="archive__title">{{ category }}</h2>
+  <hr />
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}

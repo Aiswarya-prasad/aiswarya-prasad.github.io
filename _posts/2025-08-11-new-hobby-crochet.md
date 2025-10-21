@@ -14,18 +14,30 @@ categories:
 draft: false
 ---
 
+I never thought I’d have the patience for something as intricate as crochet — now here I am, completely hooked.
+
+It’s the perfect mix of creativity (colors, patterns, endless possibilities), challenge (learning new stitches, reading patterns, building speed), and relaxation (counting stitches, working row by row).
+  
+Here are my first projects!
+
 <style>
   .gallery{display:grid;grid-template-columns:1fr;gap:14px;margin:12px 0 20px}
   @media(min-width:700px){.gallery{grid-template-columns:repeat(2,1fr)}}
   .gallery img{width:100%;height:280px;object-fit:cover;border-radius:6px}
 </style>
 
-I never thought I’d have the patience for something as intricate as crochet — now here I am, completely hooked.
-It’s the perfect mix of creativity (colors, patterns, endless possibilities), challenge (learning new stitches, reading patterns, building speed), and relaxation (counting stitches, working row by row).
-
-Below are some of my first projects:
 
 ---
+
+### Fall decoration
+
+I never did not jump into another seasonal project after the winter scarf (first project - bold choice...) that I started in fall and only finished in time for summer. But this fall I got tempted into doing something for the season after I heard about this cute pumpkin [pattern](https://www.etsy.com/listing/923941403/digital-crochet-pattern-pumpkin-english?ref=shop_home_feat_4&bes=1&sts=1&dd=1&logging_key=4767ee258a68ecc33ab4acdaba13ffd950046e41%3A923941403) from my mother-in-law!
+
+<div class="gallery">
+  <img src="/images/posts/crochet/PumpkinProgress.jpg" alt="Work-in-progress pumpkin">
+  <img src="/images/posts/crochet/Pumpkin.jpg" alt="Completed pumpkin">
+  <img src="/images/posts/crochet/PumpkinDisplay.jpg" alt="Pumpkin fall display">
+</div>
 
 ### 👶 Baby Gifts
 

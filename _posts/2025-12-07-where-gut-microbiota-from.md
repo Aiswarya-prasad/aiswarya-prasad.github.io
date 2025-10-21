@@ -6,7 +6,7 @@ tags:
   - Research
   - Gut Microbiota
 categories:
-  - MYcrobiota
+  - Research Notes
 draft: true
 ---
 

@@ -8,7 +8,8 @@ tags:
   - Snack
   - Vegan
 categories:
-  - South Indian Recipe
+  - Recipe
+  # - South Indian Recipe
 draft: true
 ---
 

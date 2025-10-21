@@ -1,0 +1,34 @@
+/* Want to make read more smaller */
+
+.archive__item-excerpt a {
+    font-size: 0.85em;
+    /* smaller than body text */
+    font-weight: normal;
+    /* remove bold if too heavy */
+    color: #08306b;
+    /* optional: match your link style */
+}
+
+.archive__item-excerpt a {
+    font-weight: normal;
+    /* prevents extra bolding */
+}
+
+/* Want links to have darker blue and no underline */
+
+/* Global link styles */
+a {
+    color: #08306b;
+    /* main link color */
+    font-weight: bold;
+    text-decoration: none !important;
+    /* force no underline */
+    /* text-decoration: underline; */
+}
+
+a:hover,
+a:focus {
+    color: #0056b3;
+    /* hover/focus color */
+    text-decoration: underline;
+}

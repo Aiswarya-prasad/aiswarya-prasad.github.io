@@ -53,7 +53,7 @@ Project Cellfiefuge: Auto-inducing and auto-aggregating bacteria
 
 ## Publications
 
-**Prasad, A.**, Pallujam A. D., _et al._ (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *Nature communications*, **(In Press)**
+**Prasad, A.**, Pallujam A. D., _et al._ (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *Nature Communications* [DOI](https://doi.org/10.1038/s41467-025-64115-5)
 
 **Mazel, F., Prasad, A.**, & Engel, P. (2025). Host specificity of gut microbiota associated with social bees. *Microbiology and Molecular Biology Reviews*, e00080-23. [DOI](https://doi.org/10.1128/mmbr.00080-23)
 
