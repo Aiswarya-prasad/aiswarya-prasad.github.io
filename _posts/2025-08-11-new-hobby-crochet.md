@@ -31,7 +31,7 @@ Here are my first projects!
 
 ### Fall decoration
 
-I never did not jump into another seasonal project after the winter scarf (first project - bold choice...) that I started in fall and only finished in time for summer. But this fall I got tempted into doing something for the season after I heard about this cute pumpkin [pattern](https://www.etsy.com/listing/923941403/digital-crochet-pattern-pumpkin-english?ref=shop_home_feat_4&bes=1&sts=1&dd=1&logging_key=4767ee258a68ecc33ab4acdaba13ffd950046e41%3A923941403) from my mother-in-law!
+I never did jump into another seasonal project after the winter scarf (first project - bold choice...) that I started in fall and only finished in time for summer. But this fall I got tempted into doing something for the season after I heard about this cute pumpkin [pattern](https://www.etsy.com/listing/923941403/digital-crochet-pattern-pumpkin-english?ref=shop_home_feat_4&bes=1&sts=1&dd=1&logging_key=4767ee258a68ecc33ab4acdaba13ffd950046e41%3A923941403) from my mother-in-law!
 
 <div class="gallery">
   <img src="/images/posts/crochet/PumpkinProgress.jpg" alt="Work-in-progress pumpkin">
