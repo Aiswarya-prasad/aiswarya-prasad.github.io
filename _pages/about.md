@@ -18,8 +18,8 @@ This rapid progress and growth in opportunity means that now more than ever, we 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="/cv#publications" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📚 Publications</a>
-  <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📄 Industry resume</a>
-  <!-- <a href="/files/AiswaryaPrasad_industry_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">🧪 Technical Resume</a> -->
+  <a href="/files/AiswaryaPrasad_technical_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📄 Technical resume</a>
+  <!-- <a href="/files/AiswaryaPrasad_technical_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">🧪 Technical Resume</a> -->
   <a href="/files/AiswaryaPrasad_business_CV.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📊 Business-style CV</a>
 </div>
 
