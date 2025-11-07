@@ -31,10 +31,10 @@ This rapid progress and growth in opportunity means that now more than ever, we 
 ### Current
 
 ### 🧬 Nucleate — Manager, Activator Operations  
-I volunteer as part of the HQ team at [Nucleate](https://nucleate.org/), a global non-profit that supports academic founders building biotech ventures. I help develop internal playbooks and conduct leadership training and facilatate knowledge exchange streamlining infrastructure and operations for Nucleate's flagship Activator program across 18 global chapters.
+I volunteer as part of the HQ team at [Nucleate](https://nucleate.org/), a global non-profit that supports academic founders building biotech ventures. I help develop internal playbooks and leadership training to facilatate knowledge exchange and streamline infrastructure and operations for Nucleate's flagship Activator program across 17 global chapters.
 
-### GIVC Startup Externship
-Currently working with a [biotech startup](https://www.doubleblindbio.co) as a [Girls Into VC (GIVC)](https://www.girlsintovc.com/) Startup Extern. The startup is focused on developing an AI solution to streamline clinical trials.
+### Double Blind Bio Startup Externship
+Currently working with a [biotech startup](https://www.doubleblindbio.co) as a [GIVC](https://www.girlsintovc.com/) Startup Extern. The startup is focused on developing an AI solution to streamline clinical trials.
 
 ---
 
