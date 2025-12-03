@@ -53,19 +53,23 @@ Project Cellfiefuge: Auto-inducing and auto-aggregating bacteria
 
 ## Publications
 
-**Prasad, A.**, Pallujam A. D., _et al._ (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *Nature Communications* [DOI](https://doi.org/10.1038/s41467-025-64115-5)
+**Prasad, A.**, _et al._ (2025). Priority effects determine community composition at the strain level in the honeybee gut microbiota. (In Review) *bioRxiv* [DOI](https://doi.org/10.1101/2025.11.22.689826)
 
-**Mazel, F., Prasad, A.**, & Engel, P. (2025). Host specificity of gut microbiota associated with social bees. *Microbiology and Molecular Biology Reviews*, e00080-23. [DOI](https://doi.org/10.1128/mmbr.00080-23)
+Haag, K. L., ..., **Prasad, A.**,  _et al._ (2025). Gut microbiota variation across sympatric stingless bee species and honey bees in the Neotropics. (In Review) *bioRxiv* [DOI](https://doi.org/10.1101/2025.11.29.691224)
 
-**Somerville, V., Prasad, A.**, et al. (2025). Strain-level and phenotypic stability contrasts with plasmid and phage variability in water kefir. *bioRxiv*, [In Review](https://doi.org/10.1101/2025.02.27.640646)
+**Prasad, A.**, _et al._ (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *Nature Communications* [DOI](https://doi.org/10.1038/s41467-025-64115-5)
 
-**Prasad, A.**, Pallujam A. D., _et al._ (2024). Symbiont loss and gain, rather than co-diversification, shapes honeybee gut microbiota. *bioRxiv*, [In Review](https://doi.org/10.1101/2024.09.11.612390)
+Mazel, F.,**Prasad, A.**, & Engel, P. (2025). Host specificity of gut microbiota associated with social bees. *Microbiology and Molecular Biology Reviews*, e00080-23. [DOI](https://doi.org/10.1128/mmbr.00080-23)
 
-**Baud, G. L., Prasad, A.**, et al. (2023). Turnover of strain-level diversity modulates functional traits in the honeybee gut. *Genome Biology*, [DOI](https://doi.org/10.1186/s13059-023-03131-4)
+Somerville, V., **Prasad, A.**, _et al._ (2025). Strain-level and phenotypic stability contrasts with plasmid and phage variability in water kefir. (In Review) *bioRxiv* [DOI](https://doi.org/10.1101/2025.02.27.640646)
 
-**Sarton-Lohéac, G., ..., Prasad, A.**, et al. (2023). Deep divergence and genomic diversification of gut symbionts of neotropical stingless bees. *mBio*, [DOI](https://doi.org/10.1128/mbio.03538-22)
+**Prasad, A.**, Pallujam, A. D., _et al._ (2024). Symbiont loss and gain, rather than co-diversification, shapes honeybee gut microbiota. *bioRxiv*, [DOI](https://doi.org/10.1101/2024.09.11.612390)
 
-**Beal, J., Dwijayanti, A., ... with the iGEM Interlab Study Contributors (incl. Prasad, A.)** (2018). Quantification of bacterial fluorescence using calibrants. *PLOS One*, [DOI](https://doi.org/10.1371/journal.pone.0199432)
+**Baud, G. L., Prasad, A.**, _et al._ (2023). Turnover of strain-level diversity modulates functional traits in the honeybee gut. *Genome Biology*, [DOI](https://doi.org/10.1186/s13059-023-03131-4)
+
+Sarton-Lohéac, G., ..., **Prasad, A.**, _et al._ (2023). Deep divergence and genomic diversification of gut symbionts of neotropical stingless bees. *mBio*, [DOI](https://doi.org/10.1128/mbio.03538-22)
+
+Beal, J., Dwijayanti, A., ..., **iGEM Interlab Study Contributors (incl. Prasad, A.)** (2018). Quantification of bacterial fluorescence using calibrants. *PLOS One*, [DOI](https://doi.org/10.1371/journal.pone.0199432)
 
 ---
 
