@@ -1,9 +1,9 @@
 ---
 title: "Personal Finance Interface on Airtable"
-date: 2025-12-20
+date: 2026-04-20
 collection: posts
 author_profile: false
-permalink: /posts/2025/12/personal-finance-interface-on-airtable/
+permalink: /posts/2026/04/personal-finance-interface-on-airtable/
 tags:
   - Project
   - Personal Finance
