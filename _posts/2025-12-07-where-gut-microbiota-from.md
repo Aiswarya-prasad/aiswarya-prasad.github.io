@@ -10,6 +10,8 @@ categories:
 draft: true
 ---
 
+## Work in Progress
+
 I have been studying gut microbiota for about six years now. I often find myself enjoying talking with people outside the scientific community who are excited to hear more about this topic but too often come across articles and videos that could use more fact-checking! To keep myself updated and share the excitement, I've decided to write simple and accessible summaries of interesting papers and emerging applications I encounter. This post is about a paper that looked at the microbiomes in a group of 53 elderly people in Finland, examining whether environmental microbes might be found or not to establish themselves in our skin, mouth or gut microbiome.
 
 
