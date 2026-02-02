@@ -3,7 +3,7 @@ title: "PhD Insights and Reflections"
 date: 2025-12-03T18:27:06.721Z
 collection: posts
 author_profile: false
-permalink: /posts/2025/12/phd-defense-celebration-insights-and-reflections/
+permalink: /posts/2026/04/phd-defense-celebration-insights-and-reflections/
 tags:
   - Projects
   - PhD

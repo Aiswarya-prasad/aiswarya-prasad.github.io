@@ -9,6 +9,7 @@ tags:
   - Vegan
 categories:
   - Recipe
+draft: false
 ---
 
 This is a simple recipe for a delicious South Indian style **Eggplant (aka Brinjal, aka Katthirikkaai)** fry. While it is a great side dish to pair with various South Indian dishes it also works a great way to incorporate eggplants in a meal as side with rice or bread. I have been told by friends who were not fans of eggplants that they enjoyed this dish because of all the other flavors and components that make up the dish. While there are several variations and recipes and videos for authentic versions of this dish, I have adapted this recipe to be simple and accessible to those with a kitchen not particularly equipped for South Indian cooking without compromising its key flavors!
