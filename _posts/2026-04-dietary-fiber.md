@@ -1,7 +1,7 @@
 ---
 title: Notes on fiber in diet
-date: 2025-12-07
-permalink: /posts/2025/12/dietary-fiber-in-food/
+date: 2026-04-07
+permalink: /posts/2026/04/dietary-fiber-in-food/
 tags:
   - Research
   - Nutrition

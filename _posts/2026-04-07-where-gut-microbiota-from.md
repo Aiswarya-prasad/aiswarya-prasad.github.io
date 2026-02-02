@@ -1,6 +1,6 @@
 ---
 title: Do microbes from our environment hitch a ride with us?
-date: 2025-12-07
+date: 2026-04-07
 permalink: /posts/2025/12/where-gut-microbiota-come-from/
 tags:
   - Research

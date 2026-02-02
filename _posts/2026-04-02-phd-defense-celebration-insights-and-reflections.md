@@ -1,6 +1,6 @@
 ---
 title: "PhD Insights and Reflections"
-date: 2025-12-03T18:27:06.721Z
+date: 2026-04-03
 collection: posts
 author_profile: false
 permalink: /posts/2026/04/phd-defense-celebration-insights-and-reflections/

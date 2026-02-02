@@ -29,6 +29,10 @@ Indian Institute of Science, Bangalore, India, _2015 – 2019_
 
 ## Research Experience
 
+**Scientist** - MiDOG LLC / Zymo Research
+_Dec 2025 – Present_
+Microbial diagnostics and microbiome for veterinary health applications
+
 **PhD Candidate** – University of Lausanne  
 _Aug 2020 – Present_  
 Ecology and evolution of the honeybee gut microbiome
@@ -52,6 +56,10 @@ Project Cellfiefuge: Auto-inducing and auto-aggregating bacteria
 ---
 
 ## Publications
+
+Haag, K. L., Stein, L. Q., da Silva, C. G. N., Mazel, F., **Prasad, A.**, & Engel, P. (2025). Gut microbiota variation across sympatric stingless bee species and honey bees in the Neotropics. *bioRxiv* [DOI](https://www.biorxiv.org/content/10.1101/2025.11.29.691224v1)
+
+Moriano-Gutierrez, S., Pirat, A., Chhun, A., **Prasad, A.**, _et al._ (2025). Host and microbial factors influence bacterial colonization of the honey bee gut. *bioRxiv* [DOI](https://www.biorxiv.org/content/10.64898/2025.12.04.691542v1)
 
 **Prasad, A.**, _et al._ (2025). Priority effects determine community composition at the strain level in the honeybee gut microbiota. (In Review) *bioRxiv* [DOI](https://doi.org/10.1101/2025.11.22.689826)
 
