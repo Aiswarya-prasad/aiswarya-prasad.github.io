@@ -1,7 +1,7 @@
 ---
 title: Mediterranean-style Rice Salad
-date: 2025-12-10
-permalink: /posts/2025/12/rice-salad/
+date: 2026-04-10
+permalink: /posts/2026/04/rice-salad/
 tags:
   - Mediterranean
   - Recipe
