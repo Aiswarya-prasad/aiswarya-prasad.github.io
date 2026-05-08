@@ -10,9 +10,13 @@ fmContentType: default
 
 ## Bridging Science and Impact
 
-I'm a quantitative biologist working at the intersection of microbiomics, diagnostics, and strategy. My background is in genomics and microbial ecology the kind of research that asks not just what microbes are present, but what they're doing and why it matters at a systems level.
+## Bridging Science and Impact
 
-What drives me is the gap between scientific insight and real-world impact. The biology is increasingly tractable. The harder problem is moving it from experiments to decisions, products, and systems that people can actually use. That's the work I am excited about and working towards in my current scientist role at MiDOG.
+I'm a quantitative biologist working at the intersection of microbiomics, diagnostics, and scientific strategy. My background is in microbial ecology and metagenomics where I ask not just what microbes are present, but what they're doing and why it matters at a systems level.
+
+What drives me is the gap between scientific insight and real-world impact. The biology is increasingly tractable. The harder problem is moving it from experiments to decisions, products, and systems that people can actually use. That's what I am working towards as a Scientist at MiDOG, building AI-assisted workflows, data systems, and scientific intelligence infrastructure to support diagnostics, deliver client research projects, and enable strategic decision-making.
+
+I'm particularly interested in how AI and automation are reshaping what's possible in biological research and diagnostics and in being part of that transformation.
 
 ---
 
@@ -30,22 +34,24 @@ What drives me is the gap between scientific insight and real-world impact. The 
 
 ### Current
 
-### 🧬 Nucleate — Manager, Activator Operations  
+### 🔬 MiDOG LLC — Scientist
+Growing MiDOG's NGS-based diagnostic system for infectious diseases in veterinary medicine. 
+Leading client research projects end-to-end and developing AI-assisted workflows and systems for scientific and business intelligence.
+
+---
+
+### Nucleate — Manager, Activator Operations  
 I volunteer as part of the HQ team at [Nucleate](https://nucleate.org/), a global non-profit that supports academic founders building biotech ventures. I help develop internal playbooks and leadership training to facilatate knowledge exchange and streamline infrastructure and operations for Nucleate's flagship Activator program across 17 global chapters.
 
 ### Double Blind Bio Startup Externship
 Currently working with a [biotech startup](https://www.doubleblindbio.co) as a [GIVC](https://www.girlsintovc.com/) Startup Extern. The startup is focused on developing an AI solution to streamline clinical trials.
 
----
-
-### Past
-
-### 🔍 Consulting Society, EPFL  
+### Consulting Society, EPFL  
 Led a student consulting team advising a bacterial diagnostics startup. Mentored three new members on junior projects, two of them were subsequently staffed on client-facing projects.
 
 [Recommendation](https://www.linkedin.com/in/aiswarya--prasad/#:~:text=Recommendations,Recommendations) received from client upon project completion.
 
-### 🎓 PhD in Quantitative Biology  
+### PhD in Quantitative Biology  
 Recently completed a PhD on gut microbiome ecology and evolution at the University of Lausanne. My research combined field sampling with comparative metagenomics, and synthetic microbial communities. Or more simply put, I studied how gut bacterial strains evolve and interact in gut microbiomes.
 
 Scientific Talk [featured below](#Featured) • More on my [research](/research)
