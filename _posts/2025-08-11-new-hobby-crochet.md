@@ -29,6 +29,18 @@ Here are my first projects!
 
 ---
 
+### Amigurumi Hornet
+
+Probably my best work yet, inspired by a video game (Silksong) that I have enjoyed (and hated for making me acutely aware of my poor platforming skills). I more or less followed this [pattern](https://www.etsy.com/listing/736322763/crochet-pattern-hollow-knight-hornet-pdf?transaction_id=4766125896&lid=mlwm64r0qy84&campaign_label=order_confirmation&eaid=1416663993978&dispatch_id=68eacc0b2810c2a7036a4200eb72a6d0) that I got from Etsy designed by [Ashe](https://www.1upcrochet.com/).
+
+<div class="gallery">
+  <img src="/images/posts/crochet/Hornet1.jpg" alt="Hornet front profile">
+  <img src="/images/posts/crochet/Hornet2.jpg" alt="Hornet sideish profile">
+  <img src="/images/posts/crochet/Hornet_img.jpg" alt="Hornet from the video game">
+</div>
+
+---
+
 ### Fall decoration
 
 I never did jump into another seasonal project after the winter scarf (first project - bold choice...) that I started in fall and only finished in time for summer. But this fall I got tempted into doing something for the season after I heard about this cute pumpkin [pattern](https://www.etsy.com/listing/923941403/digital-crochet-pattern-pumpkin-english?ref=shop_home_feat_4&bes=1&sts=1&dd=1&logging_key=4767ee258a68ecc33ab4acdaba13ffd950046e41%3A923941403) from my mother-in-law!

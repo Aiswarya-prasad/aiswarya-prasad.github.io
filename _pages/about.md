@@ -10,9 +10,9 @@ fmContentType: default
 
 ## Bridging Science and Impact
 
-As I was drafting the introduction to my PhD thesis, I found myself reflecting on how far microbiology has come since "Anton van Leeuwenhoek’s first glimpse of the microbial world" in the *late 1600s*. For centuries, bacteria remained largely mysterious. Today, we can engineer microbes and molecules with remarkable precision to do all kinds of things ranging from breaking down toxic compounds to making food and fuel. The same goes for our ability to design molecules that could be medicines and diagnose conditions we could not have imagined a few decades ago.
+I'm a quantitative biologist working at the intersection of microbiomics, diagnostics, and strategy. My background is in genomics and microbial ecology the kind of research that asks not just what microbes are present, but what they're doing and why it matters at a systems level.
 
-This rapid progress and growth in opportunity means that now more than ever, we need scientific experts and creative thinkers who can bridge deep technical insight with strategy and execution. I am particularly motivated to pursue roles that connect life sciences with strategy, helping innovation move from experiments in the lab to products and services that people can benefit from.
+What drives me is the gap between scientific insight and real-world impact. The biology is increasingly tractable. The harder problem is moving it from experiments to decisions, products, and systems that people can actually use. That's the work I am excited about and working towards in my current scientist role at MiDOG.
 
 ---
 
