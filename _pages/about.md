@@ -40,19 +40,17 @@ Leading client research projects end-to-end and developing AI-assisted workflows
 
 ---
 
-### Nucleate — Manager, Activator Operations  
-I volunteer as part of the HQ team at [Nucleate](https://nucleate.org/), a global non-profit that supports academic founders building biotech ventures. I help develop internal playbooks and leadership training to facilatate knowledge exchange and streamline infrastructure and operations for Nucleate's flagship Activator program across 17 global chapters.
+### Nucleate — Assistant Manager, Activator Operations
+Streamlined operations across 17 international chapters by building a custom team-matching workflow using python, and Airtable, saving volunteer hours and improving cohort engagement. Designed applicant sourcing playbooks and trained regional leadership teams.
 
-### Double Blind Bio Startup Externship
-Currently working with a [biotech startup](https://www.doubleblindbio.co) as a [GIVC](https://www.girlsintovc.com/) Startup Extern. The startup is focused on developing an AI solution to streamline clinical trials.
+### Double Blind Bio — Consulting Extern, Clinical Data & Insights
+Built Python, SQL, and LLM-based workflows to convert complex data and unstructured documents into concise summaries for BD, marketing, and client-facing materials. Analyzed site-level patient access data to support sponsor-facing business development.
 
-### Consulting Society, EPFL  
-Led a student consulting team advising a bacterial diagnostics startup. Mentored three new members on junior projects, two of them were subsequently staffed on client-facing projects.
+### Consulting Society, EPFL — Consulting Project Manager
+Led a student consulting team on a competitive landscaping and pricing strategy project in clinical diagnostics. Mentored three junior members, two of whom were subsequently staffed on client-facing projects. Received a recommendation from the client upon project completion.
 
-[Recommendation](https://www.linkedin.com/in/aiswarya--prasad/#:~:text=Recommendations,Recommendations) received from client upon project completion.
-
-### PhD in Quantitative Biology  
-Recently completed a PhD on gut microbiome ecology and evolution at the University of Lausanne. My research combined field sampling with comparative metagenomics, and synthetic microbial communities. Or more simply put, I studied how gut bacterial strains evolve and interact in gut microbiomes.
+### PhD in Quantitative Biology — University of Lausanne
+Studied gut microbiome ecology and evolution in honeybees using comparative metagenomics, long-read sequencing, and synthetic microbial communities. Awarded the FBM PhD Fellowship and Mathilde Agassiz Scholarship. Authored 2 publications as first author, co-authored 7 publications and presented research at international conferences.
 
 Scientific Talk [featured below](#Featured) • More on my [research](/research)
 
