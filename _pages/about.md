@@ -17,10 +17,8 @@ I'm particularly interested in how AI and automation are reshaping what's possib
 ---
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
-  <a href="/cv#publications" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📚 Publications</a>
-  <a href="/files/AiswaryaPrasad_technical_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📄 Technical resume</a>
-  <!-- <a href="/files/AiswaryaPrasad_technical_resume.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">🧪 Technical Resume</a> -->
-  <a href="/files/AiswaryaPrasad_business_CV.pdf" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">📊 Business-style CV</a>
+  <a href="/cv#publications" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Publications</a>
+  <a href="/categories/" style="text-decoration: none; color: white; font-weight: bold; background-color: #08306b; border: 1px solid #08306b; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Other Interests</a>
 </div>
 
 <!-- --- -->
@@ -48,7 +46,7 @@ Built Python, SQL, and LLM-based workflows to convert complex data and unstructu
 Led a student consulting team on a competitive landscaping and pricing strategy project in clinical diagnostics. Mentored three junior members, two of whom were subsequently staffed on client-facing projects. Received a recommendation from the client upon project completion.
 
 #### PhD in Quantitative Biology — University of Lausanne
-Studied gut microbiome ecology and evolution in honeybees using comparative metagenomics, long-read sequencing, and synthetic microbial communities. Awarded the FBM PhD Fellowship and Mathilde Agassiz Scholarship. Authored 2 publications as first author, co-authored 7 publications and presented research at international conferences.
+Studied gut microbiome ecology and evolution in honeybees using comparative metagenomics, long-read sequencing, and synthetic microbial communities. Awarded the FBM PhD Fellowship and Mathilde Agassiz Scholarship. Authored 2 publications as first author, co-authored ~7 publications and presented research at international conferences.
 
 Scientific Talk [featured below](#Featured) • More on my [research](/research)
 
