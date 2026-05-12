@@ -30,22 +30,24 @@ I'm particularly interested in how AI and automation are reshaping what's possib
 
 ### Current
 
-### 🔬 MiDOG LLC — Scientist
+#### 🔬 MiDOG LLC — Scientist
 Growing MiDOG's NGS-based diagnostic system for infectious diseases in veterinary medicine. 
 Leading client research projects end-to-end and developing AI-assisted workflows and systems for scientific and business intelligence.
 
 ---
 
-### Nucleate — Assistant Manager, Activator Operations
+### Past
+
+#### Nucleate — Assistant Manager, Activator Operations
 Streamlined operations across 17 international chapters by building a custom team-matching workflow using python, and Airtable, saving volunteer hours and improving cohort engagement. Designed applicant sourcing playbooks and trained regional leadership teams.
 
-### Double Blind Bio — Consulting Extern, Clinical Data & Insights
+#### Double Blind Bio — Consulting Extern, Clinical Data & Insights
 Built Python, SQL, and LLM-based workflows to convert complex data and unstructured documents into concise summaries for BD, marketing, and client-facing materials. Analyzed site-level patient access data to support sponsor-facing business development.
 
-### Consulting Society, EPFL — Consulting Project Manager
+#### Consulting Society, EPFL — Consulting Project Manager
 Led a student consulting team on a competitive landscaping and pricing strategy project in clinical diagnostics. Mentored three junior members, two of whom were subsequently staffed on client-facing projects. Received a recommendation from the client upon project completion.
 
-### PhD in Quantitative Biology — University of Lausanne
+#### PhD in Quantitative Biology — University of Lausanne
 Studied gut microbiome ecology and evolution in honeybees using comparative metagenomics, long-read sequencing, and synthetic microbial communities. Awarded the FBM PhD Fellowship and Mathilde Agassiz Scholarship. Authored 2 publications as first author, co-authored 7 publications and presented research at international conferences.
 
 Scientific Talk [featured below](#Featured) • More on my [research](/research)
