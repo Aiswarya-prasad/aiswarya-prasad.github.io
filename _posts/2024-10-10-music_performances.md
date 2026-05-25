@@ -21,6 +21,14 @@ I owe my ability to appreciate and perform this art entirely to my wonderful tea
 
 Here are a few recordings from the past few years. Many of these would not have been possible without the collaboration and encouragement of several talented friends.
 
+## Snapshots from Tygaraja Aaradhana 2026, organized by SIMA, LA
+
+The group rendition of the Pancharatna Kritis (compositions by the saint-composer Tyagaraja) was a highlight of the event, and it was followed by individual renditions where I sang Dinamani Vamsha (Ragam Harkamboji).
+
+<div class="gallery">
+  <img src="/images/posts/music/IMG_7728.jpg" alt="Carnatic music performance in a group">
+  <img src="/images/posts/music/IMG_7724.jpg" alt="Carnatic music performance">
+</div>
 
 ## 🎵 Pakkala Nilabadi (Ragam: Karaharapriya)
 

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Aiswarya Prasad"
 title_separator          : "-"
 name                     : &name "Aiswarya Prasad"
-description              : &description "Aiswarya Parasad: Personal webpage made by Aiswarya Prasad to document research (gut microbiome, synthetic biology), projects (UN CBD, iGEM) and other interests (Recipe, Cooking, Carnatic Music)."
+description              : &description "Aiswarya Prasad: Scientist at MiDOG LLC. Microbiome diagnostics, NGS, bioinformatics, AI workflows, and life science strategy."
 url                      : https://aiswarya-prasad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aiswarya-prasad/aiswarya-prasad.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "AiswaryaProfilePic24.png"
   name             : "Aiswarya Prasad"
   # pronouns         : "she/her"  
-  bio              : "PhD candidate in Quantitave biology studying gut microbiome evolution and ecology"
-  location         : "Lausanne, Switzerland"
-  employer         : "University of Lausanne"
-  uri              : # URL
-  email            : "aiswarya-prasad1998@gmail.com" 
+  bio              : "Scientist | NGS Diagnostics · Bioinformatics · AI Workflows"
+  location         : "Los Angeles Metropolitan Area, California"
+  employer         : "MiDOG LLC"
+  url              : # URL
+  email            : "aiswarya.prasad1998@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
