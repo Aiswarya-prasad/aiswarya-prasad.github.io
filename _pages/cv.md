@@ -57,11 +57,11 @@ Project Cellfiefuge: Auto-inducing and auto-aggregating bacteria
 
 ## Publications
 
-**Prasad, A.**, _et al._ (2026). Priority effects drive strain-level community composition of honeybee gut microbiota. *The ISME Journal* [DOI](https://doi.org/10.1093/ismejo/wrag056)
+Moriano-Gutierrez, S., Pirat, A., Chhun, A., **Prasad, A.**, _et al._ (2025). Host and microbial factors influence bacterial colonization of the honey bee gut. *The ISME Journal* [DOI](https://doi.org/10.1093/ismejo/wrag127)
 
 Haag, K.L., ..., **Prasad, A.**, _et al._ (2026) Conserved gut microbiomes with cross-species spillover between sympatric Neotropical stingless bees and honey bees *Applied and Environmental Microbiology* [DOI](https://doi.org/10.1128/aem.02483-25)
 
-Moriano-Gutierrez, S., Pirat, A., Chhun, A., **Prasad, A.**, _et al._ (2025). Host and microbial factors influence bacterial colonization of the honey bee gut. *bioRxiv* [DOI](https://www.biorxiv.org/content/10.64898/2025.12.04.691542v1)
+**Prasad, A.**, _et al._ (2026). Priority effects drive strain-level community composition of honeybee gut microbiota. *The ISME Journal* [DOI](https://doi.org/10.1093/ismejo/wrag056)
 
 **Prasad, A.**, _et al._ (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *Nature Communications* [DOI](https://doi.org/10.1038/s41467-025-64115-5)
 

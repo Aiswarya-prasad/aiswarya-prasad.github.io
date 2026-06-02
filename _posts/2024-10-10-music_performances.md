@@ -27,7 +27,7 @@ The group rendition of the Pancharatna Kritis (compositions by the saint-compose
 
 <div class="gallery">
   <img src="/images/posts/music/IMG_7728.jpg" alt="Carnatic music performance in a group">
-  <img src="/images/posts/music/IMG_7724.jpg" alt="Carnatic music performance">
+  <img src="/images/posts/music/IMG_7824.jpg" alt="Carnatic music performance">
 </div>
 
 ## 🎵 Pakkala Nilabadi (Ragam: Karaharapriya)
