@@ -23,6 +23,13 @@ I'm particularly interested in how AI and automation are reshaping what's possib
 
 <!-- --- -->
 
+## Selected Publications
+
+**Prasad, A.**, et al. (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *[Nature Communications](https://doi.org/10.1038/s41467-025-64115-5)*
+
+**Prasad, A.**, et al. (2026). Priority effects drive strain-level community composition of honeybee gut microbiota. *[The ISME Journal](https://doi.org/10.1093/ismejo/wrag056)*
+
+[All publications →](/cv#publications)
 
 # Recent Roles & Initiatives
 

@@ -25,9 +25,9 @@ Here are a few recordings from the past few years. Many of these would not have 
 
 The group rendition of the Pancharatna Kritis (compositions by the saint-composer Tyagaraja) was a highlight of the event, and it was followed by individual renditions where I sang Dinamani Vamsha (Ragam Harkamboji).
 
-<div class="gallery">
-  <img src="/images/posts/music/IMG_7728.jpg" alt="Carnatic music performance in a group">
-  <img src="/images/posts/music/IMG_7824.jpg" alt="Carnatic music performance">
+<div style="display: flex; gap: 12px; justify-content: center; margin: 1rem 0;">
+  <img src="/images/posts/music/IMG_7728.jpg" alt="Carnatic music performance in a group" style="width: 48%; max-width: 360px; height: 260px; object-fit: cover; border-radius: 6px;">
+  <img src="/images/posts/music/IMG_7824.jpg" alt="Carnatic music performance" style="width: 48%; max-width: 360px; height: 260px; object-fit: cover; border-radius: 6px;">
 </div>
 
 ## 🎵 Pakkala Nilabadi (Ragam: Karaharapriya)

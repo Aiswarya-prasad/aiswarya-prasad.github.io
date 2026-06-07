@@ -105,6 +105,18 @@ _2024_
 
 ---
 
+## Skills
+
+**Bioinformatics & Data:** Python, R, Bash, SQL, Snakemake · NGS analysis (Illumina, PacBio long-read, ONT/Nanopore) · Metagenomics pipelines · LC-MS/MS · Airtable · BI dashboards
+
+**AI & Automation:** LLM-based workflow development · Automated report generation · Data cleaning pipelines
+
+**Strategy & Business:** Market research · Competitive landscaping · Pricing strategy · BD materials · Client-facing presentations
+
+**Wet Lab:** Microbiota-free animal colonization · Synthetic microbial communities · Sample collection and processing
+
+---
+
 ## Invited Talks
 
 **The Local Pangenome**  
