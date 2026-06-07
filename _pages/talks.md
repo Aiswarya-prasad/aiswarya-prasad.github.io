@@ -36,7 +36,7 @@ media:
 ## Invited Talks
 
 
-**Microbiome Virtual International Forum - Selected Talk** \\
+**Microbiome Virtual International Forum - Best Selected Talk** \\
 _Nov 2024_ \\
 Online \\
 Evolution and Functional Potential of Gut Microbiota in Honeybees: A Comparative Metagenomic Approach

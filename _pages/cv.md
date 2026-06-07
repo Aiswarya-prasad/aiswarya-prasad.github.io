@@ -34,7 +34,7 @@ _Dec 2025 – Present_
 Microbial diagnostics and microbiome for veterinary health applications
 
 **PhD Candidate** – University of Lausanne  
-_Aug 2020 – Present_  
+_Aug 2020 – Jul 2025_  
 Ecology and evolution of the honeybee gut microbiome
 
 **Master’s Thesis Research** – Indian Institute of Science  
@@ -92,6 +92,16 @@ _2015 – 2020_ — All-India Rank: 335
 
 **iGEM Bronze Medal**  
 _2016_ — Co-founded IISc’s first iGEM team; secured 3 research and travel grants
+
+---
+
+## Certifications
+
+**Airtable Builder Certification**  
+_2024_
+
+**BCG Strategy Consulting Simulation**  
+_2024_
 
 ---
 
