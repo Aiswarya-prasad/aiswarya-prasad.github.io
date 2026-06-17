@@ -95,13 +95,13 @@ _2016_ — Co-founded IISc’s first iGEM team; secured 3 research and travel gr
 
 ## Skills
 
-**Bioinformatics & Data:** Python, R, Bash, SQL, Snakemake · NGS analysis (Illumina, PacBio long-read, ONT/Nanopore) · Metagenomics pipelines · Airtable · BI dashboards
+**Bioinformatics & Data:** Python, R, Bash, SQL, Snakemake · NGS analysis (Illumina, PacBio long-read, ONT/Nanopore) · Metagenomics pipelines · R-Shiny dashboards · Airtable
 
-**AI & Automation:** LLM-based workflow development · Automated report generation · Data cleaning pipelines
+**AI & Automation:** LLM-based workflows · Automated report generation · Data cleaning pipelines
 
 **Strategy & Business:** Market research · Competitive landscaping · Pricing strategy · BD materials · Client-facing presentations
 
-**Wet Lab:** Microbiota-free animal colonization (Honeybees) · Synthetic microbial communities · Sample collection and processing
+**Wet Lab:** Microbiota-free animal colonization (Honeybees) · Synthetic microbial communities · Sample collection and processing for shotgun metagenomics · DNA extraction and library preparation · Automated liquid handling (Opentrons OT-2)
 
 ---
 
@@ -141,7 +141,7 @@ Poster presentation
 
 **Teaching Assistant – SAGE (Sequence A Genome)**  
 _2021 – 2024_  
-Masters-level bioinformatics course
+Masters-level bioinformatics course. Delivered Lecture on Genome Assembly. Guided Student Projects. Contributed to laying out and evaluating assignments. Re-organized course materials into interactive R markdown format.
 
 ---
 
