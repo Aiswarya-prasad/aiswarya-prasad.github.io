@@ -69,8 +69,6 @@ Mazel, F.,**Prasad, A.**, & Engel, P. (2025). Host specificity of gut microbiota
 
 Somerville, V., **Prasad, A.**, _et al._ (2025). Strain-level and phenotypic stability contrasts with plasmid and phage variability in water kefir. (In Review) *bioRxiv* [DOI](https://doi.org/10.1101/2025.02.27.640646)
 
-**Prasad, A.**, Pallujam, A. D., _et al._ (2024). Symbiont loss and gain, rather than co-diversification, shapes honeybee gut microbiota. *bioRxiv*, [DOI](https://doi.org/10.1101/2024.09.11.612390)
-
 **Baud, G. L., Prasad, A.**, _et al._ (2023). Turnover of strain-level diversity modulates functional traits in the honeybee gut. *Genome Biology*, [DOI](https://doi.org/10.1186/s13059-023-03131-4)
 
 Sarton-Lohéac, G., ..., **Prasad, A.**, _et al._ (2023). Deep divergence and genomic diversification of gut symbionts of neotropical stingless bees. *mBio*, [DOI](https://doi.org/10.1128/mbio.03538-22)
@@ -92,16 +90,6 @@ _2015 – 2020_ — All-India Rank: 335
 
 **iGEM Bronze Medal**  
 _2016_ — Co-founded IISc’s first iGEM team; secured 3 research and travel grants
-
----
-
-## Certifications
-
-**Airtable Builder Certification**  
-_2024_
-
-**BCG Strategy Consulting Simulation**  
-_2024_
 
 ---
 
