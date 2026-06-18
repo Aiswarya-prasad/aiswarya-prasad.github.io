@@ -69,11 +69,11 @@ Mazel, F.,**Prasad, A.**, & Engel, P. (2025). Host specificity of gut microbiota
 
 Somerville, V., **Prasad, A.**, _et al._ (2025). Strain-level and phenotypic stability contrasts with plasmid and phage variability in water kefir. (In Review) *bioRxiv* [DOI](https://doi.org/10.1101/2025.02.27.640646)
 
-**Baud, G. L., Prasad, A.**, _et al._ (2023). Turnover of strain-level diversity modulates functional traits in the honeybee gut. *Genome Biology*, [DOI](https://doi.org/10.1186/s13059-023-03131-4)
+**Baud, G. L., Prasad, A.**, _et al._ (2023). Turnover of strain-level diversity modulates functional traits in the honeybee gut. *Genome Biology* [DOI](https://doi.org/10.1186/s13059-023-03131-4)
 
-Sarton-Lohéac, G., ..., **Prasad, A.**, _et al._ (2023). Deep divergence and genomic diversification of gut symbionts of neotropical stingless bees. *mBio*, [DOI](https://doi.org/10.1128/mbio.03538-22)
+Sarton-Lohéac, G., ..., **Prasad, A.**, _et al._ (2023). Deep divergence and genomic diversification of gut symbionts of neotropical stingless bees. *mBio* [DOI](https://doi.org/10.1128/mbio.03538-22)
 
-Beal, J., Dwijayanti, A., ..., **iGEM Interlab Study Contributors (incl. Prasad, A.)** (2018). Quantification of bacterial fluorescence using calibrants. *PLOS One*, [DOI](https://doi.org/10.1371/journal.pone.0199432)
+Beal, J., Dwijayanti, A., ..., **iGEM Interlab Study Contributors (incl. Prasad, A.)** (2018). Quantification of bacterial fluorescence using calibrants. *PLOS One* [DOI](https://doi.org/10.1371/journal.pone.0199432)
 
 ---
 
