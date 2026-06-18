@@ -40,7 +40,7 @@ This research is essential for advancing our understanding of microbiome interac
 
 From this dataset, we recovered thousands of metagenome-assembled genomes (MAGs), including several previously uncharacterized bacterial species. We observed both host-specialist and host-generalist bacterial lineages, with some generalists appearing host-specific only at the strain level—suggesting recent host switching events.
 
-We found no evidence of codiversification between microbes and hosts. Instead, our results support a model of dynamic community turnover driven by symbiont gain, loss, and replacement. These changes were also reflected in functional profiles—for example, variation in genes involved in degrading pollen-derived pectin.
+We found little evidence of codiversification between microbes and hosts. Instead, our results support a model of dynamic community turnover driven by symbiont gain, loss, and replacement. These changes were also reflected in functional profiles—for example, variation in genes involved in degrading pollen-derived pectin.
 
 ---
 
@@ -63,7 +63,9 @@ We found no evidence of codiversification between microbes and hosts. Instead, o
 
 ### Publication
 
-This study has been released as a [preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.11.612390v1) and is currently under peer review.
+This study was released as a [preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.11.612390v1) and has been published with some updates in the following form:
+
+**Prasad, A.**, _et al._ (2025). Evolution of gut microbiota across honeybee species revealed by comparative metagenomics. *Nature Communications* [DOI](https://doi.org/10.1038/s41467-025-64115-5)
 
 
 <!-- Honeybees serve as great model for studying gut microbiota evolution in the context of host ecology and evolution given their well-documented ecology and evolutionary history. Unlike the more diverse microbiomes of humans, primates, and mice, honeybees offer a more tractable system for understanding how gut microbiota are distributed and have evolved. This research is crucial for understanding how symbiotic interactions change and evolve across species but has been hindered by the lack of high-resolution genomic data.
