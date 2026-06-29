@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 
-[Go to Technical Resume instead](/technical-resume/)
-
-[Go to Consulting-style Resume](/consulting-resume/)
-
 {% include base_path %}
 
 ## Education
