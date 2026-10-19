@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Aiswarya Prasad"
 title_separator          : "-"
 name                     : &name "Aiswarya Prasad"
-description              : &description "Aiswarya Prasad: Scientist at MiDOG LLC. Microbiome diagnostics, NGS, bioinformatics, AI workflows, and life science strategy."
+description              : &description "Aiswarya Prasad: Computational Biologist at Barnwell Bio. Microbiome, Diagnostics, NGS, Bioinformatics, AI workflows, and Life science strategy."
 url                      : https://aiswarya-prasad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aiswarya-prasad/aiswarya-prasad.github.io"
@@ -21,12 +21,12 @@ repository               : "Aiswarya-prasad/aiswarya-prasad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AiswaryaProfilePic24.png"
+  avatar           : "AiswaryaProfilePic25.png"
   name             : "Aiswarya Prasad"
   # pronouns         : "she/her"  
-  bio              : "Scientist | NGS Diagnostics · Bioinformatics · AI Workflows"
-  location         : "Los Angeles, California"
-  employer         : "MiDOG LLC"
+  bio              : "Computational Biologist at Barnwell Bio. Microbiome, Diagnostics, NGS, Bioinformatics, AI workflows, and Life science strategy."
+  location         : "Carmel, Indiana, USA"
+  employer         : "Barnwell Bio"
   url              : # URL
   email            : "aiswarya.prasad1998@gmail.com"
 

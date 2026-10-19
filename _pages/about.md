@@ -8,11 +8,9 @@ redirect_from:
 fmContentType: default
 ---
 
-I'm a quantitative biologist working at the intersection of microbiomics, data science, diagnostics, and scientific strategy. My background is in microbial ecology and metagenomics where I ask not just what microbes are present, but what they're doing and why it matters at a systems level.
+I'm a computational biologist working at the intersection of microbiomics, data science, and diagnostics. My background is in microbial ecology and metagenomics where I turn large complex dataset into information about what microbes are present, what they're doing and why it matters at a systems level.
 
-What drives me is the gap between scientific insight and real-world impact. The biology is increasingly tractable. The harder problem is moving it from experiments to decisions, products, and systems that people can actually use. That's what I am working towards as a Scientist at MiDOG, building data systems, and scientific intelligence infrastructure to support diagnostics, deliver client research projects, and enable strategic decision-making.
-
-I'm excited about how AI and automation are reshaping what's possible in biological research and diagnostics and being part of that transformation.
+I work translating scientific data into real-world insight. While biological systems have been getting increasingly tractable, turning data into decisions, products, and systems that people can actually use is a significant challenge to solve. That's what I am working on as a Computational Biologist at Barnwell Bio to enable data-driven decision making in animal health and management.
 
 ---
 
