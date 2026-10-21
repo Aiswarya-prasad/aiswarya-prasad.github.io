@@ -8,9 +8,9 @@ redirect_from:
 fmContentType: default
 ---
 
-I'm a computational biologist working at the intersection of microbiomics, data science, and diagnostics. My background is in microbial ecology and metagenomics where I turn large complex dataset into information about what microbes are present, what they're doing and why it matters at a systems level.
+I work on **translating scientific data into real-world insight**. While biological systems have been getting increasingly tractable, turning data into decisions, products, and systems that people can actually use is a significant challenge to solve. 
 
-I work translating scientific data into real-world insight. While biological systems have been getting increasingly tractable, turning data into decisions, products, and systems that people can actually use is a significant challenge to solve. That's what I am working on as a Computational Biologist at [Barnwell Bio](https://www.barnwellbio.com) to enable data-driven decision making in animal health and management.
+I'm a computational biologist working at the intersection of microbiomics, data science, and diagnostics at [Barnwell Bio](https://www.barnwellbio.com) enabling data-driven decisions that improve animal health and management. My background is in microbial ecology and metagenomics where I turn large complex dataset into information about what microbes are present, what they're doing and why it matters at a systems level.
 
 ---
 
